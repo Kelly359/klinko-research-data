@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 31
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [OpenCore](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/04db7f85cb4e19ff.md) — 1
+- [opencorp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5f79c8e6c885f676.md) — 3
+- [OpenCut](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f7aba88b7e3f0c1f.md) — 2
+- [OpenHormozi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/efabf8f3ccb043f8.md) — 1
+- [openmagpie](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9a3b30a96eedd2d2.md) — 1
+- [OpenMeter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9f182fa055b7458a.md) — 1
+- [OpenNomos](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1126f88e2da341b4.md) — 2
+- [OpenRouter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7f871cbf905f6e0c.md) — 6
+- [openscout](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2e2aab1c79b95e74.md) — 1
+- [OpenStreetMap](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/91ae68a817b9bc2b.md) — 2
+- [OpenTable](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a09032eb324a188d.md) — 1
+- [OpenWhispr](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b2a18fd0c4b7562b.md) — 1
+- [Operexx](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/862d681a3e52f894.md) — 1
+- [OpinionX](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7ad06cd755791b1c.md) — 1
+- [Optimal Workshop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ede8ada63fc5c5c0.md) — 2
+- [Optmyzr](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7da7e855f9c73298.md) — 1
+- [Opus](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e12ce8285efc67c6.md) — 3
+- [Opus 5](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/da83d8b607f1742b.md) — 1
+- [Opus 5.5](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a039875519f8af81.md) — 2
+- [Opus-4.8](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7dd438c06e507d45.md) — 1
+- [Opus-5](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bde53a230fe0b644.md) — 1
+- [Oracle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9202af6ce925b26a.md) — 2
+- [Oracle NetSuite](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/89069c6d12741a4d.md) — 3
+- [Orange](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1b4c9133da73a711.md) — 1
+- [Orator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/af6392ef1c34932d.md) — 1
+- [Orbbt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b238f96cef435257.md) — 4
+- [org partnerships](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cb9f0508ccb72647.md) — 1
+- [organic social](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7ca9043351bf7ec8.md) — 1
+- [OrgVia](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/764933fd339c3d8f.md) — 1
+- [Origami](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/54fb7f6e0735b34f.md) — 1
+- [ormah.me](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/33b82c99eca9540d.md) — 1
+- [Ornymo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6acdc8d53d162b05.md) — 1
+- [OSS模型API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c9044e9ccb98d0cc.md) — 1
+- [Otter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/914cb64a1bfac4c6.md) — 1
+- [Otterly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/10545790035856ee.md) — 2
+- [Otterly.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/964f4dfa8ea66746.md) — 1
+- [OtterTally](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/362763a8c90b4cb5.md) — 5
+- [Ottterly AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/162a1c960945d0e1.md) — 1
+- [OTW Travel Companion](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/38b7737ea81a4828.md) — 2
+- [Oura](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1e161a85f1c9c8bf.md) — 1
+- [Oura Ring](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a8fc90a951e148fc.md) — 1
+- [Outline](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/318678825324247b.md) — 1
+- [Outlook](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4f53c6c301f98610.md) — 3
+- [Outrank](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8dd4e49cf5f9a40a.md) — 2
+- [outreach](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a68e36f1cde694e7.md) — 4
+- [Outscraper](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8013f50e3e7b6f44.md) — 1
+- [Outtel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2430986455dddc88.md) — 1
+- [Overleaf免费替代品](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cc2fc53904f0999a.md) — 1
+- [Owala](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aa3f402efadaea8d.md) — 1
+- [Oxe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ef81097912ff5a25.md) — 1
+- [Oyster AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2c1dcadeea3275b9.md) — 1
+- [Ozow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e7e0dd71b596713d.md) — 1
+- [P'adentro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5cbbb9df10b121c8.md) — 1
+- [Pact](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/998a13ae02ef7be3.md) — 1
+- [Paddle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a2afeec49a4a4c3d.md) — 9
+- [Pageflow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9dbd7ad820f21f74.md) — 2
+- [Pageory](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/780d5d2e4d6c6d3f.md) — 1
+- [PageSpeed Insights](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6b064acac58654e8.md) — 2
+- [paid acquisition](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/562abffd4cc0ac4a.md) — 1
+- [paid ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/06cf0accecc39dcd.md) — 3
+- [paid Telegram engagement group](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/42df5149766d0252.md) — 1
+- [Paint.NET](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8f0a483a7209265e.md) — 2
+- [Palace](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ee2aa44805b51b10.md) — 1
+- [Pallas](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0573e210e217cab7.md) — 2
+- [PallasAI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6c393f9ce01385a6.md) — 1
+- [Pancake](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a9c1034fb623883b.md) — 1
+- [Pandora](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5a7b2e919d9eb13c.md) — 1
+- [Pangle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b4f4684ad21cab7a.md) — 4
+- [Paper](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/382635c9325bf327.md) — 1
+- [Papermark](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f9355e6f8210c4fa.md) — 1
+- [Paragraph](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c097a031849cabfc.md) — 1
+- [ParseStream](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/beecd0a0381942b3.md) — 17
+- [Partner.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a504cacf9cdfefbb.md) — 1
+- [PartnerStack](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d7192cbd67d2a7cc.md) — 2
+- [Passionpeace](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/15f50ceedfe3d940.md) — 1
+- [Pasteable](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/52467e6a09f7a131.md) — 1
+- [Pathmode](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d14274bf1dbdac6a.md) — 1
+- [Patreon](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dafb9847fdbf98ed.md) — 3
+- [Pawsport](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/165b1b5822453063.md) — 1
+- [pawtrck](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c13d7e4d4a2a9e99.md) — 1

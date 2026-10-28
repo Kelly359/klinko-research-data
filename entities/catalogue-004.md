@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 4
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [AI生成概念图](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/06da1328b3d6a040.md) — 1
+- [AI系统（自建）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/73641b8f81563562.md) — 1
+- [AI编码](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e9caedc69a418999.md) — 1
+- [AI编码工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/eb7acc941d40af34.md) — 1
+- [AI编程](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ad3f7b9b9f944a6d.md) — 1
+- [AI编程代理](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d6f6f4490dcdd3cb.md) — 1
+- [AI编程代理（通用）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c4c27cc0a812d373.md) — 1
+- [AI编程工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ad92cd2d3d3d99a.md) — 6
+- [AI编程工具（泛指）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/08b340f064d5fa99.md) — 1
+- [AI编程工具（通用）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0ba0dc8104502e79.md) — 1
+- [AI编程辅助](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7c013722a1cccb81.md) — 2
+- [AI编程（vibe coding）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1c3a31a6edf83869.md) — 1
+- [AI网站生成器](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/851ecdfaca6028f7.md) — 1
+- [AI网站生成工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/595b4ca66c2bd40e.md) — 1
+- [AI聊天机器人](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7773297901f85de8.md) — 1
+- [AI能力](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8e2aadfc3d6d3cff.md) — 1
+- [AI自动化咨询](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ce0dda7577ffdb72.md) — 2
+- [AI自动化外联](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3d5565a07cca9f27.md) — 1
+- [AI自动化生成SEO文章](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4f3dfa5fea78124c.md) — 1
+- [AI营销](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/48a4e06d81fbea98.md) — 1
+- [AI营销工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/39d701c9906836cd.md) — 1
+- [AI营销工具（通用）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1d608872c7bc7cc4.md) — 1
+- [AI营销软件（通用方案）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c7dfac960199c28f.md) — 1
+- [AI落地页生成器](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/230407faeba15595.md) — 2
+- [AI落地页生成器/AI模型](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cd0b0bd20af73f5a.md) — 1
+- [AI视频工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6e90ced9d5a8c9f3.md) — 1
+- [AI视频生成器（同类工具）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ad9f9bd4713c37f1.md) — 1
+- [AI设计工具（通用方案）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a97c71829d8919a9.md) — 1
+- [AI评估工具（通用）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c3d68ca7cacce330.md) — 1
+- [AI语音代理](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3a562a39283bed89.md) — 1
+- [AI辅助写作](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/971d1fe60cfff96a.md) — 1
+- [AI辅助开发](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/330a00d447df1853.md) — 2
+- [AI辅助开发定制ERP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2cc3a31bafdc7ef5.md) — 1
+- [AI辅助的账目数字化与盈利分析系统（自建）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d78f958eecffc82a.md) — 1
+- [AI连接POS/库存/配方数据](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d03f9481ab499377.md) — 1
+- [AI驱动的医疗平台（泛指）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8354090e5b5aa293.md) — 1
+- [AI驱动的求职网站](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db8393c85853e334.md) — 1
+- [AI驱动的账户定价工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b3824e56c7eff284.md) — 1
+- [AI（通用）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/72ea25d17d2327f2.md) — 1
+- [Akiflow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/166d0848d7247615.md) — 1
+- [Alba Talent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0c7bf1b0809d2bcf.md) — 1
+- [Alchemer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c293ef4f2a502114.md) — 2
+- [Aleph](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c0d93ea09e20eb4c.md) — 1
+- [Alex Hormozi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f5b6a90da2eca38b.md) — 3
+- [Alfred](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7b2b547ab5377906.md) — 1
+- [Alia](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/777621c018c6465b.md) — 1
+- [aliapopups.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9e56a99074a517f1.md) — 1
+- [Alibaba](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/047364b9be67f665.md) — 7
+- [Alibaba Trade Assurance](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c1c9d576b8b82ae7.md) — 1
+- [AliExpress](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a9aa319f40ddff4a.md) — 5
+- [Alignable](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d5fe3c6eaa1ca428.md) — 2
+- [Aligne](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d7bfa5790831becf.md) — 1
+- [Alison.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c035a7373316427c.md) — 1
+- [ALLPowers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dc3e3b6c18fb392d.md) — 2
+- [Alo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b6b4377acb039899.md) — 1
+- [Alo Yoga](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8091034d8d7f91b4.md) — 1
+- [AlphaSights](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9c34db65c2a851cf.md) — 1
+- [AlpineBits](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/64d798f8ac0e5c1c.md) — 1
+- [AlsoAsked](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/41db2b3edb141b85.md) — 1
+- [AlternativeTo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5152c7033605ada4.md) — 5
+- [AMA chapter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fea53c2989e0db70.md) — 1
+- [Amai Pre-Order Manager + Notify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1feb21b71c960ec9.md) — 1
+- [Amazon](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cbc62794911ff31b.md) — 72
+- [Amazon Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/72f68c3833f6bd43.md) — 8
+- [Amazon affiliate](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b704af86ef29ad8a.md) — 1
+- [Amazon Business](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/667882be494ef025.md) — 1
+- [Amazon Buy Shipping](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/16e28617f8558e2a.md) — 2
+- [Amazon COSMO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/66e7c26a879f6db1.md) — 1
+- [Amazon Creator Connections](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/130b1e32aad4b9f1.md) — 1
+- [Amazon Echo Show](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f960a8a818f06240.md) — 1
+- [Amazon FBA](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2b22ed4605dad3c1.md) — 3
+- [Amazon India](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e1b3ce1b0616de4e.md) — 2
+- [Amazon influencer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/55c131849c662e42.md) — 2
+- [Amazon Influencer Program](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e139b64834f57dce.md) — 10
+- [Amazon Influencer/Associate](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aff1ccbdd3244505.md) — 1
+- [Amazon PPC](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/733f33d92e39ae40.md) — 1
+- [Amazon PPC管理代理](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/00a8f3c2ad446f53.md) — 1
+- [Amazon Seller Central](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/920815f000e8d4f4.md) — 2
+- [Amazon Seller Fulfilled Prime](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8e59f1ff140c3aa4.md) — 1
+- [Amazon seller software](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/920d5921b61ad24d.md) — 1

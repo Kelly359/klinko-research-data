@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 18
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Go to Work](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0107ca45673f869e.md) — 1
+- [Go Viral](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/47a26c8b8cb5afff.md) — 1
+- [GoAffPro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6aeb2136b5a82bed.md) — 2
+- [GoDaddy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cfe79b2740e9cb40.md) — 1
+- [GoDial](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a5504e3133c242df.md) — 1
+- [Godiva](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ae55246d96623727.md) — 1
+- [GoHighLevel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1fd7d20f44ecc081.md) — 15
+- [Going Places by Yulia Denisyuk](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/69aedc9868cabcfd.md) — 2
+- [Gojek](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3b0e12589ad361ef.md) — 1
+- [GojiBerry](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e35b508d28f12089.md) — 2
+- [GoKwik](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/49774c1bbdffe2a4.md) — 1
+- [Gong](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cb37790a8586667f.md) — 4
+- [Goodles](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2e077423bc45b852.md) — 1
+- [Goodo studios](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/14e31c2e8ff00a0b.md) — 1
+- [Goodreads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/72eecef1af01ae02.md) — 2
+- [Google](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bbdefa2950f49882.md) — 143
+- [Google & YouTube app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b40d7381693627d8.md) — 1
+- [Google & YouTube channel app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/24aa59637b1073ad.md) — 1
+- [Google (site:reddit.com)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5da61022334c076f.md) — 1
+- [Google ADK](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2b12915b7b4b6f53.md) — 1
+- [Google Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/62fa52b9d94790dc.md) — 293
+- [Google Ads (Search campaigns)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ec46a09adf2a7e8e.md) — 1
+- [Google Ads AI Max](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8b6eaa6cf3e99cb6.md) — 7
+- [Google Ads API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/29a1c92963f440c2.md) — 1
+- [Google Ads consultants](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/406c2f2492bffb52.md) — 1
+- [Google Ads Editor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2d24553b3c357c89.md) — 2
+- [Google Ads Grant](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a4c1a0057b34ca6d.md) — 1
+- [Google Ads MCP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f8450efd1b0cd260.md) — 1
+- [Google Ads Performance Max](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/637737abc50e1f72.md) — 2
+- [Google Ads Scripts](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bd1945352a1bad40.md) — 1
+- [Google AdSense](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4c393a7f599265f7.md) — 8
+- [Google Ads（原渠道）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4a22a318e45caf9e.md) — 1
+- [Google Agentic bot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/eafad189a06bf278.md) — 1
+- [Google AI Mode](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2b78b16a14b6d12e.md) — 2
+- [Google AI Overviews](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/78d5c83a3ccceb10.md) — 5
+- [Google AI Studio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c55861a49dbb1b82.md) — 2
+- [Google Alerts](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4f8a208ec49aeb92.md) — 7
+- [Google Analytics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0fe9a70dbe802f28.md) — 21
+- [Google Analytics 4](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1b3c8dd0429d6421.md) — 8
+- [Google Analytics 4 (GA4)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/18f43f6151ea1dd7.md) — 1
+- [Google Business Profile](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77fe8c9b93f8143c.md) — 45
+- [Google Calendar](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bcdd9220f8626357.md) — 3
+- [Google Chrome](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/87301dcec3f9784b.md) — 1
+- [Google Cloud](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d9b1d7819af92e77.md) — 5
+- [Google DDA](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e65db2669dc35e36.md) — 1
+- [Google Demand Gen](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/875aeee06aa709f3.md) — 4
+- [Google Display Network](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/010ed33129e1baf0.md) — 4
+- [Google Doc](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/94704e684f565897.md) — 1
+- [Google Docs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77fe460fd5b42382.md) — 13
+- [Google Drive](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d90d9a8b308f63f5.md) — 13
+- [Google Earth](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b97e07c31e87f7d0.md) — 1
+- [Google Enhanced Conversions](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/af591f0cac362d9f.md) — 1
+- [Google Flow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4b64328fc8de6039.md) — 7
+- [Google Fonts](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3ef8a3f56780b87f.md) — 1
+- [Google for Startups Cloud](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/08ad199c2392043c.md) — 1
+- [Google for Startups Cloud Program](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bb710159590bd5ec.md) — 1
+- [Google Forms](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3cab3406e6cf9c51.md) — 7
+- [Google Gemini](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/160b93ba38ba1ecd.md) — 1
+- [Google Groups](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/57c357df8225cbf1.md) — 1
+- [Google Indexing API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f0a4440644c83305.md) — 1
+- [Google Keyword Planner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c27c1a7e8dae61f2.md) — 9
+- [Google keywords](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a2bb9f8882af5310.md) — 1
+- [Google Lens](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/82a6bdb8e4d442a7.md) — 2
+- [Google listings](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bd807781fcbb4ab9.md) — 1
+- [Google Local Services Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/da133f5759c5681a.md) — 15
+- [Google LSA](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fac95d842a8c2e62.md) — 17
+- [Google Maps](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/227d712732a30555.md) — 7
+- [Google Maps 潜客开发](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db9c0952112f6771.md) — 1
+- [Google MCP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/17c95b52d2b67c04.md) — 1
+- [Google Merchant Center](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1489ff51dd0f1e4a.md) — 17
+- [Google OKF](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/412359fa28f6de38.md) — 1
+- [Google organic](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8af44ff3dea3984a.md) — 2
+- [Google Pay](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a3145393aa69ec6c.md) — 1
+- [Google Performance Max](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a8c180e42bb62484.md) — 7
+- [Google Pics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2cf727ef5e2d8390.md) — 1
+- [Google Play](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/623f721c5c57dd5d.md) — 13
+- [Google Play Console](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ad98bae69b4f7fa3.md) — 1
+- [Google Play Store](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dcc65224b1764135.md) — 4
+- [Google PMax](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/61822afac7a65b1a.md) — 5
+- [Google Postmaster Tools](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4f468383dd1aae18.md) — 1

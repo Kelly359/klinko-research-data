@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 16
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [FlowPulse](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3d095487e2f682b2.md) — 1
+- [Flowy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f7b524d7e52001f1.md) — 1
+- [Fluencify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/462cc7c2348812f3.md) — 6
+- [Fluency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/129df964b701d0b8.md) — 1
+- [Flutter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/be13961a0ab037c4.md) — 3
+- [FlutterFlow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/48a36b7d58c1f2ec.md) — 1
+- [Flxpoint](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3544b7fc0e06fc60.md) — 2
+- [Fly.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c41aaf739d7d0438.md) — 1
+- [FMS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b6dfa7c04ce31df4.md) — 1
+- [Focus](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c51faa148557a08c.md) — 1
+- [focus group](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4915d0eee9f9a668.md) — 2
+- [Fold](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/255541b1d8c61855.md) — 1
+- [Foot Locker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/088847787e4501c7.md) — 1
+- [for profit adult league](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f90d706f05d89ec7.md) — 1
+- [ForceManager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d4c4386f3c17ad31.md) — 1
+- [Foreshelf](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b0d43d034283dcba.md) — 1
+- [FORGE](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/71b41d6dd48dc58e.md) — 1
+- [Formbricks](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/066034ee21704983.md) — 1
+- [Fortevo Group](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/603281e5844cff44.md) — 1
+- [Fotoreto](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/31ba2704180a97cf.md) — 3
+- [Founder Catalyst](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/96fa81b8cbdde6fa.md) — 1
+- [Founder Marketing Blueprint](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/665ec1c38a33b965.md) — 1
+- [FounderMail](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/36dfa387083a4dfb.md) — 2
+- [Founders](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/52196a62f405150a.md) — 1
+- [Founding Sales](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dfea0b31db85d794.md) — 1
+- [Fourthwall](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a9c0f5d6a5ac9300.md) — 2
+- [FoxHire](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6123fd730134fa6b.md) — 1
+- [fractional sales person](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e8a74e81ad93e020.md) — 1
+- [Fraggell](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/05026a8c6ba2846b.md) — 1
+- [Frame.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8f20fffdc4e4157c.md) — 1
+- [Framer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2424ec01f9420f6c.md) — 7
+- [franchise](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9fe8ef24525db818.md) — 1
+- [Frank](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77646f5a4f316663.md) — 2
+- [Frankly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ae26ebdfcb730342.md) — 1
+- [FranklyMail](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8139d640224832e8.md) — 2
+- [Frase](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/045dd549f003a581.md) — 3
+- [free and open source alternatives](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/315b09bcee8e5a48.md) — 1
+- [FreeAgent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6cc54df2990a805c.md) — 1
+- [freeCodeCamp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/13f0b93909b8abf3.md) — 2
+- [Freedom](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/13b1f7ec5beaefc7.md) — 1
+- [FreeInFive](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ab97420270ee4477.md) — 1
+- [freelancer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/33cd8916347d2576.md) — 3
+- [Freelancer Business Kit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4eb6c43992f3ae48.md) — 1
+- [freelancer（自由职业投手）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/50656747275ad3be.md) — 1
+- [freelancing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fa5179bbb874bf32.md) — 1
+- [Freelancing Females](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db9e2bb1400f356e.md) — 1
+- [Freelancing Opportunities by Kaitlyn Arford](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/520bb139eb10a5b6.md) — 1
+- [Freelancing with Tim](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bcf60075b997f7a4.md) — 1
+- [Fresh Air](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c1331a3d714aa83c.md) — 1
+- [Fresha](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/df4e3a2d014d560d.md) — 1
+- [FreshPaint](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e3b47881a7580b91.md) — 1
+- [Frida](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db77ca6bb991f807.md) — 1
+- [Friend AI Necklace](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/389e081feab36b77.md) — 1
+- [friend's email and SMS retention agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/29ee6af50c8b5e45.md) — 1
+- [Frizerlly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/097dae07db567576.md) — 1
+- [Fronius](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9060ae41ce924445.md) — 1
+- [Frontier Labs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a0d4bc104ba9e0b6.md) — 1
+- [frontier labs' training and discovery pages](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3adfc4c80e75d825.md) — 1
+- [frontier model](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b0481a8415d8a692.md) — 1
+- [frontierlabs.co.uk](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7b58ec6cfe8a630d.md) — 1
+- [FRONTSTEPS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/23d2f3d2f1416953.md) — 1
+- [Fulfilled by TikTok](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8bfebbba81eee786.md) — 1
+- [Fulfillment Hero](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a27e8a0ed30347dc.md) — 1
+- [FullStory](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cce68b57d9fdb364.md) — 1
+- [Future Stores](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/02c8f645733a19e6.md) — 1
+- [Fynca Ideation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/46957ceb5cef57da.md) — 1
+- [G*Power](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9504e7ef2a0bbbae.md) — 1
+- [G2](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4d2f4b668cfc48e6.md) — 20
+- [GA campaigns](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/74cd198443345519.md) — 1
+- [GA4](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f23a8d868335ad3d.md) — 55
+- [Gainsight](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4d19e0bed5da2034.md) — 1
+- [GalADxy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d8b45a2e2bcd09c3.md) — 2
+- [Galloway](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b771e9e64666c832.md) — 1
+- [Game Center](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b13a2f191c9fc974.md) — 1
+- [Gameloft for brands](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d734ce49882a5878.md) — 1
+- [GameSquire](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a7ce38320aa4fbe1.md) — 1
+- [Gamma](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/be9d587defa1f0c0.md) — 5
+- [GanttMaster](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d65f03845b6673b2.md) — 3
+- [Garmin](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c25825a1239e67ac.md) — 1
+- [Garnet](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/360a977a55dc6c84.md) — 1

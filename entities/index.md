@@ -1,0 +1,103 @@
+# Mentioned tools, brands and platforms
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+## Most frequent labels
+
+- [Shopify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8a72266588ef612e.md) — 390
+- [Claude](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c857d09db23e6822.md) — 327
+- [Meta](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ea3bd73e2b506e00.md) — 306
+- [Meta Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0d100d50a89a1bbe.md) — 302
+- [Google Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/62fa52b9d94790dc.md) — 293
+- [Reddit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2e183f2a7a70de1c.md) — 265
+- [TikTok](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5beeafeac2e27eae.md) — 256
+- [ChatGPT](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/60965168ce762e94.md) — 249
+- [YouTube](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/24e6654bfd1ab85b.md) — 239
+- [LinkedIn](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/84308bea454057aa.md) — 221
+- [Instagram](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5ede56738376a8c5.md) — 186
+- [Canva](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3db1f560db626918.md) — 152
+- [Google](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bbdefa2950f49882.md) — 143
+- [Creatify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9e58e55216cd5467.md) — 101
+- [Stripe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2bed2032ed3d8300.md) — 98
+- [X](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2d711642b726b044.md) — 86
+- [Sideshift](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e0cdb825437213f3.md) — 85
+- [Product Hunt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c9092eb052b97a5c.md) — 82
+- [SparkToro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3926e3445fce445f.md) — 81
+- [Facebook](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3d59f7548e1af215.md) — 74
+- [Notion](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/31f61ed3e6e210c5.md) — 74
+- [Trybe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a037b7d82c03ebf7.md) — 73
+- [Amazon](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cbc62794911ff31b.md) — 72
+- [TikTok ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3fc5e2aff42237f8.md) — 67
+- [WhatsApp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ec8202b6f9fb16f9.md) — 67
+- [Claude Code](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a625159d18da5718.md) — 65
+- [Discord](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e1ba4807a15d8579.md) — 61
+- [Klaviyo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5879f1047a9e1138.md) — 60
+- [Brandwatch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f56c4dd55bc16274.md) — 55
+- [GA4](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f23a8d868335ad3d.md) — 55
+- [SEO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/30f50f7fa4fa466a.md) — 52
+- [Gemini](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5d72436256ada538.md) — 49
+- [Google Business Profile](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77fe8c9b93f8143c.md) — 45
+- [Etsy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dfbf85cc71c7dd60.md) — 44
+- [Upwork](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c1e84f7c3e4f76b9.md) — 43
+- [Octolens](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9df73f1dc195c032.md) — 41
+- [ChatGPT Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2a2f57afbe3cd39b.md) — 40
+- [Cursor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/46a4eebd20d881ec.md) — 39
+- [Facebook Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/56c6cd5bfa64e52c.md) — 39
+- [Fiverr](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ba94f3933307554e.md) — 39
+
+## Full alphabetical catalogue
+
+- [ charities → ADZYN](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-001.md)
+- [AEO → AI Overviews](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-002.md)
+- [AI report generator (micro SaaS) → AI生成广告（通用方案）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-003.md)
+- [AI生成概念图 → Amazon seller software](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-004.md)
+- [Amazon SES → ArtCraft](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-005.md)
+- [Articos → Beats by Dre](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-006.md)
+- [BeatStars → brand.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-007.md)
+- [Brand24 → card2pay](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-008.md)
+- [Cardmarket → Claude Max订阅](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-009.md)
+- [Claude MCP → Coleman](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-010.md)
+- [Collabstr → CRON定时发布](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-011.md)
+- [Crossing the Chasm → dieselworks.co](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-012.md)
+- [Dify → EASProject](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-013.md)
+- [Easy Appointment Booking → Fable 5](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-014.md)
+- [fable 5.1 → Flowfy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-015.md)
+- [FlowPulse → Garnet](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-016.md)
+- [Garnier → Go High Level](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-017.md)
+- [Go to Work → Google Postmaster Tools](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-018.md)
+- [Google PPC → Groq](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-019.md)
+- [Grow Commercial → hold that](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-020.md)
+- [Home Assistant → IndexYour.Link](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-021.md)
+- [India Post → Jet Admin](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-022.md)
+- [Jet Fuel Digital → KWatch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-023.md)
+- [KWatch.io → LinkedIn Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-024.md)
+- [LinkedIn API → Luna Mac](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-025.md)
+- [Luxe Marketing Strategies → Media2URL](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-026.md)
+- [MediaLabs → Microsoft 365 Copilot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-027.md)
+- [Microsoft Ads → MyMusicWrap](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-028.md)
+- [Myntra → Notepad](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-029.md)
+- [notes app → OpenCode](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-030.md)
+- [OpenCore → pawtrck](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-031.md)
+- [Pax8 → Planable](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-032.md)
+- [PlanetScale → Productboard](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-033.md)
+- [ProductCamp Seattle → r/chatgpt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-034.md)
+- [r/commercialrealestate → Reddit DM agent（marketowl.ai的迭代产品）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-035.md)
+- [Reddit outreach → Robinhood](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-036.md)
+- [robots.txt → scrypex.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-037.md)
+- [SDR → Shopify Analytics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-038.md)
+- [Shopify API → small pharmacies consignment](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-039.md)
+- [Smart Marketer → stack](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-040.md)
+- [Stackboard → Surfacd](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-041.md)
+- [Surfer → The Complete System](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-042.md)
+- [The Consultants Room → Tinypopups](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-043.md)
+- [TinySAAS → TxtCart](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-044.md)
+- [Tynker → UXTests.app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-045.md)
+- [UXtweak → Wander](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-046.md)
+- [Warner Bros → WooCommerce](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-047.md)
+- [Woof Dog Products → YouTube演示视频](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-048.md)
+- [Yukti → 代理公司](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-049.md)
+- [代理公司（agency） → 同类AI营销工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-050.md)
+- [同类播客剪辑应用 → 手动研究每个SaaS产品、确定ICP、找社区](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-051.md)
+- [手动群发消息 → 用简陋电子表格临时解决](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-052.md)
+- [用编程智能体自行搭建 → 自动化外呼](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-053.md)
+- [自动寻找相关讨论和潜在用户的工具 → 高压清洗](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/catalogue-054.md)

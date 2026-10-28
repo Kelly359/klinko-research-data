@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 42
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Surfer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4837dd751d693d10.md) — 1
+- [Surfer SEO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/76c79b8da852b4ae.md) — 2
+- [Surfshark](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/61f2f431af6c170d.md) — 1
+- [surveybox.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4fe99f28f48b99ab.md) — 1
+- [SurveyMonkey](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1f29e16cf8463384.md) — 2
+- [SurveySwap](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/abcfe06b46acff8e.md) — 1
+- [Sutra](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/135661eb54ad1a75.md) — 2
+- [suvi.les-videopreneurs.fr](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c93c2f21eecea6fb.md) — 1
+- [Swashi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6649ee95f257ba2a.md) — 1
+- [swasunting](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/424c44e4b56afac4.md) — 1
+- [Sweep and Go](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bea138cfb7a4b77a.md) — 1
+- [SwiftUI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b63400e30ca13316.md) — 1
+- [Swiggy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e5f2f4ada0333086.md) — 1
+- [Swurf](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/89646af6a77cd327.md) — 4
+- [Syften](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7bb9c1e7de8cec74.md) — 5
+- [Symbium](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bd31f742b73c83df.md) — 1
+- [SyncRange](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4f274110dd7bee34.md) — 1
+- [Syndigo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a37790d070d3125f.md) — 1
+- [Synthesia](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fa6d7e7ab893803f.md) — 3
+- [Synthetic Audiences](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/abcb35c1ee95e7a3.md) — 1
+- [Synthetic Users](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dc60e3e11a2c7ce8.md) — 1
+- [System 1](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bd5a21bfec51e478.md) — 1
+- [System Usability Scale](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/112a4f090d3f1c12.md) — 4
+- [System1](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8207918b59ab02ed.md) — 1
+- [Tabisto](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7625cf58528a1a9a.md) — 1
+- [Tableau](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5f0974ee455c4cd5.md) — 3
+- [TablePlus](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2404461211c2e9d9.md) — 1
+- [Taboola](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/784c9715cab9dad0.md) — 1
+- [Taco Bell](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/deb99d62e118ac9e.md) — 3
+- [Taggrs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/53fc48d8af4245cc.md) — 1
+- [Tagshop AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a513f1e5921aec0d.md) — 1
+- [TAIPR](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f6722ed5c795f21a.md) — 1
+- [TakipNet](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c20513bec9ac2d02.md) — 1
+- [Takumi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6b6a8aca6ed7c6fd.md) — 1
+- [Taletok](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1f67fcc9fa0002a1.md) — 1
+- [Talking Links](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f6b526977544f01f.md) — 1
+- [TalkOctopus](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b52a0256853d1884.md) — 1
+- [Talkwalker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b304b08df13672d1.md) — 2
+- [Tally](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b01e26d3f5a5130b.md) — 3
+- [Tally.so](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fcede0d84b50d418.md) — 1
+- [Taobao](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6362a966d9f2a89d.md) — 1
+- [Tapfiliate](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/72e283ddff52bd44.md) — 1
+- [Taplio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3c99a66ac7f21e1d.md) — 2
+- [Target](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/34a04005bcaf206e.md) — 2
+- [Target Roundel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fd19fa0d2d7636c5.md) — 1
+- [TaskRabbit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a9e297340cecbbc9.md) — 4
+- [taste-skill](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/be17d37c1de7c4cf.md) — 1
+- [Tavi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/890132e594f2a148.md) — 1
+- [Team Architects](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/209bd3b7d195f79f.md) — 1
+- [Teams](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fadff6cf8575b7b1.md) — 3
+- [teaser](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/de6a5cfda9fcd0a5.md) — 1
+- [Tec-Do](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ecb0a367e5c24b82.md) — 5
+- [tech/canvas UGC companies](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/378b93df5f879192.md) — 1
+- [Techqueria](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4954ca1f4f6bce26.md) — 1
+- [teemdrop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9199b911ce04bc46.md) — 1
+- [TeleCRM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d9f8ff27eb71cf97.md) — 1
+- [Telegram](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3f40462915a3e602.md) — 7
+- [Telegram Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/51cb509153fee6f5.md) — 1
+- [telegram-finder.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2c1973a7ff0f5346.md) — 1
+- [Telegram通知](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/af7db96bde731b9e.md) — 2
+- [Televero](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d79e38673712bc68.md) — 2
+- [templated video service](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3c2470a74b981c4c.md) — 1
+- [Temporal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e4540a7c8404b1be.md) — 1
+- [temporary agencies](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/20c47efd3b72ee04.md) — 1
+- [Temu](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5849f0dbde1a6968.md) — 6
+- [TenpayGo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b4667272edc3b560.md) — 1
+- [Terabox AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cf4f9440cee70706.md) — 1
+- [Terac](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/34df20823965d41d.md) — 1
+- [Teresa Torres](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fcb93aed328fa3f7.md) — 1
+- [termsdoctor.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/973f91f83d80d36f.md) — 1
+- [Terra pro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d02dc32c73a0844e.md) — 1
+- [Terraform](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/94dc3ea57721d541.md) — 2
+- [Tesla](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7358bd4ec877e1b6.md) — 1
+- [Tessi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/822111d3fa2ab618.md) — 3
+- [TestFlight](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/efb88028d8466f5e.md) — 3
+- [Testimonials](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e9358dc482ae10b1.md) — 1
+- [TextMyAgent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bc6ff4d31fab2c45.md) — 1
+- [The Automatic Customer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f8edc570fc28d119.md) — 1
+- [The Brand Copy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f90974f3f06c8f5e.md) — 2
+- [The Complete System](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bc1d6602bbae7cae.md) — 1

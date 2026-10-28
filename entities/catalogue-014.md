@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 14
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Easy Appointment Booking](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/19d00cac38eaaed1.md) — 1
+- [Easy Ship](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a37d0fcdd381dd64.md) — 1
+- [EasyFunnel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6df5897fd6da00f7.md) — 1
+- [Easypaisa](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d80aed7babe92d47.md) — 1
+- [easyviral](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/96fb5a7ff0a1c8ac.md) — 1
+- [Eat Konjoe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/49c14f2cb986a9cc.md) — 1
+- [eBay](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/743598aceb5d73b9.md) — 9
+- [Ebay-Partner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a9c4108787e7c489.md) — 1
+- [EBook Maestro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/50f551d3373281da.md) — 1
+- [Ecomm cowboy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/92aa4e222a547d08.md) — 1
+- [EcoShip](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9d8323479a7553f3.md) — 1
+- [EcoVadis](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e827f9079f2dd490.md) — 2
+- [ecranify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d9fa8ac9fb0c2bdb.md) — 1
+- [Ed Zitron](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0c9b65b877f72c65.md) — 1
+- [EDDM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3a40bc3f40ad988a.md) — 1
+- [Edge TTS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/12b18ca77f8465ad.md) — 1
+- [EDM Broker Academy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e6bac155a37f5b4f.md) — 1
+- [EDS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5282e68411256a2f.md) — 1
+- [EFW webhooks](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9e6fb5b3bee17ad4.md) — 1
+- [Ekstra Bladet](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/95cc47ee6f7a9f41.md) — 1
+- [Electron](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/88b1deea6a18cfd0.md) — 3
+- [Elevar](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/721b105b7423ab0e.md) — 5
+- [Elevate Media Agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0ba919f41900e8ea.md) — 3
+- [ElevenLabs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e853b4e183ed0870.md) — 11
+- [Elicit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bd4df3af2f954c1a.md) — 1
+- [elliscountycounseling.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/05aef98e5e09366f.md) — 1
+- [Elmwood](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a533440a170f5c7a.md) — 1
+- [Email](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/82244417f956ac7c.md) — 9
+- [email automation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e417e1eb431cc063.md) — 1
+- [email surveys](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/537941016d464a82.md) — 1
+- [Eman Ali](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a65424168ee98e04.md) — 1
+- [eMarketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/adb0d785b7a8d4f0.md) — 1
+- [emechworkbench.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/06778107c5472d4c.md) — 1
+- [Emergent AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dcef837fa1db2602.md) — 1
+- [Emotiv](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/663a492ae04fbe18.md) — 1
+- [Empire Cuisine Restaurant](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/222d193f957ca1aa.md) — 1
+- [Emplifi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a2b128748a5ed459.md) — 1
+- [Empower](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b823c439f9e11920.md) — 1
+- [enterprise tools](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d8fb76e73bb1b7dd.md) — 1
+- [Envato](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b07dce71118a4ccd.md) — 2
+- [EOR](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/df80071647156c98.md) — 1
+- [Epic](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/49a70bd1e731c8cd.md) — 1
+- [Epic Games](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6737da25fcaf92b8.md) — 1
+- [Erewhon](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77f7f3e5353c64ff.md) — 1
+- [ERP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d24f1f612642b77b.md) — 2
+- [ERP系统](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ad1e307f8669207.md) — 2
+- [eSIMPal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ff246eaf29d24dea.md) — 6
+- [eSIM批发商集成](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0179b72c7cdd5355.md) — 1
+- [eSIM转售服务提供商](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e07ae2e9aec936e2.md) — 1
+- [ESP32-S3](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9268ee12be924aa1.md) — 1
+- [Espanso](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/22ea4545d7c557cc.md) — 1
+- [EspoCRM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/23273be40d43938c.md) — 2
+- [Essential Countdown Timer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e008d0cc63f5fcb9.md) — 1
+- [Estonian OÜ](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b83d1c35d709a7d6.md) — 1
+- [estrah.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7447a3e076afe2f3.md) — 1
+- [Ethercycle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6aad8845c0e297aa.md) — 1
+- [Etsy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dfbf85cc71c7dd60.md) — 44
+- [EvaScrape](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2205bbbb82282b58.md) — 1
+- [Event Photography & Videography Marketplace](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/89621a7121a81d9b.md) — 1
+- [Eventbrite](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7dddc025e740dbd3.md) — 2
+- [Everlance](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e945bdff297f2a80.md) — 1
+- [Evernote](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/155e607825187242.md) — 2
+- [everpret](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7d007562a4e286b9.md) — 1
+- [Every](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/66a424a9a958b152.md) — 1
+- [EveryLastMile](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f8bc82ed2530e8b6.md) — 2
+- [Everything](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a0a44ed8cfc32b7e.md) — 1
+- [EvoX](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/156a24f53daddc60.md) — 1
+- [Excel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/faba1e00af8e6c89.md) — 18
+- [existing competitors](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4724d2ed69d127c4.md) — 1
+- [Expandi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ad93d32d2c3e5775.md) — 3
+- [Expedia](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bf4e1570f8a4a1cd.md) — 2
+- [Expenderino](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/08223b47a497dd49.md) — 1
+- [Express.js](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c931581b4a7c8cb3.md) — 1
+- [ExpressVPN](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dcd88640fb313a29.md) — 1
+- [Extern](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6d58c986f159d1e9.md) — 1
+- [EY](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2bdd94c004581aa9.md) — 2
+- [F5Bot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0170589f0fe4f79b.md) — 8
+- [Fabeo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e87cc6614a78a244.md) — 1
+- [Fable](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/09cf980b5ff304ac.md) — 4
+- [Fable 5](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e55af0e2f98389a3.md) — 2

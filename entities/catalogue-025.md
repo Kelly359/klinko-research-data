@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 25
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [LinkedIn API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/20f4680aa5d214b4.md) — 1
+- [LinkedIn communities](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e90867c52171ba62.md) — 1
+- [LinkedIn Groups](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cb286bdd9d675357.md) — 1
+- [LinkedIn newsletter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9857683f4f08eaf3.md) — 1
+- [LinkedIn outreach](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/70bbe18c9a880f14.md) — 4
+- [LinkedIn Premium](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c9baa1e1093fdcd4.md) — 4
+- [LinkedIn Sales Navigator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3a1d90edfb8e2603.md) — 3
+- [LinkedIn 付费高级会员](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9a4a356c72026c11.md) — 1
+- [LinkedIn 文章 vs 贴文](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6feb2aab50311b26.md) — 1
+- [LinkedIn个人主页](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/62a9c07d6069d381.md) — 1
+- [LinkedIn人工连接](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a62950f68dbaa3d9.md) — 1
+- [LinkedIn公司页面](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8c5de577fa0d353c.md) — 1
+- [LinkedIn公司页面管理员功能](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dfb3cb83294da7b4.md) — 1
+- [LinkedIn外联](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/76c5668170faf9ea.md) — 2
+- [LinkedIn官方API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/55db005b47e608a4.md) — 1
+- [LinkedIn线索生成工具（免费试用）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/89c590efa7134ce8.md) — 1
+- [LinkedIn自动化工具（竞品）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7ed1f81e6b1f190a.md) — 1
+- [LinkifyThis](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dc150ce3246742c4.md) — 1
+- [Linktree](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/011ac7e62beb8618.md) — 1
+- [Liquid Death](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b05ac3c8eb3322ac.md) — 1
+- [liquify-ai.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b1e424235f1e276c.md) — 1
+- [Listd](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/32243f18da02300d.md) — 3
+- [Listen Labs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/720d7b20a013162b.md) — 3
+- [Listening to People](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/30db676de2301150.md) — 1
+- [ListeningKit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d9da9191a941eb02.md) — 1
+- [ListForge eBay Automation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/68c95f044809679c.md) — 1
+- [Listmonk](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/79d866cea8cf9ba2.md) — 1
+- [Litchi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/96747af46fc7032f.md) — 1
+- [Litworth](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6a3d13bc9370b331.md) — 1
+- [Live chat](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/03f48ab668335d7f.md) — 2
+- [LiveRamp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ce0437335c24dcbe.md) — 4
+- [Llab Marketing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/18df3c0f76d5182f.md) — 1
+- [Llama Luna Apps](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8c5b3ef9401d21d4.md) — 1
+- [llama.cpp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/150dc86746a90bad.md) — 1
+- [lleva](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2e39afbfecfc279d.md) — 1
+- [LLM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/487b91042c7cf27a.md) — 5
+- [LLM coding agent（自建替代方案）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ea6be17d7cc6cd6.md) — 1
+- [llms.txt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f43a9e2f7da89777.md) — 6
+- [LLM摘要与分类用户反馈](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/45ca98dffdb3c26e.md) — 1
+- [Lloyds](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7cefbaea06428ddd.md) — 1
+- [local ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d8468bcaa49af923.md) — 2
+- [local credit union](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/869421bfd62dfe6a.md) — 1
+- [Local Directories](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1dd064c2805efda7.md) — 1
+- [local newsletter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6294e2a404d44255.md) — 1
+- [local restaurant association](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/df58a8608603857e.md) — 1
+- [Local Services Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/219dd5b7742ce3e0.md) — 1
+- [local small business development center](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/97da29f108e4b6d0.md) — 1
+- [Locals](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e9e8d4b193cfa45a.md) — 1
+- [lockedin](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7d0829f42d708672.md) — 1
+- [Log by ListeningKit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/99f5bf7ea7fae3e0.md) — 1
+- [Logiwa](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6e92e703c593e5c1.md) — 1
+- [Loldosa](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a91c873d9bfc4649.md) — 1
+- [Lookback](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/43b6266ccf863f7b.md) — 1
+- [Looker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d133efd9800e396a.md) — 1
+- [Looker Studio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/97e4746dfcc939e0.md) — 2
+- [lookingformarketing.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c769f1912541cd05.md) — 1
+- [Loom](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/784a2ddf5d4d61b6.md) — 12
+- [Loop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/254637f72efcddb6.md) — 2
+- [Looped](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8791ca313c37469e.md) — 2
+- [LoopNet](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6d451b43e3f3badf.md) — 1
+- [LoopShot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/578b38abf8585eb2.md) — 1
+- [Loox](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/15815b420cb754b6.md) — 3
+- [Losing My Virginity](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fe401d6779bc47e2.md) — 1
+- [lovable](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2f9cb7cda5222087.md) — 27
+- [loveable](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/50a06ff58050671b.md) — 1
+- [LovoraGift](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7a1924b860175823.md) — 1
+- [Low Crest](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fe130fac669ba367.md) — 1
+- [Loyverse](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5a22c56614d69eee.md) — 1
+- [LSAs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/deae7359628bb775.md) — 1
+- [LTD联盟合作](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5a213a1015cfe6d6.md) — 1
+- [LTX 2.3](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f941d15a93400efe.md) — 1
+- [Lucida Analytics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4fa4b9733a4f8bc3.md) — 1
+- [LucidRows](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bff5eefc0d77dce6.md) — 1
+- [Lucidya](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b3918d600e3da98c.md) — 1
+- [Luma](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/53009c20073f1d96.md) — 6
+- [luma.com/humanteam](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c5e38a0dd99c0241.md) — 1
+- [Lumea Direct](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9d9a70085182b94f.md) — 3
+- [Lumini](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a3503258352aca49.md) — 1
+- [Luna](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/970ec274ca867815.md) — 3
+- [Luna Mac](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ca59c6bd6a90bfcf.md) — 1

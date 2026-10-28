@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 36
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Reddit outreach](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e6e026bed3844e08.md) — 2
+- [Reddit Post Check](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7f2f35b7ee28a5ba.md) — 1
+- [Reddit Pro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/05016e0c087ef3ea.md) — 1
+- [reddit promotion](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f7e06a5932b1fa22.md) — 1
+- [Reddit r/UGCcreators](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d3b650772d07b259.md) — 1
+- [Reddit subreddits](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aa5fa51145b2439a.md) — 1
+- [Reddit Top Posts Digest](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ac83a8b23be4adfd.md) — 1
+- [Reddit/Facebook groups](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9f5701701750a429.md) — 1
+- [Reddit/社区渠道](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6fefcf86600a7201.md) — 1
+- [redditmaster](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d66d2a41a5896a3e.md) — 6
+- [Reddit付费广告](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/740b5674b1460a00.md) — 2
+- [Reddit发帖求 founders 留下SaaS链接](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/66614b90be2aeb54.md) — 1
+- [Reddit婚礼相关subreddit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4c9e5eedeead27ca.md) — 1
+- [Reddit子版块](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/26e190f8f3d6ae42.md) — 1
+- [Reddit广告](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/09ef2173f8308236.md) — 1
+- [Reddit社区](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1aaf3f3b51998098.md) — 2
+- [Reddit社区搜索](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a71ea5056b50de78.md) — 1
+- [Reddit站内搜索](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/86a3ec86ab9827d0.md) — 1
+- [Reddit等公开社区信息源](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db0d990dc1f82b18.md) — 1
+- [Reddit行业社区](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/34b5482d0a26246d.md) — 1
+- [Reddlist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c22e272cf0af5f0b.md) — 2
+- [Redo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77276c72c008b065.md) — 4
+- [Reedsy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/96bb68c63151822c.md) — 2
+- [Reels短视频](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/29df8a028c8102be.md) — 1
+- [Referis](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d54f73ba1d750a0a.md) — 1
+- [Refero](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/383fbae878266c68.md) — 2
+- [referral](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/44574c4ba2ea74ad.md) — 1
+- [ReferralCandy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/970429a17970ba8b.md) — 1
+- [Refix](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/71b596932a2f2091.md) — 1
+- [Reforge](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0579c4308edb1e42.md) — 1
+- [Refundid](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/08f0ceaa37aaee7c.md) — 1
+- [Refunnel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4e71d0ae24f8507d.md) — 1
+- [REFY](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d7a9c5a1d9455923.md) — 1
+- [Remotion](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d1bd7a5bd6e1467f.md) — 1
+- [remove.bg](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2cf8b7596ab0155c.md) — 1
+- [Ren'Py](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0f9cb27b2b000039.md) — 1
+- [Render](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/887270d0cbc560af.md) — 1
+- [RENÉE Cosmetics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/072101da9707ace9.md) — 1
+- [Reo Dev](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/53b191e476e1ee59.md) — 1
+- [Reo.Dev](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/366289432b214eda.md) — 1
+- [Rep Data](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f80a31043566b771.md) — 1
+- [Replit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/53b69ef92c836777.md) — 5
+- [replyhey](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0f6bc6ce896ee869.md) — 13
+- [replyhey.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2fdf718cfbdfba5b.md) — 3
+- [Replymer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9e70c56dee33d216.md) — 1
+- [Reputably](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/787921666b04f1c6.md) — 1
+- [Requivo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/faddebc079d4c5b0.md) — 1
+- [research agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/131d0b02ea0626d6.md) — 1
+- [ResearchMaster.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b4701428e6a0bf8a.md) — 1
+- [ResearchRocket](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3972b67fe34f8619.md) — 1
+- [Resend](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6de1be36afd7a16d.md) — 15
+- [Resight Global](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e36f231cc6996d0e.md) — 1
+- [ResortPass](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/33a96f9cb64b4826.md) — 1
+- [respond.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/09884ef2b6b3d1c6.md) — 1
+- [Respondent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/00e3874b77243522.md) — 7
+- [Resurf](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e94a37994169424c.md) — 1
+- [Retention OS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3a3f2384d56d67cd.md) — 1
+- [Retool](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e1c8b17102a886c6.md) — 4
+- [Retrica](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/29763a1bc963eb09.md) — 1
+- [Return Prime](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ef6c278aaff7a5e2.md) — 1
+- [RevChase](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/605bb4118f9c1a00.md) — 1
+- [RevenueCat](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5e711eb71db00b1f.md) — 13
+- [revenueplot.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a03d9eb6827a27f2.md) — 1
+- [Revexia](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e88c8e0d1c096191.md) — 1
+- [Revideo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7a2482b35fc0fdc3.md) — 1
+- [Reviews.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/83f8ce9262bf7099.md) — 9
+- [Revolut](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a5c1835f2f1f4d4d.md) — 5
+- [Rewardful](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d320678fc5d393ff.md) — 1
+- [Rezi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9caf14b161c8bf52.md) — 1
+- [Rhode Skin](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7d5cb2f7546434b2.md) — 1
+- [Rhythm](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/add8bed82dd53765.md) — 2
+- [ring lamp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0b54330b16c76c41.md) — 1
+- [RingCentral](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e13731e5d29a625b.md) — 1
+- [Riot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fccda8faefebb2ec.md) — 1
+- [Riot ID](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b8366d7c5cfc11c3.md) — 1
+- [Riverside](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/12aea5f4cd614e6b.md) — 1
+- [Riverside缩略图生成器](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/af34d23ae7c231d3.md) — 1
+- [RMM工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/894fd6c1501f450d.md) — 1
+- [Roamless](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ca0bdc283fe848ac.md) — 1
+- [Robinhood](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5815755fc6efaccd.md) — 1

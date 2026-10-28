@@ -1,0 +1,84 @@
+# AI-inferred roles — catalogue 12
+
+Raw AI-inferred role labels, including open-ended labels and synonyms. These are not verified identities, unique personas or paid-customer status.
+
+- [PPC管理者/代理](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e2ff033d36f6076e.md) — 1
+- [PR practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/bce366f54dc40dbf.md) — 1
+- [PR professional](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/45be69025a515734.md) — 1
+- [practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/8111196297d6c5de.md) — 38
+- [practitioner_employee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/619c64133692a44f.md) — 1
+- [practitioner_or_marketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/6dcb9618f5c82cab.md) — 1
+- [preorder app vendor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/dd0b3121c6fea0d4.md) — 1
+- [principal product researcher](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2a7f0373c0386408.md) — 1
+- [principal_uxr](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/be36c32dff5685d8.md) — 1
+- [printshop_operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/8d214ab069747a0d.md) — 1
+- [pro bono QuickBooks consultant](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/661bb181036e1246.md) — 1
+- [product](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a8792157cb4f27fb.md) — 4
+- [product builder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/671a9bec36a9642b.md) — 4
+- [product builder researching creators](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/597d1de38312e299.md) — 1
+- [product designer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a97b39c5333cf0ab.md) — 14
+- [product designer/developer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/eb5af38ad1f426d0.md) — 1
+- [product founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/77df702fd7fcecab.md) — 3
+- [product leader (colleague of Head of Product)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/9f2ad835801a7521.md) — 1
+- [product line director](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/4cdc8d43bcd4dc36.md) — 1
+- [product manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/483b6b6354b3da50.md) — 88
+- [product manager / project manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/b88a7fa315d02579.md) — 1
+- [product manager in regulated domain](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/6784ee941646f794.md) — 1
+- [product manager/founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2215b56b0fabf004.md) — 1
+- [product manager/mentor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ea97c9d313a0c5d2.md) — 1
+- [product marketing manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a1b58f2b2afc039a.md) — 1
+- [product podcast creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/185f1c0e31f2a632.md) — 1
+- [product practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a701c031feb45fbc.md) — 2
+- [product researcher](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/0c3fc8d46704df6e.md) — 1
+- [product team](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/0cc4f8dc55ca121b.md) — 7
+- [product team member](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a432ab70c68076e6.md) — 1
+- [product team tool founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/5a2aa2384ce503eb.md) — 1
+- [product/design team member](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/1114f1232116126e.md) — 1
+- [product/engineering](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e22e0b72b98be76a.md) — 1
+- [product/engineering lead、早期创业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/b12911fb73f46737.md) — 1
+- [product/project manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/808e9efc7cd30061.md) — 1
+- [product_advisor_and_ceo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/598cb033d50d845e.md) — 1
+- [product_builder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/afe648c3f22cfcd6.md) — 29
+- [product_creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/dbcf2f7d8aec3364.md) — 3
+- [product_designer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ad5d3e661fe04922.md) — 8
+- [product_director](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a4012e2357aa32df.md) — 5
+- [product_founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/5f0e1676ebffa321.md) — 7
+- [product_lead](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/11575d70bbceb1c9.md) — 3
+- [product_leader](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/285c81408c489cb5.md) — 4
+- [product_maker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/77f5f76e9fb00a0e.md) — 1
+- [product_manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e9afed78b39a2b1c.md) — 109
+- [product_manager_in_b2b_saas](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/45435b6890d709a2.md) — 1
+- [product_marketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/93b82196818111e3.md) — 2
+- [product_owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/445aac4650c1bfd5.md) — 58
+- [product_site_builder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e699831652af8faa.md) — 1
+- [product_team](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/17e384cc1bd8a2cb.md) — 12
+- [professional_designer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/738750effa4e7508.md) — 1
+- [program manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/4fbf7bded8b15848.md) — 1
+- [program_operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d12f6384a1ba3995.md) — 1
+- [programmatic advertising specialist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/278906c79d7939d0.md) — 1
+- [programmatic_specialist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/94cdbc2e2756f1e8.md) — 1
+- [programmer/entrepreneur](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f0733cd973bcfa98.md) — 1
+- [Project Casting运营者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e1d98bdab9a6a288.md) — 1
+- [project manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f0a184ef9691553a.md) — 1
+- [project_manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/8ce740d45a8f1e85.md) — 5
+- [promoter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f929ec3237830fa4.md) — 1
+- [prospect](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/40542f7e6b9ec165.md) — 8
+- [prospective business owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f011c75a80175020.md) — 1
+- [prospective buyer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/37e04b1a57e53636.md) — 3
+- [prospective founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ce5f1e9b8d0c0d63.md) — 1
+- [prospective franchise buyer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/b9f13df5dc33fde1.md) — 1
+- [prospective seller](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/29aa6b903ff6e182.md) — 1
+- [prospective tutoring business founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2f77448008e5632a.md) — 1
+- [prospective_buyer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/10dae49a94370e8f.md) — 5
+- [prospective_customer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/264da223d0f70031.md) — 1
+- [prospective_excavation_owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ceb3094c6d728651.md) — 2
+- [prospective_founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/817be2d6586a8702.md) — 2
+- [quanta.is创始人](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c8d9e1bf6475f8e5.md) — 1
+- [question_asker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/4340a3082f800720.md) — 4
+- [question_author](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/4c6ca16a77300967.md) — 5
+- [questioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/5e5646a360ea672c.md) — 16
+- [questioner_or_seeker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/784f26acfdb4b624.md) — 2
+- [questioner_seller](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f2aeb397fd022764.md) — 2
+- [recruiter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/92d46204d8e9aeb3.md) — 3
+- [recruiter_or_employer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/06ca3c6fe68cb6b8.md) — 1
+- [Reddit获客实践者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/924145d4ea9ba575.md) — 2

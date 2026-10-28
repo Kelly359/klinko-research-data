@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 46
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [UXtweak](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f8aa55928cffbc8a.md) — 1
+- [UXUnconf DC](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4b85b9a7b24b2ec9.md) — 1
+- [UX研究人员服务](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/21dca74e35dec4ac.md) — 1
+- [UX研究平台（未具名）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/545d233484c7e0a9.md) — 1
+- [V0](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0270da4daac514f3.md) — 3
+- [Vale](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8192ccdff1a650ff.md) — 1
+- [Validdy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fc3e05cbdd043382.md) — 1
+- [Valnet](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/afc93198c8516c0a.md) — 1
+- [Valpak](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a0c4e7711d52c348.md) — 1
+- [Vanessa van Edwards](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/13da688023b776ba.md) — 1
+- [Vanta](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/58c2655d4845c186.md) — 6
+- [VAs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/74356fbb67fef5ed.md) — 1
+- [Vaynermedia](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a6fd3984771f8920.md) — 4
+- [VC](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/522a45442726c9f9.md) — 3
+- [vector database](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5c0287f129c8e72b.md) — 1
+- [VEED](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/753708e43a67fbd6.md) — 1
+- [Velobase](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/037af451a78fa5ed.md) — 4
+- [Velociraptor 3PL](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/847976012030c867.md) — 1
+- [Veloura Laundry Co.](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/85a548baa7e59f50.md) — 2
+- [Velox Call](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7a75f5d73c217d88.md) — 1
+- [Vemoir](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3488c192e4ed9c50.md) — 1
+- [Vendtra](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f93ef5fd14d9ba89.md) — 1
+- [Venio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2a3b4ec271f9d541.md) — 2
+- [Venmo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cafaad8980a6f6b0.md) — 1
+- [Vent Vision](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3bb19f43d68d26e7.md) — 1
+- [Venture Studio模式](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/065acb77bbb96f9e.md) — 1
+- [Veo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/61b77e47289aa9c2.md) — 6
+- [Veo 3.1](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/104c2672106e5f3b.md) — 1
+- [Veo3](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/454e936e4694d61a.md) — 1
+- [Vercel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9d3508a8484ee252.md) — 27
+- [Vercel Analytics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d310428f024c83c4.md) — 1
+- [Vercel v0](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7a2ff30cbe204ad4.md) — 1
+- [Veridata Insights](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0b965a65542f6d76.md) — 1
+- [Verizon](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aacca8bcb37aefa0.md) — 2
+- [vetros](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/742ede578c616afb.md) — 1
+- [VF Corporation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c6251febd843f6cf.md) — 1
+- [vibe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8368ec5f1a153787.md) — 3
+- [vibe coding工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e1962a9200df14d8.md) — 1
+- [vibe coding（氛围编程）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/70e14cb7fd57e317.md) — 1
+- [vibe coding（用AI自行编写同类工具）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0a8d35f317de01a1.md) — 1
+- [vibe-check](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/38b4238855ae6deb.md) — 1
+- [vibecoding](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/67844696d84f1c49.md) — 1
+- [video2docs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0a908af5c0e1c9d6.md) — 1
+- [VidIQ](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d4bd977ee4fcd978.md) — 11
+- [Vidovo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3f2ff4f5f1fa54be.md) — 2
+- [VidPitch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8f8b18e5aeae1f86.md) — 1
+- [Vidsy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2edfe5bc64e3e699.md) — 1
+- [Vimeo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c3b0a945be60f0d1.md) — 1
+- [Vinted](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8d3ad4106a8eaee0.md) — 4
+- [Viral Launch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7929fd1474928170.md) — 2
+- [Viral Vue](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/95122efcfc7a1e17.md) — 8
+- [viral.app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b31f0c76804c4085.md) — 1
+- [viralhunt.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/46db1963ff67da67.md) — 4
+- [viralrefer.app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4b7eeaa3f5bed20d.md) — 1
+- [ViralVue](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b68029130dd8b281.md) — 4
+- [Virtual receptionist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/54dd3bfe385f108b.md) — 1
+- [Visa VAMP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c3589c81df72a343.md) — 1
+- [Visit Estonia](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f45657078676ec03.md) — 1
+- [Vitrini](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a689da5af216ec72.md) — 1
+- [vivipilot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c2feb66effeb1a9d.md) — 1
+- [vizze.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2865e52525104a09.md) — 1
+- [vocara.live](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4dca42a836b69c86.md) — 1
+- [voices.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/97b44d1169bf40fd.md) — 1
+- [VoiceStudio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/681ccc0fae9de3a9.md) — 1
+- [VoIP apps](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/630a9519f82a1531.md) — 1
+- [Voxpopme](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/948edbee83d09b86.md) — 1
+- [Voyager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e6e62ee55819cdc1.md) — 1
+- [VPS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cfe062be1bbee227.md) — 3
+- [VS Code](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7abdcc4cf6e07278.md) — 3
+- [Vstock Transfer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c3c3bd828546c1e2.md) — 2
+- [Waffle House](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c8d7dc1189d0372a.md) — 1
+- [WagTab](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cb7e56e731d5a793.md) — 2
+- [Waitlist landing page](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/230c503217ebe48f.md) — 2
+- [Wall](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4d8aaa64f68587b1.md) — 1
+- [Wallat](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0f3dc07a5afe0c69.md) — 1
+- [Wallbit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6b8790c611294fa6.md) — 1
+- [Walmart](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/943c3eeb252dbd17.md) — 5
+- [Walter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4748d4c802a775e8.md) — 1
+- [Wan 3.0](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e120925d12d58516.md) — 1
+- [Wander](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/33430ae3a73f5974.md) — 1

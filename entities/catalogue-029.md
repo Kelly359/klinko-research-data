@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 29
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Myntra](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/000305c8f8d99edb.md) — 1
+- [MyParticipants](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ecefa440f4d58aa5.md) — 1
+- [Myron Golden](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/755fa6f1a9de355a.md) — 1
+- [Myspace](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/68df5ae46eec44c9.md) — 1
+- [mystudysidekick.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bffb21264f82c4bb.md) — 1
+- [mythos](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/553133ea03bb73bd.md) — 1
+- [MyyShop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b06f612930817b79.md) — 3
+- [n8n](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/636396f02b6571e4.md) — 21
+- [Nabu for Google Shopping feed](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8e090f947875512e.md) — 1
+- [Name Cheap](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3ceca11b945544f1.md) — 1
+- [Namecheap](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/eb16a6345ddede71.md) — 1
+- [Nano Banana](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d511951d1967066a.md) — 1
+- [Nano Banana 2](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cb24c02f8a7b34df.md) — 1
+- [Nano Banana Pro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ad163ea61071575.md) — 1
+- [Nanobanana Pro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/54c5e9fe46c52aef.md) — 1
+- [Narwahl Labs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a96c0310a6326993.md) — 1
+- [Native Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/15f6b7f67e4bcb5e.md) — 1
+- [Native Nation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1d26cfb43f8be969.md) — 1
+- [Nav](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/abca4de9dd94d3ac.md) — 1
+- [Navaider](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/66012f18583c52ca.md) — 1
+- [Navidrome](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d579097b3c57f0d8.md) — 1
+- [nbrly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/69adc677da9fd4c3.md) — 1
+- [NDA](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/37242106bee67850.md) — 1
+- [NDIS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e23acdc50d93efe1.md) — 1
+- [Nebulab](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ca0cd88c9d034d53.md) — 1
+- [Needler](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/21c8381876a48cd3.md) — 1
+- [Neon](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1b6405d1ef5a8161.md) — 1
+- [Neon Postgres](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ebd66b707892b06d.md) — 1
+- [Nestlé](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6dbe2312a44d0b90.md) — 1
+- [Netflix](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/13ed070478ef62c3.md) — 4
+- [NetSuite](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/175144ba77273007.md) — 2
+- [networking](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fefdcdb71779b768.md) — 1
+- [Neubase](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5827eedfbd4fa052.md) — 1
+- [Neurosity](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9e431a3e6495834f.md) — 1
+- [NeuroSky](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c5490c22ade31052.md) — 2
+- [NeuroSky Mindwave Mobile 2](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5610bb04047381a6.md) — 1
+- [Neutrogena](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3aecd2520ef895f9.md) — 2
+- [Never Search Alone](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0dbcd7f0c5e7fbbb.md) — 1
+- [New Balance](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/296ba2665cb187cd.md) — 1
+- [New Relic](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a82261cfdc8e1155.md) — 1
+- [New York Comic Con](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a321e2a232f6d55c.md) — 1
+- [Newegg Business](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0e12b11b34e6337b.md) — 1
+- [newsletter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dd6f465f6810e92c.md) — 4
+- [Newswires](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d899cc5c221f2ea4.md) — 1
+- [Nexiowatch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3024c05e19df39d4.md) — 2
+- [Next.js](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0d857f8cf2d76abb.md) — 9
+- [Next.js + Payload CMS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/23989206c292b7cd.md) — 1
+- [Nextdoor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1e6af39a4d42457e.md) — 4
+- [Nextep](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b48123de8e7dd3db.md) — 3
+- [Nexthink](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/029724022e53423a.md) — 1
+- [Nexum Trader](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/63cb256915779b21.md) — 1
+- [Nexus UI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7b9290282569caae.md) — 2
+- [Nexusguard](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e6ad5df03f8de373.md) — 1
+- [NFL](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/196e2aa52f81dffe.md) — 1
+- [niche community](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ac519284b81e60d2.md) — 1
+- [niche directories](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c0769e4501a77644.md) — 1
+- [niche discord](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a57118b71b86402a.md) — 1
+- [Niche Edits & Contextual Backlinks](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2370862e2117b3fd.md) — 1
+- [niche subreddits](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/670566e3a3a84b9a.md) — 1
+- [Nielsen](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/eae8e3404182477f.md) — 1
+- [Nielsen Norman Group](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0af0f94b271492d0.md) — 2
+- [Nikro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/41d95a8d977df4ed.md) — 2
+- [Nimply](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d04f4afba3695bcf.md) — 1
+- [Ninja](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/54482595177116e6.md) — 1
+- [nithur.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4bdc466de42efc74.md) — 1
+- [Nixra](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c1cd8f78b62f781a.md) — 3
+- [NLP Smart Search AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d51ac439eedf97b7.md) — 1
+- [NN Group](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a59ee78d4b834e2f.md) — 1
+- [NN/g](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5c1b25bbd37e2720.md) — 1
+- [NN/g YouTube Channel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0d0fa48fae1e65cf.md) — 1
+- [Noema](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/198cad899acbd775.md) — 2
+- [Noise](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/efe2a5c09e6d49d7.md) — 1
+- [Nomad](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b684e5a7d5767cce.md) — 3
+- [NoonLaunch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3d9248a754b29b1b.md) — 1
+- [Norg AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d55689d21e138235.md) — 1
+- [Norsu](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/027c02cc98f2fbcc.md) — 1
+- [Norton](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c57b3f1cd05e94f3.md) — 1
+- [Notchlet](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b814f553dfe53ee7.md) — 1
+- [NotebookLM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3a74eb58101dbfe3.md) — 1
+- [Notepad](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b7b479e0123d4907.md) — 1

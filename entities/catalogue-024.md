@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 24
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [KWatch.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/42752ee4f4d5de59.md) — 1
+- [L'Oreal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b250b8d86d08d883.md) — 1
+- [L'Oréal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/580db14cea56438d.md) — 1
+- [La Cornue](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/de063e6eb63c1748.md) — 1
+- [La Roche-Posay](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b25f33d72c7e814e.md) — 1
+- [Lago](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/13bf109a259000c1.md) — 2
+- [lainuoniao.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aa17f18274339306.md) — 1
+- [Lalo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/01c16a9f2e41b2b4.md) — 1
+- [landing page optimisation service](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d947cc1c2d0ec712.md) — 1
+- [landing page with waitlist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db9926b0f04e6fe6.md) — 1
+- [Landra](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/74fd22475ae40a45.md) — 1
+- [LangChain](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f3f2184b56f946c6.md) — 1
+- [Last Screener AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1061d483d901dd8e.md) — 1
+- [Later](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1d9283d848ea941a.md) — 1
+- [Launch Llama Tools](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/675ec0cd9b950800.md) — 1
+- [Launch Panda](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/24eeabfa2359825f.md) — 2
+- [LaunchEngine](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/80447d87129095d6.md) — 6
+- [launchgallery.video](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b141ddb6f25ac480.md) — 1
+- [launchnicely.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/62eec841f883dd2c.md) — 1
+- [LaunchPact](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/54a6426610420f71.md) — 13
+- [LaunchPact Startup Idea Validator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cd4906c865781f36.md) — 1
+- [launchpact.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0544e99081665bb1.md) — 3
+- [launchpact.io/startup-idea-validator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/72aae4601f0da360.md) — 1
+- [launchpact.io/startups](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fc13f900e4e64268.md) — 3
+- [Launchpad](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7b3937a5f4397ec6.md) — 1
+- [LaunchPanda](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/793b3ce5d1f73611.md) — 3
+- [LaunchPanda目录路线图](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5b4b2192902c54d7.md) — 1
+- [Launchpoint](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2df86efdcbec3643.md) — 3
+- [LaunchStreak](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8cd636331b549a9f.md) — 8
+- [LawnCareWebsite.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/18e225c95a0ed68e.md) — 1
+- [Layout](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1dc5ae5b68174891.md) — 1
+- [Le Pain Quotidien](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/62d1f9c48889a573.md) — 1
+- [lead generation companies (generic)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e4383f0ab55afd4f.md) — 1
+- [lead monster](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e20e3c236f942e41.md) — 5
+- [LeadFast](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4f2dca840ea186db.md) — 1
+- [LeadFlow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ad8b856e4b8e3c08.md) — 1
+- [LeadsAgent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/47bcc3153466a0db.md) — 1
+- [LeafFilter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/62193e33a7ccbf17.md) — 1
+- [LeafGuard](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/60569166c58f55b0.md) — 1
+- [League of Legends](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9ea5367e53ce0315.md) — 1
+- [Lean Customer Development](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/520fe7e25772b3b4.md) — 1
+- [Learn N' Digital](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3d43a805580c91da.md) — 1
+- [learning community](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4ae99025aac8754e.md) — 1
+- [LegalZoom](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3557b1fe75cd1d6f.md) — 1
+- [Legend GT](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1e3ef6714cba1f1b.md) — 1
+- [Legit Script](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/60f37a7705424d37.md) — 1
+- [legit.show](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ebd541e28c32ff6f.md) — 3
+- [LegitScript](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/87e5c159abc5c6f1.md) — 2
+- [leiflist.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3963413a4b92a4f0.md) — 1
+- [Lemon Squeezy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5279ea6f9a147233.md) — 2
+- [LemonSqueezy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4669c73ae8384e62.md) — 1
+- [Lending Tree](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/630db85372cb7de0.md) — 1
+- [Lendio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1e1ce76fb09a4786.md) — 1
+- [Lenny's Newsletter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e6e2ba34fd9f86b9.md) — 1
+- [Lenny's Newsletter Community](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1844178fc07941f0.md) — 1
+- [Lenny's Podcast](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/292b9e6f139bc2e8.md) — 6
+- [Lenovo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/56018fe135c84cb3.md) — 1
+- [Leonardo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/18ccba186d8757c2.md) — 1
+- [LetMePost](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/70e6c93b62a71a50.md) — 1
+- [Letsmetrix](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c83f6ba32e62211a.md) — 1
+- [Letterboxd](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/af8d266dc06b69c0.md) — 2
+- [Level Index](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/edad5cf5491d57dc.md) — 1
+- [Levox Infotech](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2489debb6f960842.md) — 1
+- [Levragd](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8dcf23180d82bbd3.md) — 1
+- [liblab](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ebf4b7bd949ea256.md) — 1
+- [Life Saver Pool Fence](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/eee5d3051ad783af.md) — 1
+- [Lifeticket](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b61603e3e7bd223f.md) — 1
+- [LiftPeak](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2f5afd134f6c794c.md) — 1
+- [Lighthouse](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b370de14e94142d4.md) — 1
+- [Lighthouse Brand Advisory](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ca5562b42d0a06c.md) — 1
+- [Lightroom](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/464c34a91d1b558d.md) — 1
+- [Liine](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/01551d84b6add78f.md) — 1
+- [Limited Supply](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dafcbbef8b0f174c.md) — 1
+- [LINE](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/38a9c1e721584da2.md) — 1
+- [Linear](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7f2fe580edb35154.md) — 17
+- [linear TV](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2457e941775ce068.md) — 1
+- [Linked Helper](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d51d06d4b6f4e4b4.md) — 1
+- [LinkedEmbed](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c0d39fa88a855a19.md) — 4
+- [LinkedIn](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/84308bea454057aa.md) — 221
+- [LinkedIn Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0a70fe368741d6a0.md) — 11

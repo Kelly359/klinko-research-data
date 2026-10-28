@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 10
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Claude MCP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e0fd4fc3d6336f0c.md) — 1
+- [Claude Opus](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3872adf6b361630c.md) — 2
+- [Claude Opus 5.5](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2ad9765b2b791487.md) — 1
+- [Claude Pro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1acde07d0ad08904.md) — 1
+- [Claude skills](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9ac027634f10a5fe.md) — 1
+- [Claude Sonnet](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/28d031c22bf1e747.md) — 1
+- [Claude's google connector](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4b28676cee2e3ab8.md) — 1
+- [Claude.ai/design](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2f63b99e03f8af5e.md) — 1
+- [ClaudeBot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/79dc3b06bcce5bd6.md) — 1
+- [ClaudeCode](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b5cf43ae07a7364e.md) — 1
+- [Clause Design](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4306566e9d173b6e.md) — 1
+- [Clay](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/06363555054de198.md) — 4
+- [ClearTrace](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/165ac86580ed2170.md) — 1
+- [Clerk](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c40dc72b0228e585.md) — 2
+- [Clerkly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/287a3f755196b37c.md) — 1
+- [CLI agents](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8778d0ae12036067.md) — 1
+- [ClickCease](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/edaa58b34e0816ab.md) — 2
+- [ClickHouse](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7e099f39b84ea795.md) — 2
+- [clickpost](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f28425be6d953bae.md) — 1
+- [Clicks Talent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cc2aab7de69edf03.md) — 1
+- [ClickUp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c0d67255424148d8.md) — 2
+- [climbx.so](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9d74669aafba766b.md) — 1
+- [Climeworks](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/af34cbc6778d12e9.md) — 1
+- [clipee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ac4d85025546d757.md) — 1
+- [Clipkiln](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77fc51f330be9b37.md) — 1
+- [Clippings](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0a29fd3639932193.md) — 3
+- [Clippy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/328e9da6b2f987f3.md) — 1
+- [Clipses.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9da65a1959f4c530.md) — 1
+- [Clockify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aef009194961b226.md) — 2
+- [Clockify开源替代品](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fa3eeb4ffcd6306e.md) — 1
+- [Closewatch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c182d2a9de347791.md) — 1
+- [Cloud 23](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ac2f348c326f5e49.md) — 1
+- [Cloudbeds](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/54a0ce6ed68526af.md) — 1
+- [Cloudflare](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/738e22f0acab814c.md) — 21
+- [Cloudflare D1](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0daaf2021eb097f6.md) — 1
+- [Cloudflare D1 + KV](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/893335f7133d26bd.md) — 1
+- [Cloudflare Email Routing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0d86f50243f0902a.md) — 1
+- [Cloudflare human check](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8a35b7f66643eb81.md) — 1
+- [Cloudflare Pages](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/48cf5fbebc659d04.md) — 1
+- [Cloudflare Pages + Workers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f8aae6e43482c686.md) — 1
+- [Cloudflare R2](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3a45b80fb43349da.md) — 3
+- [Cloudflare Worker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3dfcfb0636140a3e.md) — 1
+- [Cloudflare Workers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/64d5680214dec071.md) — 3
+- [Cloudpillo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c508a83e6d216cc0.md) — 2
+- [CloudResearch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1f8a013af6027d81.md) — 1
+- [Clovia](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2db190ad7d3b8692.md) — 2
+- [clownbid.lol](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f64341518be3862e.md) — 1
+- [cluendo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/13f786eb1f5d9847.md) — 1
+- [Clypy.app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fc500446552b08dc.md) — 1
+- [CNIPA](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e3463262dee8434d.md) — 1
+- [CNN](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4aa08612a8f6e9e4.md) — 1
+- [Coca-Cola](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e357fc9a6a65dc31.md) — 2
+- [cocodly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9ddbe4ed7f24ce51.md) — 5
+- [Coconote](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a521df2680d0bfe3.md) — 1
+- [CodeForge.net](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ba812912b2045956.md) — 1
+- [CodeRabbit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fc34547c4b463431.md) — 1
+- [Codex](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/57de4cf40144bdf7.md) — 36
+- [coding agent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/31a85e22a24a7a4f.md) — 2
+- [coding agents](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/53beb385cf69a2c6.md) — 1
+- [Codédex](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d39cdd21551e9644.md) — 1
+- [coffee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/37290d74ac4d186e.md) — 1
+- [Cohley](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6e5eb08a7cd1c2ee.md) — 18
+- [Coinbase](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f80f21938e5248ec.md) — 1
+- [Coke](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8e9c543a5078f214.md) — 1
+- [cold call](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/03096bdf3fe3eae4.md) — 2
+- [Cold calling](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4b81942e202763e3.md) — 4
+- [cold calling agency/freelancers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/66466e009cbd442e.md) — 1
+- [Cold calling and email](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f2b90b73f5db344a.md) — 1
+- [cold calls](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d4fca79baaf96c5d.md) — 1
+- [cold DMs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3fdd2bf74a3ec577.md) — 2
+- [cold email](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/97551b394c117511.md) — 12
+- [Cold email list blasting](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/53cf200ec3bcec0d.md) — 1
+- [cold email outreach](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ba679af6a588b992.md) — 1
+- [cold emailing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8e5879b747d0657f.md) — 1
+- [cold email（冷邮件获客）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f689759166e79256.md) — 1
+- [cold outbound](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f4397482d29df04c.md) — 2
+- [cold outreach](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cf9ac08f26fdfa57.md) — 4
+- [cold outreach sending platform](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/514dd6dd0e4a675b.md) — 1
+- [cold outreach via DMs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5345eb5cdfe245bc.md) — 1
+- [Coleman](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3eb906846fa9951e.md) — 1

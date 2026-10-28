@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 12
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Crossing the Chasm](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0f1959805665719f.md) — 2
+- [crowdfunding sites](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a001827be368e9e9.md) — 1
+- [Crumbl Cookies](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ac9b736ba0c2ed43.md) — 1
+- [Crunchbase](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/43849aa943bc78f4.md) — 3
+- [CS-Cart](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f6ea962319ede9e5.md) — 1
+- [CSV导入](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e3c7aade42c11a5a.md) — 1
+- [CTV](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bf7ec213650b7513.md) — 1
+- [Cue AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e8814dce91bdeb72.md) — 1
+- [curl](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/427e4b79b1f0fc90.md) — 2
+- [CurlSmith](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/796e54b543914b76.md) — 1
+- [Cursor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/46a4eebd20d881ec.md) — 39
+- [Cursor规则](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/351559bb460ed249.md) — 1
+- [custom ai agent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/44484bb3933abb9f.md) — 2
+- [custom AI tools agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/231d61cf0c4c7062.md) — 1
+- [custom CRM + website](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d6da4a827065980b.md) — 1
+- [custom GPT](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/50e71953567840ae.md) — 1
+- [custom SQL](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e545f2c25cc7a22f.md) — 1
+- [custom tuned model](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/10e24d0d008f987f.md) — 1
+- [customer development process](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/71f79112fc13561d.md) — 1
+- [Customer IO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/63d8597a6ef0b70b.md) — 1
+- [Customer.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fa47b32ee8d65fad.md) — 2
+- [CutAi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bfc5ec606b8af392.md) — 2
+- [CutGPT](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/18524982adcc7f77.md) — 4
+- [D2C](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/63f56de7b96266d0.md) — 1
+- [Dailee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6be81ba5075cd229.md) — 1
+- [Dailee planner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/51c1eb320e5c5e36.md) — 2
+- [daily.dev](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b3a03f5db859d816.md) — 1
+- [Daisey Bloom](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8a6737c5e4944a0e.md) — 1
+- [Daisy.now](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/13fd1a9eaa3e4817.md) — 1
+- [DANI™](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ace97608f999262d.md) — 1
+- [Daraz](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/525b41e4acf0e624.md) — 1
+- [Data Annotation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/52d65b45e8510ed0.md) — 1
+- [Databricks](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2dc010636b9dce91.md) — 2
+- [Databricks (Genie)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/20603acd4fee6dab.md) — 1
+- [Datadog](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4d8bd97f03109ac1.md) — 5
+- [datafast](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c2b3e8a96141c5f4.md) — 3
+- [DataForSEO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1af6c9cd4f8bbfa3.md) — 4
+- [datatorag.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fc49055f31d2dd38.md) — 1
+- [Dave Hora's newsletter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/354589b29ade00ec.md) — 1
+- [David](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/07d046d5fac12b3f.md) — 2
+- [David Chaffey RACE framework](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/14abf390a171c3ef.md) — 1
+- [David Protein](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3039363236d4631b.md) — 1
+- [DaVinci Resolve](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/733a3133867b9d5b.md) — 6
+- [DaVinci Resolve MCP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f07ff84c3dba2e92.md) — 1
+- [Dawn](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8326e09ce4e90a41.md) — 1
+- [Day One](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b5619afdcb4e685f.md) — 1
+- [dbt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/de371adefe4de7fe.md) — 1
+- [Deal Fight](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0fbd4a343a1091ed.md) — 1
+- [dearCC](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8a3f98d3c74c02b7.md) — 1
+- [DearDoc](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/324d1ef5a4aedc30.md) — 1
+- [Dearly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a80ce26a52d85eb7.md) — 1
+- [Deel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8073c5350194424a.md) — 1
+- [Deenback](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/10f25ef4d59abce7.md) — 1
+- [DeepSeek](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6f7ac1823da81d2e.md) — 3
+- [DeepSeek API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/acc11db7d7d8a4c3.md) — 1
+- [Defender](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7246d2b2b9ceb9cb.md) — 1
+- [Delhivery](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/43e29e0d7de8f466.md) — 1
+- [deliverd.dev](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9583d06834f4a78f.md) — 1
+- [Deloitte](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3e808ece8227f5d4.md) — 1
+- [Delve](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9480e2c096bd66f0.md) — 1
+- [Delve AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3fb717f63b2735eb.md) — 2
+- [Demand Gen](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4fea3491fe78bc15.md) — 2
+- [Demandbase](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fa999fb35fa068db.md) — 1
+- [DemoForge](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b4459e8a45692acb.md) — 1
+- [Demogent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/61bb0d4c7efc01f2.md) — 1
+- [demogent.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fb2dd40b9e7f83d1.md) — 1
+- [Dentsu](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8519efa7526e4410.md) — 1
+- [depost.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/37375e00f9d92029.md) — 1
+- [Descript](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/71e3b7ab11b52fa3.md) — 3
+- [Designercize](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/122e535c9995ece9.md) — 1
+- [dEssence](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ce8175e3517774b4.md) — 1
+- [Deutsche Telekom AI platform](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c6db4043c5960eb4.md) — 1
+- [dev Discord servers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/37f08f42c679cb3a.md) — 1
+- [DevloftHub](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4cfbce8adbb0f802.md) — 1
+- [Devyce](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7c854dc0df913b50.md) — 1
+- [DHL](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/452ddac3092b5a85.md) — 5
+- [Dice](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e1e025805cd63af3.md) — 4
+- [didit.run](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b82d76a2625cc656.md) — 1
+- [Didoo AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db84fc6573daef5f.md) — 6
+- [dieselworks.co](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bb776371bb8555ff.md) — 1

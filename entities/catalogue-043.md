@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 43
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [The Consultants Room](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aa1ac162cfb0b56d.md) — 1
+- [The Dailee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f94359a5dc62797e.md) — 8
+- [The Diagnostic](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/25be5e95488fd290.md) — 1
+- [The E-Myth Revisited](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/28037d3819ca819e.md) — 1
+- [The Hard Thing About Hard Things](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/60126666ffee9efd.md) — 1
+- [The Mom Test](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ff42e06a7f26cc30.md) — 6
+- [The Right Fit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/769a0be99a5c910c.md) — 1
+- [The Round Table](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4f471f1ef189caa2.md) — 1
+- [The Row](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0e1d4a3c427e421b.md) — 1
+- [The SaaS Playbook](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/728eaa0cdecdf051.md) — 1
+- [THE SUCCESSFUL NOVELIST](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a0474e22201062a9.md) — 1
+- [The Telegraph Ads Manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/07594126720a75ac.md) — 1
+- [the wrapped bow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1704ec75801579fe.md) — 1
+- [TheCyberspark AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ff141636f493d92f.md) — 1
+- [thedesigntools.site](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c0f4a3aa049bf385.md) — 1
+- [thehifzproject.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/92cddeab9fee2628.md) — 1
+- [thehoneydept](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3f2de4340e52e063.md) — 1
+- [Themeforest](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/643ef15a9dcb8b73.md) — 1
+- [THEONEBLY](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9f800487ef539b1e.md) — 1
+- [Thepmparent.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e3cac366bb74a45d.md) — 1
+- [TherapyNotes](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d9ee4a521b52e522.md) — 1
+- [There is an AI for that (TAAFT)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/019ab8b08e77d23f.md) — 1
+- [There's Work Tomorrow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dc0e3241c08ae60e.md) — 1
+- [There's Work Tomorrow (TWT)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c23f432fe73db7f6.md) — 1
+- [thereisanaiforthat.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0ffdfc5d220d661e.md) — 1
+- [ThetaPal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a674678739689826.md) — 1
+- [thevoiceofuser.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cdcf81c154ec033a.md) — 1
+- [TheySaid](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b5150bf09b828449.md) — 1
+- [Things](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7e1ddfc85ae45a95.md) — 1
+- [Think Media](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b577a82d80cc0d96.md) — 1
+- [ThinkPad X1 Carbon](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3c4334bc4d4808d3.md) — 1
+- [third-party ad management tool](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/757f45c74cdcc9e6.md) — 1
+- [third-party video payment app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9a56116f90be901d.md) — 1
+- [This American Life](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/113daf8a88aaaa20.md) — 1
+- [This is Marketing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6c42f4546a81aafe.md) — 1
+- [ThoughtMetric](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77fe63da5bf63ba1.md) — 1
+- [Thoughtworks](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/27b78f50b2d3d969.md) — 1
+- [Thread Otter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c3c5c61650ed6c5e.md) — 1
+- [ThreadFox](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0098e0d80cbe5b71.md) — 6
+- [Threadline](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/14fd1af415ec8fe3.md) — 1
+- [ThreadPilot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/510ba9b63d87e27d.md) — 1
+- [Threads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4cc500db62ede737.md) — 11
+- [Three](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8b5b9db0c13db242.md) — 1
+- [Thumbtack](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bd7ef19a9db28266.md) — 2
+- [TickTick](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d468473c91a87d3d.md) — 1
+- [Tidio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e3f865bf4834001c.md) — 1
+- [TidyCal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2ee61b9646640a1f.md) — 1
+- [Tiffany](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/834d79caa6e0efb1.md) — 1
+- [Tiksta](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5dc79164d818ae7f.md) — 1
+- [TikTok](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5beeafeac2e27eae.md) — 256
+- [TikTok / Instagram / YouTube](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/78de9168905f5bd1.md) — 1
+- [TikTok Academy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/61bd752c7e8a492b.md) — 1
+- [TikTok Ad Network](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6951b88c155ac4ce.md) — 1
+- [TikTok ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3fc5e2aff42237f8.md) — 67
+- [TikTok Ads Manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/56c3f6e08d3c85c3.md) — 9
+- [TikTok Creative Center](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/820fb498f8863d64.md) — 2
+- [TikTok Creator Rewards](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cd0af945f0e70976.md) — 1
+- [TikTok GMV Max](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ba7a7901952931c6.md) — 1
+- [TikTok Higher Intent form](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/02c6b4bb41d5a9b9.md) — 1
+- [TikTok Instant Forms](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/061f5b6319a0a5a2.md) — 3
+- [TikTok One](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9a365bc624874a0f.md) — 1
+- [TikTok pixel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/00484091ada81792.md) — 1
+- [TikTok Promote](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5baa30fbff5eda52.md) — 2
+- [TikTok Shop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ee4c2e31481fc1ad.md) — 30
+- [TikTok Smart Campaigns](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d0dffc563bca3fd9.md) — 1
+- [TikTok/Instagram](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/06333fc91a6c3894.md) — 2
+- [TikTok/Instagram/Facebook/Reddit等社交平台](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f77806f42e61d61b.md) — 1
+- [TikTok/Spark](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8a9496c3254a85aa.md) — 1
+- [TikTok上的小型UGC创作者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e612b55093de68cf.md) — 1
+- [TikTok营销](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d6cf25d39325e18c.md) — 1
+- [TikTok营销代理](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/865a0193bb0c8eca.md) — 1
+- [TikTok账号预热流程](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3b4df45a22048ae9.md) — 1
+- [TikTok轮播图内容](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/eafef1ec168047bf.md) — 1
+- [TIME](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/336074805fc85398.md) — 2
+- [timebird](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/51051b15a55a6068.md) — 1
+- [Timeleft](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/34fa7d885b3a98b2.md) — 1
+- [Tint Cosmetics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6ae37da1be8d69f9.md) — 1
+- [Tintly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bfdd2fa0502d350b.md) — 1
+- [Tiny Acquisitions](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/19920d96a6425067.md) — 1
+- [Tinypopups](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/17f10eeda74112d1.md) — 3

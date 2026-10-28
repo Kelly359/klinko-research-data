@@ -1,0 +1,84 @@
+# Additional observed dimensions — catalogue 1
+
+Exploratory AI labels, including open-ended labels and synonyms. Consult original source records and contradictory evidence.
+
+- [ABO与CBO的角色分工](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/bbb389272ba4d58b.md) — 1
+- [acceptance](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/c1514c6cdad166c1.md) — 1
+- [access](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/a0561fd649cdb6ba.md) — 3
+- [access_barrier](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/c2213ea9dc1cad73.md) — 1
+- [accessibility](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/714db89df42bdb7c.md) — 6
+- [account_maturity](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/d913f95f2a242c0c.md) — 1
+- [account_risk](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/afae260d87e0bdd7.md) — 1
+- [account_status](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/052dd450b24aac97.md) — 1
+- [account_structure](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/d602cc8e038cdba9.md) — 2
+- [accountability](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/03939fbeaa4a9d85.md) — 9
+- [accuracy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/5879092f86c5e019.md) — 1
+- [acquisition](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/31de312977fc2ebd.md) — 18
+- [acquisition_criteria](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/c67ac3c9e8ec0c5e.md) — 1
+- [actionability](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/3ba9e41dc936ce87.md) — 1
+- [activation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/b15526c9c0e75ace.md) — 5
+- [ad_control](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/7f729122fcd6837c.md) — 1
+- [ad_copy_effectiveness](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/e938cc6f5961e1be.md) — 1
+- [ad_cost_inflation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/10fb6687309b7680.md) — 1
+- [ad_creative](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/742ac1011c30efa1.md) — 1
+- [ad_creative_control](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/eb4fee5c38093950.md) — 1
+- [ad_format_shift](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/04e2b32aa68c05b0.md) — 1
+- [ad_fraud](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/da2e67b26c429b30.md) — 1
+- [ad_fraud_mechanism](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/49c895fd55b16f6a.md) — 1
+- [ad_iteration](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/aaa1f25df59339b9.md) — 1
+- [ad_ops_discipline](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/69e4de98fe600d73.md) — 1
+- [ad_platform_risk](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/540c052f7d05a464.md) — 1
+- [adjacent_use](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/2f4967a4de6e503f.md) — 1
+- [adoption](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/1f81818d27cc93a3.md) — 399
+- [adoption_barrier](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/4eddd90d5f42b14c.md) — 4
+- [adoption_context](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/0ca2a64025feecac.md) — 1
+- [adoption_heterogeneity](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/e85c4e54eea9c2a0.md) — 1
+- [adoption_path](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/2c806e9ed10d9623.md) — 1
+- [adoption_trigger](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/c7a27169bbf41763.md) — 1
+- [advocacy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/e9a766f7f6862bc1.md) — 1
+- [agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/c4b2af4722ee54e3.md) — 1
+- [agency_accountability](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/53487e95167ef6a0.md) — 1
+- [agency_dependency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/47c7d57ce98d9a33.md) — 1
+- [agency_economics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/0d9d5a9ea60772a0.md) — 1
+- [agency_evaluation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/722e5fec9232b031.md) — 1
+- [agency_management](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/0e9b0f4602594883.md) — 1
+- [agency_quality](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/8b56a50327a76287.md) — 1
+- [agency_vetting](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/58dee1d60fd128c8.md) — 1
+- [agency_workflow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/804967c14cf828b9.md) — 2
+- [AI adoption](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/371917fa3ebda752.md) — 1
+- [AI adoption risk](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/eee47c6fa705fabe.md) — 1
+- [AI dropshipping](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/d96dd65a37ff54a1.md) — 1
+- [AI dropshipping 认知](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/23524d4e87b27ba0.md) — 1
+- [AI Overviews引用来源](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/7f3bedb67a7e3fab.md) — 1
+- [AI research](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/b81bfc5bcabe0103.md) — 1
+- [AI SaaS定价透明度](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/49a516dbad7982f6.md) — 1
+- [AI targeting risk](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/a83a8aed7f0c81eb.md) — 1
+- [AI 在定性分析中的信任问题](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/ef1e417788056d36.md) — 1
+- [AI-mediated client communication](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/731e1557de05f8d2.md) — 1
+- [ai_adoption](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/30ff71ee7a4a6d38.md) — 3
+- [ai_adoption_pressure](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/7400ad9d119b7300.md) — 1
+- [ai_anxiety](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/4a0ae9c45004cdbf.md) — 1
+- [ai_assisted_workflow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/6b7733dd458b4787.md) — 1
+- [ai_build_vs_buy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/662108483271a36c.md) — 1
+- [ai_content_quality](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/6fb182fab55114fb.md) — 1
+- [ai_content_trust](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/f1380fe146f6ffea.md) — 1
+- [ai_cost_uncertainty](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/495f7bb1f65a3d4d.md) — 1
+- [ai_displacement](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/90c0f46d1f7f0e23.md) — 1
+- [ai_effectiveness](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/83b31cec4c7dd79e.md) — 1
+- [ai_enabled_build_vs_buy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/ffae27118c6fcc7e.md) — 1
+- [ai_fit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/4a9440b40df0e32c.md) — 4
+- [ai_impact](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/4c75ea59cfb546b3.md) — 7
+- [AI_impact](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/3ad01f4d57e6cc67.md) — 1
+- [ai_limitation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/6d05f3091e7c8c92.md) — 2
+- [ai_native_architecture](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/8df4727ddba50fcd.md) — 1
+- [ai_positioning](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/1fcce312a274f4ae.md) — 1
+- [ai_reliability](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/4467fe40203e57e8.md) — 1
+- [ai_role](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/53f2440645aa8885.md) — 1
+- [ai_substitution](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/26c94d4211331f38.md) — 3
+- [ai_trust](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/db6ac98d94892f73.md) — 3
+- [AI_trust](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/29e4d3958571e6f0.md) — 1
+- [ai_usage_pattern](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/d3234e3a42a221c0.md) — 1
+- [ai_vendor_landscape](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/fcb824a3b09fca02.md) — 1
+- [ai_visibility](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/8c259c6b001d36c3.md) — 2
+- [ai_workflow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/f05b731a78e47b82.md) — 6
+- [ai_workflow_friction](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/discovery/0620247fef5cf792.md) — 1

@@ -1,0 +1,84 @@
+# AI-inferred roles — catalogue 1
+
+Raw AI-inferred role labels, including open-ended labels and synonyms. These are not verified identities, unique personas or paid-customer status.
+
+- [ commenter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d0941672f09213f1.md) — 2
+- [17岁个体服务提供者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e324a39e8c492269.md) — 1
+- [3PL operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ebf18eaebb8a1093.md) — 1
+- [3PL owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d23af073d9966671.md) — 1
+- [accelerator_operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/87772a94c3b07e56.md) — 1
+- [accounting_finance_professional](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/0f706096b2443d3a.md) — 1
+- [activewear brand founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ace361cf53f707a9.md) — 1
+- [ad account auditor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e25cf2294e88f88a.md) — 1
+- [ad creative creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/48194521f2d0624b.md) — 1
+- [ad_network_operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/bf1bb4907c6df696.md) — 1
+- [ad_ops_professional](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/00d0744d03e3ced4.md) — 1
+- [ad_platform_operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/3fb9fdc3af677845.md) — 1
+- [adops_developer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/b8a966dc099a83e8.md) — 1
+- [ads analyst](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/df1e73e56173ce28.md) — 1
+- [ads manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/dddc39a7745ec2a4.md) — 2
+- [ads/PPC practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/fcbe1b0a133a7293.md) — 1
+- [adtech company employee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/7b2dc30d692f4a5a.md) — 1
+- [AdTech supply-side professional](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a5ad7b72cda8de57.md) — 1
+- [advertiser](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a969f494a3087b70.md) — 190
+- [advertiser / media buyer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d1cd3500f618d013.md) — 1
+- [advertiser/agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/1357293d6c6c4f33.md) — 1
+- [advertising professional](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/7d2e0076cec66d00.md) — 1
+- [adviser](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/233c3c2c59623ae7.md) — 33
+- [advising_community_member](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e645a9ae55900766.md) — 3
+- [advisor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/3ec7e6111cd62b68.md) — 107
+- [advisor_investor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/3880a7a22f9d97f8.md) — 1
+- [affiliate/performance marketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/558a6be5b2d763e5.md) — 1
+- [affiliate_creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/28a6a66d9c44344e.md) — 1
+- [affiliate_marketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/838b4fa7f56a2987.md) — 4
+- [agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c4b2af4722ee54e3.md) — 62
+- [agency advisor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/be18e5ced52bac01.md) — 1
+- [agency content strategist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e82cdd3defe78f6e.md) — 2
+- [agency creative/AI video practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d4c4fdd9b3f7ea58.md) — 1
+- [agency executive](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/92c00d84ebabcb33.md) — 1
+- [agency executive director](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/782428ecb6cd38e4.md) — 1
+- [agency founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/8a9d150fab7d29a3.md) — 1
+- [agency marketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/18834218ca9987d4.md) — 3
+- [agency media buyer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/97d002ff5701ffb4.md) — 1
+- [agency operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/8386fa70aeb5b6d3.md) — 2
+- [agency owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/951e889f0c2dc096.md) — 7
+- [agency owner/consultant](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/54204642d01fdd50.md) — 1
+- [agency paid media practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/bd586a78a776dbfb.md) — 1
+- [agency practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/8fce7194ba183aa7.md) — 5
+- [agency recruitment advisor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/155a8f78b2e59359.md) — 1
+- [agency senior client-facing staff](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/383bc248bd6ada7b.md) — 1
+- [agency SEO practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e55b9fd7952616e9.md) — 1
+- [agency team member](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/3204770c2cdefdf5.md) — 1
+- [agency-side/business consultant](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/55cc0817e6f69c51.md) — 1
+- [agency/ads operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/889aee1fd1d39ea5.md) — 1
+- [agency/ads practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/fa4ba3653a27ffcd.md) — 3
+- [agency/consultant](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/355f71e703c668ee.md) — 11
+- [agency/consultant for beauty brand](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/cbdb3a64762909e7.md) — 1
+- [agency/consultant reporting to clients](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/08c90f29899bd9ee.md) — 1
+- [agency/newsletter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/70a8da752d265ab4.md) — 1
+- [agency/offer operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/6d7e8c3b12b7d466.md) — 1
+- [agency/PPC manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/85d1a81d63f387f8.md) — 1
+- [agency/服务方](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/766da02ff5b40015.md) — 1
+- [agency_account_executive](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/44a2a1cc247edf3d.md) — 1
+- [agency_advertiser](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c050dbbdbddf4292.md) — 1
+- [agency_buyer_or_evaluator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/095cc91ff2a6ddc1.md) — 1
+- [agency_creative_team_member](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/0b071d6af2507a09.md) — 1
+- [agency_developer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/5fdb87924dc36de6.md) — 1
+- [agency_employee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c65b110284a9b1cc.md) — 4
+- [agency_founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/46d5ada678db8e09.md) — 7
+- [agency_marketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c39b8daf311d939f.md) — 4
+- [agency_member](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a9d5d0327f8867f5.md) — 1
+- [agency_operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f1a336f5f602c222.md) — 4
+- [agency_ops](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d10c6b0d6e9fb3e1.md) — 1
+- [agency_or_freelancer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/606253714cf7e8e7.md) — 1
+- [agency_or_media_buyer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/525f6f59301576a7.md) — 1
+- [agency_owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/4bba815dacafcec5.md) — 33
+- [agency_owner_or_salesperson](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e6d40393812f20e7.md) — 1
+- [agency_owner_tool_vendor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/1591e90d6146edfa.md) — 1
+- [agency_practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2abb3efba7180ea8.md) — 3
+- [agency_recruiter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c329baed8a89df32.md) — 1
+- [agency_service_provider](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/dd95cb05d57f601e.md) — 1
+- [agency_side_experience](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/873e31f614f36e29.md) — 1
+- [agency_worker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/10ae2b2dfdbf0281.md) — 1
+- [agency服务提供者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/444b0143795b3a95.md) — 3
+- [AI agent服务创业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/9d6a22568b4ef36d.md) — 2

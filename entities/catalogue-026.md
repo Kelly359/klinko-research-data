@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 26
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Luxe Marketing Strategies](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/044c6dbd70b05f76.md) — 3
+- [Lyssna](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/97338714e605b3c3.md) — 7
+- [M2E Cloud](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bf7ac4505dc50953.md) — 1
+- [M3 Linked](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2cb0f736a2e0c43f.md) — 3
+- [MAC Enterprise Consulting](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/369e6eca5031c6a9.md) — 1
+- [MACEVE](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4aef97dfbac8a725.md) — 1
+- [Made From Zero](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dc0a02cd8fa577ab.md) — 3
+- [madetomeasurekpis.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ab45723176fc0d8.md) — 1
+- [Magento](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/850f4e8602b77a2e.md) — 3
+- [Magic Links](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a8ccbecf90e34717.md) — 1
+- [MagicPost](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/40bc4b5be4f0ceab.md) — 1
+- [Magnet](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ed05dd4d068fc00d.md) — 1
+- [Magnific](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/67133053bd92694d.md) — 5
+- [MAI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7d980bbde514db41.md) — 3
+- [Mailchimp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d56d16d88324bdc4.md) — 1
+- [Mailgent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c4661d438fbbb738.md) — 2
+- [Mailgun](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b555592a1435e0a9.md) — 5
+- [Mailyond](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/728651491a3f4300.md) — 1
+- [Maiths](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e4079c640db263dc.md) — 1
+- [major LLMs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ec696c35f200ac79.md) — 1
+- [Make](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d05aa2a15fb3c40e.md) — 5
+- [Make.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/021a150783874d5b.md) — 1
+- [makelocalads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a270c7d6242b6b6c.md) — 2
+- [Malt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d0dccc851781f55e.md) — 2
+- [Maltix Connect](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f1b60eeb771c96e1.md) — 1
+- [ManicTime](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2b34e935731a0b7f.md) — 2
+- [Mantle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c38e8334242ffdf0.md) — 1
+- [manual niche relevant submissions](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dff0bc84005acd52.md) — 1
+- [Manual outbound](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/313a629d8828cdb2.md) — 1
+- [manual service delivery](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cf2f107b81e93b76.md) — 1
+- [manual service via email](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7dd59a3d14844c30.md) — 1
+- [manual triage](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2062b008d5f08b91.md) — 1
+- [Manus](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7cdbc9084feb6ac0.md) — 1
+- [manychat](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3e9dae7ad8981a38.md) — 3
+- [Maono](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/43d254b97777debd.md) — 1
+- [MapFlow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2a3ad7a0d554e907.md) — 2
+- [mapthings.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/066a2ea9d3ead878.md) — 1
+- [Marc Lou](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/62be350232b5ae92.md) — 1
+- [Margine](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8bf4029a5fb3eeb3.md) — 1
+- [MarginRun Pro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d51e2700c60cdde4.md) — 1
+- [Mark Scaling](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8d5c0feee33230c8.md) — 1
+- [Marka](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/31191b5e5cede9e3.md) — 1
+- [market competitors](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f2bb3e67be57ba4b.md) — 1
+- [market research agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7fa1a9e9c3ab52e3.md) — 2
+- [Marketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c3dc2e69f8048a46.md) — 3
+- [Markethq ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c1eb6db035b39d1f.md) — 1
+- [markethq.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/54d6e6caf37ee6ef.md) — 1
+- [marketing/seo SaaS product](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0de3f1079d2e9b57.md) — 1
+- [MarketMuse](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d255d4623c342c21.md) — 1
+- [Marketo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/31c1484c3f7c2f13.md) — 1
+- [Marketplace Connect](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/052412a729db4fdd.md) — 1
+- [marketplace listing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ef0cf5c9cc8bd31a.md) — 1
+- [MarketSquad.app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/59421f71ec8b3631.md) — 1
+- [Marriott](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/82eaf348d48ce5d4.md) — 1
+- [Mars](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d158be41db87d705.md) — 1
+- [Marv](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/da758b9248eb1adf.md) — 1
+- [Marvin](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d3f40079ab5385e2.md) — 3
+- [Mastercard](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/07863e7a6a2154ba.md) — 4
+- [masterhooks](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/934e402c8e6b90da.md) — 2
+- [Mastodon](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ab7cda0f915ec566.md) — 1
+- [MATCH](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4945a70fa7f9c13f.md) — 1
+- [Mate the Label](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9dbe0ad8b3c7f2ca.md) — 1
+- [MATLAB](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2552a9843c49f92b.md) — 1
+- [Matomo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/155c56c9cb5506b1.md) — 1
+- [Matt Pocock's ADR system](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/37578c8e5e6b9c2d.md) — 1
+- [Maven](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2b2045546c3bdfa3.md) — 1
+- [Maxfusion](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c83c759a80759747.md) — 1
+- [Maxi AI Co-Founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3d86ba7290a4b87e.md) — 1
+- [Maya](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a95db5b0ac159e43.md) — 1
+- [Maybelline](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/308a9b0583e7da01.md) — 2
+- [Maze](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0d0e43874f1d4aa9.md) — 3
+- [McAfee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b2b5f6edf0c81741.md) — 1
+- [McDonald's](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8128aa9710e45fcb.md) — 1
+- [McKinsey](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/286a3c612017ad1d.md) — 5
+- [MCModsHub](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b2590b4de7ddeb87.md) — 1
+- [MCP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/10182ab855ff7727.md) — 15
+- [media agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77ce99ab0b4c4985.md) — 1
+- [Media Engineered](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/72e3709e7efb3c40.md) — 2
+- [Media Nug](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dae61337a8b5b928.md) — 1
+- [Media2URL](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/56dbf64beb0177eb.md) — 1

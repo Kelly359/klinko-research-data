@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 48
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Woof Dog Products](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0bb538ee6896fb07.md) — 1
+- [Woorank](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/563de3d61e2e1f2d.md) — 2
+- [Word of mouth](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ebce7ce0799b7aa2.md) — 1
+- [word with friends/Scrabble alternative](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7ea06e82e15ac1a6.md) — 1
+- [Wordle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ebe054f08821294f.md) — 1
+- [WordPress](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/576473d6a73d7f55.md) — 27
+- [WordPress + Woo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c946601679dda969.md) — 1
+- [WordPress GDPR插件](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b7d3a83e9cd1bd88.md) — 1
+- [WordPress/WooCommerce](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/da8b70d9de9c1a91.md) — 1
+- [WordPress模板](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ab33c3c134b4295a.md) — 1
+- [WordPress默认主题](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/18d43ac6d0d546f5.md) — 1
+- [WorkRate](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/999e0c8be4199a2b.md) — 2
+- [workremotelynow.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/54dea3a96b5577c9.md) — 2
+- [Worthful](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bed99aa5dcf111a3.md) — 1
+- [Worthline](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1e538414d94c8d36.md) — 1
+- [WOSADO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b5fe4e87daed9232.md) — 1
+- [Wpromote](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4aafa58b5e81660f.md) — 4
+- [wrelad.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a389a734ad07684f.md) — 1
+- [Wrike](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0549e836108aab45.md) — 2
+- [Writer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b93006774cbdd4b2.md) — 1
+- [Writesonic](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/191735028ff7faf7.md) — 1
+- [WSS Creator Club Academy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4d2901b9b22f8856.md) — 1
+- [Wulse](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1954ff3459aa88b7.md) — 2
+- [X](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2d711642b726b044.md) — 86
+- [X (build in public)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4b7418a5d1745e14.md) — 1
+- [X (Twitter)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/298d460de0f08573.md) — 7
+- [X Pro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ad9ca84358189a96.md) — 1
+- [X Radar](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c5ee6e225ff639a6.md) — 1
+- [X-Radio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dd01986c0e6acbcf.md) — 2
+- [x.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7f7ed12dfe7af503.md) — 2
+- [X/Telegram/YouTube Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cf3aeaa0a7045a4f.md) — 1
+- [X/Twitter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/07f64c9f672f2140.md) — 2
+- [Xano](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e525ff475d57b57e.md) — 1
+- [Xcellity Sandbox](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e9f4b0a5968c742f.md) — 1
+- [xenialstudio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/51e23045662205ea.md) — 1
+- [Xero](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1dd8cb03d5dc9395.md) — 8
+- [xholic](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/02f1b8193ab7a19d.md) — 1
+- [XO Bot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/37a21f779d8ccfa4.md) — 1
+- [XO Link](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8fb60dc45aff0c98.md) — 1
+- [Xoru](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ee8faa1a27839544.md) — 3
+- [Xorviex](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c83fc259e921e256.md) — 1
+- [X平台](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/15048ef7d93db59d.md) — 1
+- [X（Twitter）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/52f09968c42e0342.md) — 1
+- [Y Combinator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cefa8820a78940e0.md) — 5
+- [Yadaphone](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/991075c68b074251.md) — 2
+- [Yadaphone.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b4dc1492636628da.md) — 1
+- [Yappa](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e339393d04aae3cd.md) — 1
+- [Yappi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db8f907648631aaf.md) — 1
+- [Yard dogs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/18672b755d4ce59a.md) — 1
+- [YARDDAWGS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/efa59768c77a096a.md) — 1
+- [YC](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/95474ef85f37ce52.md) — 3
+- [YC SAFE](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/25fe33b0a8f2484e.md) — 1
+- [Yellowball](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/835fab34fb1cb046.md) — 1
+- [Yelp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bd11be25fd5fe2a2.md) — 4
+- [YesStyle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3693a9657bf69fc0.md) — 2
+- [Yeti](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f092670242a37d43.md) — 1
+- [Yoast SEO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e5296694ff77976b.md) — 1
+- [YouArt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2db7127696bcf70d.md) — 1
+- [Youdji](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b4577d167515b907.md) — 1
+- [YouGov](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a3b2f2591ece3713.md) — 2
+- [Young Urban Project](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bbc55c2ea9bee2ca.md) — 1
+- [YourLastScreener.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f6a43b95c685e3e5.md) — 1
+- [YouScan](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/76c6df41d054d61f.md) — 4
+- [YouTube](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/24e6654bfd1ab85b.md) — 239
+- [YouTube Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e38b19d36c07410d.md) — 6
+- [YouTube AI tools](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8b2a5ab249025f00.md) — 1
+- [YouTube Analytics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7584b71d503cbf1f.md) — 1
+- [YouTube API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5b6fcae4a3d55380.md) — 3
+- [YouTube BrandConnect](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a1f48f6136357421.md) — 1
+- [YouTube Creator Partnerships](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e652baa78d90ac19.md) — 2
+- [YouTube Data API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/216b9a94d38fc603.md) — 1
+- [YouTube Partner Manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e9c9f5b50c4d1ed8.md) — 8
+- [YouTube Partner Program](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/461e9adc6a2e5ee3.md) — 2
+- [YouTube Shopping](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9219e2ab07c38c53.md) — 6
+- [YouTube Shorts](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9524a619a0aedbe5.md) — 22
+- [YouTube Spark Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3ae58c8789a25233.md) — 1
+- [YouTube Studio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ae365ccca4d27503.md) — 20
+- [YouTube 教学视频](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3eb5e5effc36527b.md) — 1
+- [YouTube创作者（西班牙人，同类App）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5c58de90c8ec98e3.md) — 1
+- [YouTube演示视频](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c1414c1f6ea3e35f.md) — 1

@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 22
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [India Post](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d64a43eb0fd426ad.md) — 1
+- [Indie Hackers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8b15fd42be3fc263.md) — 5
+- [IndieAppCircle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0b52176a13cf19b5.md) — 3
+- [IndieHackers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1a1e18518b0620cb.md) — 2
+- [IndiePilot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b3b87f69e47f5d24.md) — 3
+- [Infinite Options](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3325fc102c25a17d.md) — 1
+- [InfiniteTalk](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f7f1ad21ca843835.md) — 2
+- [infludo.net](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ca8d841bbc67963e.md) — 2
+- [Influee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1a48840046666efa.md) — 2
+- [Influence by Robert Cialdini](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1708afbfe5e99034.md) — 1
+- [influencer/pro skater partnership](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e663ce4da007cc66.md) — 1
+- [influencerdiscoverytool.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fc6e1a6f47add9f8.md) — 1
+- [influencers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3876e60c98d1c729.md) — 1
+- [influencers club](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b28588a00408e501.md) — 1
+- [Inkantation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9179e42e412ba9be.md) — 1
+- [InkMeet](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/07bd686dcf7f4459.md) — 1
+- [InLinks](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ada15dd847743f0f.md) — 1
+- [InPaceline](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cd92de35e80212de.md) — 1
+- [Insense](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/994b5fbfcd721217.md) — 20
+- [insertcoin](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a75c4087cd90e65e.md) — 1
+- [InsightLab](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c42401fadf0676d9.md) — 1
+- [Insights Meta](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/746af98aa125977f.md) — 1
+- [InstaCall](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9382f99d8b2696b8.md) — 1
+- [Instagram](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5ede56738376a8c5.md) — 186
+- [Instagram Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b1a833ea50377457.md) — 5
+- [Instagram boosts](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/31afd6ce78677333.md) — 1
+- [Instagram DM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9203e8f62887be3d.md) — 1
+- [Instagram DMs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/be503f319f46bca1.md) — 1
+- [Instagram Insights](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7d683e1833652a70.md) — 1
+- [Instagram outbound](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6794708599632a26.md) — 1
+- [Instagram Reels](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1f3979708a847cb8.md) — 6
+- [Instagram Shopping](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fa6cef3cb8de65ec.md) — 1
+- [Instagram Stories](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/01064950ac11384d.md) — 1
+- [Instagram付费广告](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/15c45dcde31973ab.md) — 1
+- [Instagram创作者推荐](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0369c1269ad6f030.md) — 1
+- [Instagram广告](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/22d6abc62c099096.md) — 1
+- [Instant Reply](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f52a2d3b43bd9e7c.md) — 1
+- [InstantDocs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0ed46cff8807dc89.md) — 1
+- [Instantly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cbcf6dfcd8154efc.md) — 6
+- [Instantly.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d06b142277c23557.md) — 1
+- [Instillr](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/74a2862fde122bb8.md) — 1
+- [Instinct](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/26e59d6a3c92de80.md) — 3
+- [InTake](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4736bc313525a831.md) — 4
+- [Interaction Design Foundation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/69576293281e3717.md) — 2
+- [Interakt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/36489ebb5e190cb8.md) — 1
+- [Intercom](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c47b618e17c75f06.md) — 2
+- [Intuitive Shipping](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a075788c7de02ff7.md) — 1
+- [Invalid Bounce](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3bed2c900d563bd2.md) — 1
+- [Inveon Technologies](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3148599349c20d33.md) — 1
+- [Invest Mindset](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/08f0f9e01255e05a.md) — 1
+- [Invideo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f52e046d884a779b.md) — 2
+- [Inviting Depth](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/00f95d996dc53e06.md) — 1
+- [iOnos](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ec61bcb4e4f93d6f.md) — 2
+- [iOS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/48ee046028069a9c.md) — 1
+- [IOSS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/95fb2b26ee0ba29e.md) — 1
+- [iPhone case](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/61a8b70e70225f8d.md) — 1
+- [Ipsos](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/397597f2294a71ea.md) — 1
+- [IQVIA](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e4737dbe1ba9b078.md) — 1
+- [IRAP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8a82f9addc663bb1.md) — 1
+- [Italia Deluxe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7a9e5e8a18ace179.md) — 1
+- [itch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5f668d7185e0fd2d.md) — 1
+- [itchfinder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ec09894e83591c68.md) — 1
+- [iTunes](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8123182b373a8541.md) — 1
+- [iurii.rogulia.fi technical consultation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/20cc01f4d0ac1b29.md) — 1
+- [Jabburr](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0a4f23d50bf5f7f1.md) — 1
+- [Jack Friks](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cbb12fc44b00e530.md) — 1
+- [Jam](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7152e6ec048e24fa.md) — 1
+- [Jansport](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3215a53a67097895.md) — 1
+- [Japanese 3PL](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/439643a2587c27d0.md) — 1
+- [Jasper](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3721e1a2ad55f5ac.md) — 26
+- [JazzCash](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ad28d5dc30c8d63e.md) — 2
+- [JEE辅导业务](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0245b85b32b226b1.md) — 1
+- [Jely](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/321739662092fe58.md) — 1
+- [Jenkins](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/424e9661130eeeb0.md) — 1
+- [Jenni](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d094a997ef61e6b0.md) — 1
+- [Jenni AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0f1393bcbfcfa23e.md) — 2
+- [Jenova](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/52e7da953b5b25d6.md) — 1
+- [Jenova Meta Ads Image Generator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3f68a277fadd2828.md) — 1
+- [Jenova Reddit Search](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/133e9aaf0942acbe.md) — 1
+- [Jet Admin](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8afc122f292d3aec.md) — 2

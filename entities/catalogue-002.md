@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 2
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [AEO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0ead5c5d188f5c48.md) — 2
+- [AEO/GEO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6f97e7e5c244632f.md) — 1
+- [AEO/GEO agency (generic)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8327b5f14ef976a4.md) — 1
+- [AEO/GEO工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9fc838a83f033744.md) — 1
+- [aeonneon.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f3cc8a72b4d637e4.md) — 1
+- [aerie](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/917c0a7b054bbbd3.md) — 1
+- [Affiliate partners](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d6017ed9e655c21b.md) — 1
+- [Affily](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/98c26703cbf64c36.md) — 1
+- [Affinity](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/74283e22161afdd1.md) — 1
+- [Affinity Design](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2485158e168aeb9e.md) — 2
+- [Affinity design suite](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f6edaa0cd96ad664.md) — 1
+- [Affirm](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/934a426989f7a155.md) — 1
+- [Afrikana](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/efb505f220cb7d7c.md) — 1
+- [After Effects](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3cd2776e9abe2d80.md) — 3
+- [Afterflow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8096016755b7afc7.md) — 1
+- [Aftermarc.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a9cde6e6bd816a68.md) — 1
+- [Afterpay](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a98eb20cf4977b07.md) — 9
+- [Aftership](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/023b90f416b5a036.md) — 1
+- [AfterShip Returns](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/450abde79e886df9.md) — 2
+- [Afyore](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/49b2df26d1433497.md) — 1
+- [agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c4b2af4722ee54e3.md) — 18
+- [agency ad accounts](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ef230f693e7fad2e.md) — 1
+- [agency video（视频制作外包服务）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a6ace8ed1ac50e98.md) — 1
+- [agency-specific subs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d1392c1c9050c754.md) — 1
+- [agency/consultant（视频服务）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/316e682484bdd4a3.md) — 1
+- [agency/freelancer video services](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/64c5bc2aa18fc74c.md) — 1
+- [agency/freelancer 全制作流程](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e606d4d2c7cfb259.md) — 1
+- [agency（人工代理）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c27e18b03cd06f9d.md) — 1
+- [agency（无具体名称）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cccf4486b85527a0.md) — 1
+- [agency（无名称方案）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c4e06afa01e4b7d6.md) — 1
+- [agency（泛指）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f362d22d87d4f88b.md) — 1
+- [agency（营销代理服务）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6d2cec3aad8e4021.md) — 1
+- [Agent Ivan](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/85dae7438841e6ac.md) — 1
+- [Agent Spark](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/afc3c5a943fba0b4.md) — 1
+- [agent swarm for competitor price monitoring](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4046800d861aec4e.md) — 1
+- [AgentBill](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/87b1d37446d0b067.md) — 2
+- [AgentHost.space](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a8c801f285225399.md) — 1
+- [Agentio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dcf0eaec1d5618bf.md) — 3
+- [Agentix](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/969e6e4f614d31e4.md) — 1
+- [AgentMail](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/befc92b3a019d04c.md) — 2
+- [Agentra](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c46d61d4f9f5f384.md) — 3
+- [agenttrove.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2e7b77f60e5e11d7.md) — 2
+- [agentui](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/257dc26f8ba5ccad.md) — 4
+- [Agile](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/052ff38befb367b0.md) — 3
+- [Aha](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0ca758e42f697981.md) — 1
+- [Aha!](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b9be167dad05e2e4.md) — 1
+- [AhaCreator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/423ad1b9f4471568.md) — 1
+- [Ahrefs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/50b7110eceb6157f.md) — 18
+- [AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/32e83e92d45d71f6.md) — 21
+- [AI Accelerator program](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9d57561c4be00b41.md) — 1
+- [AI address gathering](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/46bb5ee56ce9d9d1.md) — 1
+- [AI ads agent（AI广告代理）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c871cd36a85e4a74.md) — 1
+- [AI agencies](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c11ac6296c1a917e.md) — 1
+- [AI agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/19919f8eea8ce1d0.md) — 1
+- [AI agent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ee662f0a4316976d.md) — 2
+- [AI agents](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e748f8750672ca8b.md) — 5
+- [AI agents 服务](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2c5e94598988bf83.md) — 1
+- [AI agent自动抓取软件数据](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/370a466fd20beb8f.md) — 1
+- [AI agent验证协议集](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/82740a1129d5dcf4.md) — 1
+- [AI Agent（通用方案）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c9087d26af0c35be.md) — 1
+- [AI and automation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f461785de47e5beb.md) — 1
+- [AI answer engines](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ebb3b4cc8b369c93.md) — 1
+- [AI answering service](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7dbcfc5f61f36286.md) — 1
+- [AI API研究工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/57bdb2cba7966517.md) — 1
+- [AI app builders（通用）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3d167a2377dfb89e.md) — 1
+- [AI assistants](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fafff6df80ac162a.md) — 1
+- [AI Automation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c3fb8fd7e1ba63e7.md) — 1
+- [AI automation systems](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b634cb110cfff076.md) — 1
+- [AI citation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aca8cfa9a4090ba4.md) — 1
+- [AI coding agents](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3c41eea57eef8f06.md) — 1
+- [AI coding tools](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/89bfb719af98c1cd.md) — 1
+- [AI development agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fcfd39534060f92b.md) — 1
+- [AI dropshipping](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5bd3c7169b866838.md) — 20
+- [AI Harnesses](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6beb625196d222e4.md) — 1
+- [AI idea validators](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7c3d741566415ac5.md) — 1
+- [AI image generator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/57e968ef6ebd79c8.md) — 1
+- [AI Mac voice-to-action layer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/03ede3b3e9b3daf5.md) — 1
+- [AI max](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/741cce04132c20c5.md) — 10
+- [AI mod](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1120fc3e8d4219db.md) — 2
+- [AI Overviews](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/506e5676f3be246a.md) — 4

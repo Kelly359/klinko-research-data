@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 34
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [ProductCamp Seattle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/67fa5abd5cd3db83.md) — 1
+- [ProductHunt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c0876b8f6963a753.md) — 1
+- [ProductPointers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d040f82f66ec6986.md) — 1
+- [Prof G Pod network](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e6b3ff474ae8bc52.md) — 1
+- [Profit First](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9b668681e4d83263.md) — 1
+- [ProfitMaps AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7055d1bec0d45867.md) — 2
+- [Profound](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d750f652e8f2dd92.md) — 7
+- [Project Casting](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/957a4c0006f94e54.md) — 2
+- [Project Echo MRR Growth Calculator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ed99991bfe6a8cb.md) — 1
+- [ProjectionLab](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ac6296b46704994b.md) — 1
+- [Prolific](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8e3fa58150808a5b.md) — 1
+- [Promarkia](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a5bffc1db647a43c.md) — 1
+- [promohyper](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7fc26c351a824829.md) — 2
+- [promohyper.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ff556393039cb2a.md) — 1
+- [PromptWatch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/800d63803f6655d5.md) — 3
+- [prompt优化工具链/评测体系](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/170e84a6ed3ccada.md) — 1
+- [Promvia](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7446e259b5ac7e7b.md) — 1
+- [proofademic](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0690bea1a58f39dd.md) — 1
+- [Proofly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ded2ee6df961fc6b.md) — 2
+- [Proofpoint](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d48e1093a46fac35.md) — 1
+- [ProofSkill](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bb026837427ba842.md) — 1
+- [propelr.app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b70a87bc1f06db70.md) — 1
+- [propoflow.xyz](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6f5a54285ef35a65.md) — 1
+- [Prose on Pixels / Havas](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9533b1db9a5d4752.md) — 2
+- [Prose on Pixels / Havas Content Production Agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8f0ac22cc1176ed8.md) — 1
+- [Proton](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/469dfc0b18c73eb2.md) — 1
+- [Proximate Marketplace](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c439f28eefbcc307.md) — 1
+- [Proxmox](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d20dbd6a870c2519.md) — 1
+- [Pruvan](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/098c9de62e9d1ab9.md) — 2
+- [Pruvan Direct](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/41ef67f91fbacf6a.md) — 1
+- [Pryvela](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1eb8109d9a1944d0.md) — 1
+- [PSA工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/47ddb524dccd0653.md) — 1
+- [Psychology of Money](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/eaa9f3b4381c34e8.md) — 1
+- [PTC](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1e7d5ea110099bb4.md) — 1
+- [Publicis](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9c7bbb5f2d770949.md) — 4
+- [Pulley](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fc6f05bc5fadba33.md) — 2
+- [Pulsar](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e00811bb53630e3b.md) — 24
+- [Pulsar Platform](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/94a4d2e563681489.md) — 1
+- [Pulsetic](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2b3236b50df64863.md) — 1
+- [Pulzira](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2bcb031939667948.md) — 1
+- [PureLicence](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7be56ce78d5afa94.md) — 1
+- [Pureology](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/530a9826d9537aba.md) — 1
+- [PureTrace](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e12bb999bf7e6ef9.md) — 1
+- [PUSH UX](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1a13337fc2ddf73b.md) — 1
+- [Puzzle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d4fba09b856cc0aa.md) — 2
+- [Pyannote](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/59fe59eb85a15c66.md) — 1
+- [Pyari Walls](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b986e0d25976100c.md) — 3
+- [Python](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/11a4a60b518bf249.md) — 1
+- [Qapita](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b165a5f70712463d.md) — 1
+- [QR code generators (generic)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e3e8e83dcc90f323.md) — 1
+- [Qualtrics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0d917a8164be833e.md) — 9
+- [quanta.is](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/994fc9435e2c4e8e.md) — 1
+- [Quantifying the User Experience](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5ec9d19ad86c56bd.md) — 1
+- [Quantum UX](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2dfac34572486a0f.md) — 1
+- [Qubics.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/88125b612cb29879.md) — 1
+- [QuestionPro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/39c6d02bff369364.md) — 1
+- [QuickBooks](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/58b4537b616e6572.md) — 20
+- [QuickBooks Online](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c0d08467d46c67b4.md) — 9
+- [Quickpitch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bea46eb8bfe555d3.md) — 1
+- [Quickpitch.in](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/506bb7f687545853.md) — 1
+- [Quizlet](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8ace5a64458fad11.md) — 1
+- [Quora](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/24f353e0da1ced9f.md) — 2
+- [Qurious.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e4f6f519e6347032.md) — 1
+- [Qwen](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/67f2d22514622d1b.md) — 3
+- [Qwen 0.6B](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/84ec108d6a22b845.md) — 1
+- [Qwen 3.8 27b](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3e34afda28054d3b.md) — 2
+- [Qwen A3B](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a5144e58634df921.md) — 1
+- [Qwen3 0.6B](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e821d4e101dad5ef.md) — 1
+- [r/3dprinting](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5c09796c7676e30f.md) — 1
+- [r/accounting](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/72111e404963d8c2.md) — 1
+- [r/additivemanufacturing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/043ea76e807237b6.md) — 1
+- [r/adops](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7f00a19673acd347.md) — 2
+- [r/AIDevsBuilders](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/92c17b375e673dce.md) — 1
+- [r/analytics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aeb6564e4f819f44.md) — 1
+- [r/askelectricians](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1bf14fd38e7cbace.md) — 1
+- [r/AskMarketing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9f1d3d8f2eef6deb.md) — 1
+- [r/blueteamsec](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3e972002b13024ce.md) — 1
+- [r/bookkeeping](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3dd30e9d2bef07df.md) — 1
+- [r/businessintelligence](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0d9d556843faf6bb.md) — 2
+- [r/chatgpt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/998ced551adc3717.md) — 1

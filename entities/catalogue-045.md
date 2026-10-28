@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 45
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Tynker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/778b168c6eb5e377.md) — 1
+- [type.com campaign-monitor skill](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b7ba7b7e04322834.md) — 1
+- [Typeform](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/55f430c031f1f2f7.md) — 20
+- [Typefully](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8f74ecab43053394.md) — 4
+- [u-wellness](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2e64bff307ee3bfd.md) — 1
+- [Uaintreaddy.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0effc5c9bb36218b.md) — 1
+- [Uber](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/74c860f63661b29c.md) — 12
+- [Uber Eats](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/33860d208be29fde.md) — 7
+- [Ubersuggest](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a643b703f3fea336.md) — 1
+- [Ubigi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e6a8cc04642164ca.md) — 2
+- [Ubiquiti](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e383b7c53698b36d.md) — 1
+- [Ubiquitous](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e0c5561d19d63fc4.md) — 1
+- [Udemy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/583e17796e6a79e5.md) — 1
+- [UGC](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/110f5a1cba43a5c2.md) — 1
+- [UGC Bios](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f1708e9009da9d29.md) — 1
+- [UGC Club](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dfd8c19834abe35c.md) — 1
+- [UGC creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/91fdc920ff89944b.md) — 1
+- [UGC Locker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fa1a57aae2d19ea1.md) — 1
+- [UGC Roster](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3162c7c1d68a4d7f.md) — 1
+- [UGC websites](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1082bc060dcd841e.md) — 1
+- [UGCad AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2030899f09461638.md) — 1
+- [UGCKit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4079f446cc547f6c.md) — 1
+- [ugcs.farm](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2aec90df6df3be7e.md) — 1
+- [UGC创作者合作](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2c99a5e5a9353eb9.md) — 1
+- [UGC平台（未具名）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8efb5bc837a24e2e.md) — 1
+- [UGC投放](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f46dee997884ba31.md) — 1
+- [UGC视频](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ed07e5d68a809192.md) — 2
+- [UGC课程（未具名）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/259a137d9e9f3447.md) — 1
+- [UK建筑行业类似平台（评论者自建）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/46d29b43956f2721.md) — 1
+- [Ulevus School of Design](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d2f45a3ac7a42e68.md) — 1
+- [Umami](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/25a9dba42e0fac74.md) — 4
+- [Unbounce](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4285df8a33760fbb.md) — 2
+- [Uncapped](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/57afc57521bca943.md) — 1
+- [underlnd.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c838a8bbc5816e38.md) — 1
+- [UNDO GUMMIES](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6df570645ce4ab53.md) — 2
+- [Uneed](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e8dc038bf22d1305.md) — 3
+- [UnifyCart](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/31074ac109dbef3d.md) — 1
+- [UnitedHealthcare StudentResources](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/461295a301f2879d.md) — 1
+- [Unity](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a5790b06f63b7c16.md) — 1
+- [Universal Search](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dfa8bd7112769b9c.md) — 1
+- [unknown](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b23a6a8439c0dde5.md) — 1
+- [Unlimit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ad9b46fecc61d2e1.md) — 1
+- [Unofficial Shopify Podcast](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/03d1867539493d2a.md) — 1
+- [Unreal Media Group](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3a1c4e3c57da47d2.md) — 1
+- [unrepped](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a50279d795bd1907.md) — 1
+- [Unrivaled](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/52daaa6a955988c0.md) — 1
+- [Unsplash](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6e204575f58f2425.md) — 3
+- [untammed.co](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bcd3d4dc7d97b98c.md) — 1
+- [Upfluence](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7cfe320a2ff63f86.md) — 1
+- [Upromote](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e4045b9abb78a0bd.md) — 2
+- [UPS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a513bdd290dbcac4.md) — 3
+- [upscaleup.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/123d066553fcba55.md) — 2
+- [UptimeRobot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/27ea561d1816969d.md) — 1
+- [Upwork](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c1e84f7c3e4f76b9.md) — 43
+- [US 3PL](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e21a00ab9d10b14f.md) — 1
+- [Useberry](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/13ee67d4d8858ef7.md) — 4
+- [usebravery.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aa6806cec16aa4b8.md) — 1
+- [usefastlane](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8a8271336f052538.md) — 1
+- [User Interviews](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d81cbc0723ef3909.md) — 9
+- [user outreach](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/67e90e24809e4a4b.md) — 1
+- [UserInterviews](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ab278a4777ce5f4a.md) — 1
+- [UserJot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4202adc95499d434.md) — 1
+- [Userlytics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/91c03ceaf6fa3b55.md) — 2
+- [Userscom](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/67c8cad467daf11f.md) — 2
+- [UserTesting](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b0c736115f074ba7.md) — 5
+- [UserTesting.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d9cb6ac8bcc8febd.md) — 1
+- [UserZoom](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fab8e8737237c641.md) — 2
+- [USO: Ultimate Special Offers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b06919b3a4f39dd0.md) — 1
+- [USPS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c8b37c8e530ddc15.md) — 5
+- [USPS APV](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0d2d7ae7bd552073.md) — 1
+- [USPS Every Door Direct Mail](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8542dd905b3eeba0.md) — 1
+- [USPS Ground Advantage](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7b43812866f6ed36.md) — 1
+- [UX Research Transition Lab](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2e05d094fc56a4d3.md) — 1
+- [UX StackExchange](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a27062aeebe14c32.md) — 1
+- [UX Tea Breaks](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/053551e296161339.md) — 1
+- [UX Tools](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0b9395bd359e2354.md) — 1
+- [UX Wizards](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/191d03729579ce26.md) — 1
+- [UXArmy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8aa423a3e2b347e3.md) — 1
+- [UXCam](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5005a58f19d0bc5f.md) — 2
+- [UXTests.app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0de07aaef662a92d.md) — 1

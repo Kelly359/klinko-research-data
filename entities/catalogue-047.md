@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 47
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Warner Bros](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/345a10afdc32e5bd.md) — 1
+- [Warner Brothers Games](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3f0e49e3f96565bf.md) — 1
+- [Warp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/da9e96b401da78ec.md) — 1
+- [Wassenger](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/36aac3959d6f6506.md) — 1
+- [Wati](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e8dea487c94b3126.md) — 1
+- [Watsons](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/26d45d2e99012fb3.md) — 1
+- [Wave](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4b125ec99a744705.md) — 4
+- [Wayback Machine](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/72343adaaf014c81.md) — 3
+- [Wayfair Professional](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cf568af5700e6f0e.md) — 1
+- [Waypoint](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bbb75229c7d4cac2.md) — 1
+- [We Are Rosie](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b4cfd04281fb0529.md) — 1
+- [web app（验证用MVP）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/21e20209334b3651.md) — 1
+- [web builder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/146280d22b3fa0ac.md) — 1
+- [Web Canvas](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ed59086d9dfcb5d0.md) — 1
+- [Web Markups](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/82020b49425d278b.md) — 1
+- [Web Store](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/97b48c166f8b9375.md) — 1
+- [WebBuilderCopilot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2907388a327da9bf.md) — 2
+- [WebDataCrawler](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5c9ece0293ac2d28.md) — 1
+- [Webflow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77e5604feeaf6e01.md) — 4
+- [WebMCP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/83e08620e87b0135.md) — 2
+- [WebMD](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/03310c19b984438e.md) — 1
+- [Webroot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e9a170ad5a589f15.md) — 1
+- [Website](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/747a8f398395dde8.md) — 2
+- [website banners](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fc9cd35fd6c71456.md) — 1
+- [WebTrafic](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/be0eaf2b99a479ca.md) — 1
+- [webvisiblity.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/992f9e39aa6f7a7f.md) — 1
+- [WeChat](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2a82e52f9257715a.md) — 1
+- [Weglot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f00a14a7eb1db2bb.md) — 1
+- [Weleda](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cecc4ca5086074fc.md) — 1
+- [Wellfound](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e8198502142283f2.md) — 1
+- [Wellnos.app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e4859d9db10966b2.md) — 1
+- [wesify.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1f512b603ac3fb01.md) — 1
+- [Western Union](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d07e976b38406e62.md) — 2
+- [Wetracked](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b9f2a714b57b41cd.md) — 1
+- [WhatConverts](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5f13960d333e1386.md) — 2
+- [WhatFont](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/91941e1f2d1c5d2f.md) — 1
+- [Whatnot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fd6d671e8516fc52.md) — 2
+- [WhatsApp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ec8202b6f9fb16f9.md) — 67
+- [WhatsApp and Lead Automation platform (upscaleup.io)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/602472317ac7658a.md) — 1
+- [WhatsApp API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4fbd0cbdcbd17cf9.md) — 1
+- [WhatsApp Business](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1462d083b03616a7.md) — 1
+- [WhatsApp Business API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/94b4140339ecdbb5.md) — 2
+- [WhatsApp Channel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/747807ec90d313d0.md) — 1
+- [WhatsApp Channels](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/88e951e372e1a970.md) — 2
+- [WhatsApp Status](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3159b29535696918.md) — 1
+- [WhatsApp官方API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/05c70f60aca3ed8d.md) — 1
+- [WhatsApp群组](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/62b511c5a60d3932.md) — 2
+- [WhatsApp自动化平台（自家产品）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e232083c6aeb66fb.md) — 1
+- [WheelofNames](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7562acf32d4ef038.md) — 1
+- [Whimsical](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5013fc7e3945efe3.md) — 1
+- [Whisper](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ba7955598f2007bc.md) — 3
+- [Whisper Large v3 Turbo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3393c1e3905d2d7f.md) — 1
+- [Whistle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fa82948800a46459.md) — 1
+- [white label agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/060591e0d6a05572.md) — 1
+- [white labeled ad agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c8c1ecb968555072.md) — 2
+- [white-labelled Indian seo agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fa8ea2124fc29b58.md) — 1
+- [WhitePages](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/315ae896c8ad0a6d.md) — 3
+- [whoownswhat.xyz](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4c7227c694722f73.md) — 1
+- [Whop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7060ed8f58514a4d.md) — 7
+- [Wibbi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1cab0f5f4b55c17e.md) — 1
+- [Wigley’s Accounting](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/27f2faa5b7b119b5.md) — 1
+- [Wikipedia](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bf11ba3f487c3841.md) — 1
+- [Wikipedia Commons](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/02cf6e060de72ee2.md) — 1
+- [Wikissey](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9786bb08b226de93.md) — 1
+- [Windows 11](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9b297c9b0c9d0e0d.md) — 1
+- [WindowTidy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bf4e77348a88e48c.md) — 1
+- [WIP.co](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/78dd028c745a2047.md) — 1
+- [Wired](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5358fb4a86257708.md) — 2
+- [wiringsim.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f26bfe60c5bf0cdf.md) — 1
+- [Wise](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c88af1b793063696.md) — 6
+- [Wisewand](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/04ee68956f6fd2be.md) — 1
+- [Wisibl](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5420303873518c5e.md) — 1
+- [Wispr Flow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/261615e946be1227.md) — 4
+- [WisprFlow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2a506df9929a1e40.md) — 1
+- [Wix](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/82b818c5f0192223.md) — 16
+- [Wizstar](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9c601062d437f44e.md) — 1
+- [Wizstar AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6abb6092c26f000b.md) — 1
+- [WonderTales](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/80fb5999e77d26d5.md) — 1
+- [WonderTales（同名其他应用）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e88ca7016fd97f48.md) — 1
+- [WooCommerce](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/36546d452b5919ce.md) — 11

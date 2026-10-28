@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 13
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Dify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dba3ebfefbdbff63.md) — 1
+- [Digital Commerce 360](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e57c9050c17f7c31.md) — 1
+- [DiningHoll.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/01aad3af5f229c71.md) — 1
+- [Dior](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8eacdfd26662076c.md) — 1
+- [direct downloads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1f512fcf1f60babe.md) — 1
+- [direct emailing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ae1daa0c0efb46d3.md) — 1
+- [Direct mail postcards](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2d83443bec0035d0.md) — 1
+- [direct outreach](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e11364bb2a4c8d2a.md) — 3
+- [directories](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/374cb37a76b80e3a.md) — 8
+- [Discord](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e1ba4807a15d8579.md) — 61
+- [Discord社区](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/47e84bdadf2772fc.md) — 1
+- [Discord群组](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d97ab2a55021bbad.md) — 1
+- [Disqus](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d90e31ca1035b4cc.md) — 2
+- [DistribPal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e8537cc391e975bc.md) — 1
+- [distributors](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9e7bc39257aced1c.md) — 1
+- [Distrokid](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1cb1f387c32f7e84.md) — 1
+- [DIY AI prompts](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7e726675b0bd31e3.md) — 1
+- [DIY自建方案](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d7b686316b045eed.md) — 2
+- [DIY自行搭建版本](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4b2d8707d45436b8.md) — 1
+- [Django](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7d8a0838ce8e19b2.md) — 1
+- [DJI Fly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d8045c3039a4ca66.md) — 1
+- [dmarceye.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/92c8889660978f3e.md) — 1
+- [Docker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d548c5b83fa61d8e.md) — 1
+- [DocSend](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bdb3ae2e79685e08.md) — 2
+- [Documize](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/845c61f1ba0191f0.md) — 1
+- [DocuSeal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f8fa3b4fd92527c8.md) — 1
+- [DocuSign](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/24415532349ddf70.md) — 6
+- [dodix.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c2323ce034990182.md) — 1
+- [Dodo Payments](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/47c8cd0598ff5224.md) — 7
+- [doitlaunch.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dc3b9c55f16823ce.md) — 1
+- [Domaynly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/572b390c95fe2a49.md) — 2
+- [DOMI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/815233317af818e0.md) — 1
+- [Don't Make Me Think](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3168c0b002f610e0.md) — 1
+- [Donald Miller](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2d6815df5e8b287d.md) — 1
+- [DonutSMP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b803fa6698eb358d.md) — 1
+- [Doodgee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b6d1d0dd1bd48b8d.md) — 1
+- [Doodlyo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8f5cf7de067d094f.md) — 1
+- [Doogee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cd87dd068b340b6f.md) — 8
+- [door hangers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ee107e07bc3a7d68.md) — 2
+- [DoorDash](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b0126946c556dc47.md) — 9
+- [DoReveal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f2e36bea1b9afd7b.md) — 1
+- [Dot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e392dad8b08599f7.md) — 1
+- [Dots](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0517cf1abcfd20eb.md) — 1
+- [Douyin](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f929d94297645866.md) — 2
+- [Dovetail](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2925aaa8ddd0d17c.md) — 9
+- [DOYOUHAVEAPOV.COM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c6ff0a9d4cb9170a.md) — 1
+- [Dr. Ceuracle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/993fe95da6734efb.md) — 1
+- [Dr.Ceuracle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d683abe454d5ecfa.md) — 1
+- [DRACOON](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/588813e70b2f63a3.md) — 1
+- [dragonpainrelief.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fb3345ab7761a850.md) — 1
+- [Drata](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9224bb7dae2f78b2.md) — 2
+- [Dream11](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5e97c00643478c56.md) — 1
+- [DreamFace](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/97e8a3979a9497c7.md) — 1
+- [Dreamina](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/00fc04864030716d.md) — 1
+- [Dreamina Seedance](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fb7e29bf3ddfb1ff.md) — 1
+- [drinkunwell](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9f3f7a12e551ac0c.md) — 1
+- [Dropbox](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/75170593d559f227.md) — 3
+- [dropclips.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/84162d571431dbc8.md) — 1
+- [dropiq.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/827fda4dc3550175.md) — 1
+- [DropOps Desk](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f381ecde1a42cbb1.md) — 1
+- [dropshipping](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f722e0b3cc294ae9.md) — 15
+- [Droptick](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8c4a1d9084e91119.md) — 1
+- [Dscout](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b42a9cd1fe554e14.md) — 6
+- [DSP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77909277a1ffc4b0.md) — 1
+- [Dub](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5da6a35996d008b7.md) — 1
+- [DuckDB](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f3ebc350c88c05e1.md) — 1
+- [Duefolio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/98aa64d0400ac98f.md) — 1
+- [DUIK Bassel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ec94b8e0da9b215.md) — 1
+- [DunningOS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f196ce1833c8acc0.md) — 1
+- [Duolingo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/be6a999624b589e8.md) — 5
+- [DUPAY](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9198b15d04f64124.md) — 5
+- [dust](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/abb32701117d50a9.md) — 1
+- [DV360](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/32ded8fa65ffb94f.md) — 2
+- [dynamic QR code platforms (generic)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8d66fea75737a948.md) — 1
+- [dynamic QR tool](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1d3ac7ab8e1cf44e.md) — 1
+- [Dynamics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c6e10c13cff88f2e.md) — 1
+- [e.l.f. Cosmetics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/44cf0f9b6f5f0531.md) — 1
+- [Earth Fed Muscle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aaf14c20eb2bc22a.md) — 1
+- [Easify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8fc36678f72f833d.md) — 1
+- [EASProject](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7e04339d3baef20e.md) — 1

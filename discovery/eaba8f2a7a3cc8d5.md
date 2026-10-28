@@ -1,0 +1,8 @@
+# Additional observed dimension: content_workflow
+
+4 matching records. Each linked page has at most 20 chronological records. Pages can contain other categories: use record-level fields to filter.
+
+- [records/page-0198.md](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/records/page-0198.md)
+- [records/page-1033.md](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/records/page-1033.md)
+- [records/page-1099.md](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/records/page-1099.md)
+- [records/page-1239.md](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/records/page-1239.md)

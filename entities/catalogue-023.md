@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 23
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Jet Fuel Digital](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e6f5bbf52bd79145.md) — 1
+- [Jev](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9e66a118b9a0fb8c.md) — 2
+- [Jira](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1e32847769dc4a15.md) — 17
+- [Jitterbit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4024b0a846de2183.md) — 8
+- [job cost accounting 会计软件](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c27744e0d03d8479.md) — 1
+- [Jobber](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/571e574d94a43847.md) — 7
+- [Jobs to be Done](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/edb5f70f9f551d84.md) — 1
+- [John Cutler](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/861e6b6f15266426.md) — 1
+- [JoinBrands](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a1901b250e75d631.md) — 18
+- [Jolect](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/125a5ebfc20678fc.md) — 4
+- [Jotform AI chatbot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7e8d67e5fdb50964.md) — 1
+- [journalocity](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ff6bf80fcd9130df.md) — 1
+- [JournalX](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4dab761d4961a9ad.md) — 1
+- [journeymaps.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f2ab3faa2c8b486f.md) — 1
+- [Journoportfolio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bb18176f233ade87.md) — 3
+- [JP Fans](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ecb9d36279cc226b.md) — 1
+- [JPfans](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3b420a3dfea26c97.md) — 4
+- [JRR Mktg](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a72cdb84944dbb95.md) — 1
+- [Judge.me](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bf516945af0acddc.md) — 21
+- [Julian Cole](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/32def2059194e9db.md) — 1
+- [Jungle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/91ed2ef15eee7102.md) — 1
+- [Jungle Maker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ae5c46d43bb5533c.md) — 1
+- [Jungle Scout](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77cd669d3addef51.md) — 1
+- [junk removal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0a7dd7bf820c83f2.md) — 5
+- [Just Watch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a4fed11c0e99369c.md) — 1
+- [Kaara.Works](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/133c8246e513798e.md) — 1
+- [Kafka](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cbbf241eebedba6f.md) — 1
+- [kages](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c1aa70ef07b49b82.md) — 1
+- [Kagi Small Web](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1752d35f68a46c97.md) — 1
+- [Kahena](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/efbbd066ad608829.md) — 1
+- [Kale](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9857e117dd0722da.md) — 1
+- [Kanchipuram 合作社](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/86c874e34748b6ee.md) — 1
+- [Kantar](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0aa7d6a50ff62583.md) — 3
+- [Karyalo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/97e97860bc0d3c4e.md) — 1
+- [kasspian.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9bf1e185808327bd.md) — 1
+- [kasspian.com/tools/find-first-customers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e884b590f30dc3d2.md) — 1
+- [Kay Beauty](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a5727104ac4653b8.md) — 1
+- [Keibidrop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6fa9873a476655da.md) — 1
+- [Ken Eurich](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cf2cb0c0108f77a0.md) — 1
+- [Kept](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/79f076abdd19a752.md) — 2
+- [Kertos](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/605cd09ff79ef8d6.md) — 1
+- [Kick Back Coffee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0056b559126775df.md) — 1
+- [Kickstarter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/128828be9cafce08.md) — 5
+- [Kidrobot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8554a630de43296e.md) — 1
+- [Killgate](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/64b8e0b7a3c61635.md) — 2
+- [KimiK3](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9615d7aff8bef29a.md) — 1
+- [Kimoyo Insights](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3771942e5aabbca3.md) — 1
+- [kinetic.place](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ddae6ac3274e2166.md) — 1
+- [KingSumo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b5f1d8e7539cf6ec.md) — 1
+- [Kissmetrics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a3c08e445d72eedb.md) — 1
+- [kissmypost](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fc55c3943e6f9b03.md) — 1
+- [Kit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cbc8a597a67c4654.md) — 1
+- [kite studio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c095c92a9422b910.md) — 1
+- [Klaivo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5a4018cc50043152.md) — 1
+- [Klarna](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e539cb6d872a97e5.md) — 7
+- [Klaviyo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5879f1047a9e1138.md) — 60
+- [kleinanzeigen](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3ad4adba07dd9855.md) — 2
+- [Klevere](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/afbe1d293096291a.md) — 3
+- [Kling](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8a105898989c6e17.md) — 10
+- [Kling 3.0 Pro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0db09d6c58d6168b.md) — 1
+- [knowabt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ef3d2e1baf4e2eb1.md) — 1
+- [Knowt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/66a13c5ecf2ab906.md) — 1
+- [Ko-fi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2a30ec2244257828.md) — 1
+- [KOL](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f642974cfcb13951.md) — 1
+- [Konjoe Burger](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aac01eec4604e726.md) — 1
+- [Konvy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/02f840ce41f75273.md) — 1
+- [Koro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3257aaf20f93ccc7.md) — 2
+- [Koro AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/56d5d0e9f91b815d.md) — 3
+- [Korrel8](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e901ceac11796443.md) — 1
+- [Kotler](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2d9fc5715ed5b94a.md) — 1
+- [kotoor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ec67014254f4aa7.md) — 1
+- [Krea](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d61752abfdf7c0a1.md) — 1
+- [Krinio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/08b26e3c8fc01c55.md) — 1
+- [Krita](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/86cc3ab44d4e3c50.md) — 1
+- [kube-coder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9f74ca7332845759.md) — 1
+- [Kubernetes](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/94abcb2d2773df65.md) — 1
+- [Kumo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2be7a151e93b9c2f.md) — 1
+- [kumo-ui](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f44767f589e45560.md) — 1
+- [kuverajewelry](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d81ff231bec8831d.md) — 1
+- [KWatch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e66c8c967ebc4b1f.md) — 3

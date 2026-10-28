@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 44
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [TinySAAS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6193c9f938fcc26a.md) — 1
+- [TinySEO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3cb478c7c546260e.md) — 1
+- [Tipoff](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/68964477f88fdc13.md) — 1
+- [Titan Network](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/304b8726c63ffe93.md) — 1
+- [Tito's](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f594337d62baed44.md) — 1
+- [tl;dv](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3d7a07e2158701b4.md) — 3
+- [TLDR](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c652ca494d50bd83.md) — 1
+- [TLYNT](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8dd41e1a156e3d36.md) — 1
+- [Toast](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a60ec1cf58f49cd2.md) — 1
+- [Toastique](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8cf7aaa0e66f5326.md) — 2
+- [Toby](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a10089eeb0bd6b43.md) — 1
+- [Todoist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/282a6dc5066d4725.md) — 2
+- [Toluna](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/908049f157ee97b9.md) — 1
+- [Tolvra](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/15d7099df6b0e487.md) — 1
+- [toolgenx.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c24615444d320087.md) — 1
+- [Toolmark](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ed636e858b551bef.md) — 4
+- [top.gg](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e0c8883482a65c67.md) — 1
+- [Topicals](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2ec3fcde9a5b044d.md) — 1
+- [ToplineCRO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8ad161a7cf4280ca.md) — 1
+- [TorqueLink Media](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d464fb0b16182d31.md) — 4
+- [Totobobo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/148fc5e47f2d773a.md) — 1
+- [Tourtify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bf98147300ad2f7b.md) — 3
+- [Towards AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d14bd70e39c35196.md) — 1
+- [Toyota](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/337b8d2c1e132acd.md) — 3
+- [TraceWize](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4e89a96f2d81bb82.md) — 1
+- [Trackian](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a3dbc3cd7265fa6b.md) — 1
+- [Tracklution](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d03a440a6276afb6.md) — 1
+- [Traction (book)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b79bd60e829eddc6.md) — 1
+- [Traction Booster](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/631b7b08099babe6.md) — 1
+- [TractionKeeper](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/722ff341102659d1.md) — 1
+- [Trade Ready](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d3973210c606f7b4.md) — 1
+- [trade shows](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/087c9c16e88f5c31.md) — 1
+- [Trajaan](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0f608dc869a9e696.md) — 1
+- [TransUnion](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/abb9bdfbce3c387e.md) — 1
+- [Trapster](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/063363226b36d244.md) — 5
+- [TravelVulture](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3bd0cc36c89e31f5.md) — 1
+- [trawln](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f59302697b82e312.md) — 1
+- [treehouse.net](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bc98af6a7d126fc2.md) — 1
+- [Trello](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1768c21fc46884df.md) — 5
+- [Trendmule](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ca8259e21e27e72f.md) — 1
+- [Treyspace](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9bce3b3caafbff03.md) — 1
+- [TRIBE](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d22f4e0f2779f104.md) — 2
+- [Triple Whale](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/40b31bf6bb0f7a0f.md) — 4
+- [TripleDart](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/87c412028bc0b5ac.md) — 1
+- [Triplog](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7061e32f13cf2e37.md) — 2
+- [Tripo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ec9d55cbf3097cf8.md) — 3
+- [Tripo AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7617af7e1aac0f93.md) — 1
+- [Tripo.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8d4126ce7ae5a9be.md) — 1
+- [TripoAI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/69562a9fa280367e.md) — 1
+- [tripod](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f6ad9187c3c4ba42.md) — 1
+- [Trivoca](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/405dfe9310d2f98d.md) — 1
+- [trndsttr.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/52126169f0155fa9.md) — 1
+- [Trojan Swarm](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0499ecd0562f869a.md) — 1
+- [Truck Showcase](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/afff92e8888debfb.md) — 1
+- [Truly Free](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f7d60339032d7a67.md) — 2
+- [Trustap](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dd2ad1c51e31f62e.md) — 1
+- [TrustDrop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e39a57edcbdc3a62.md) — 1
+- [TrustMRR](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b9f202c4e535d95b.md) — 6
+- [trustmrr.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/83e4b4f7c4e8905d.md) — 1
+- [TrustMRRR](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b13e07fa09ab0e1d.md) — 1
+- [Trustpilot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/924744e8f750495b.md) — 18
+- [TrustRadius](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/74dea1fd2d379a5f.md) — 1
+- [TrustRank](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9b0c97cde62b1341.md) — 1
+- [Trybe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a037b7d82c03ebf7.md) — 73
+- [TT shop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c648c1d978ada467.md) — 1
+- [Tulu](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/da76bfd81dd17fc8.md) — 1
+- [TurboDocx](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b19d12dcb32895c2.md) — 1
+- [TutorQ Campus](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/753ecc819a72db00.md) — 1
+- [Tutti](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/69f0e78fe6b3b38b.md) — 2
+- [TV](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a46e5d2bbe2d3b05.md) — 1
+- [TV advertising](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1d6aab92ddd477fc.md) — 1
+- [Twilio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/89d01c9ba73cb5c4.md) — 2
+- [Twin Two](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ec2bb81f62a9a2ca.md) — 2
+- [Twirl](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c46cbccb2bfd8275.md) — 2
+- [Twitch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e32ac33fa53a3db6.md) — 5
+- [Twitter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7352f353c460e74c.md) — 27
+- [Twitter/X](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/12d96ce2dbb34956.md) — 6
+- [twittrz](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d29172ad20d47116.md) — 1
+- [TWT (There's Work Tomorrow)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0822de75689cecf0.md) — 2
+- [TxtCart](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/00ca6b35bd377dac.md) — 1

@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 38
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [SDR](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6ada229987020103.md) — 1
+- [SE Ranking](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/84b7127c95e95150.md) — 2
+- [Sealch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a51cb8fff716458f.md) — 1
+- [Search Ads 360](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9ed9b5dbbc7545a4.md) — 1
+- [Search Console](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d025d2ae2cc16db5.md) — 3
+- [SearchCue](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8a3dcc36d39c2d27.md) — 1
+- [Searchfit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/82313d4f4ca77916.md) — 1
+- [SEC Form 4公开申报](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db2159f454a4a7a5.md) — 1
+- [secondpassdev.vercel.app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ff110b8022df1288.md) — 1
+- [Secret Leaders](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/96d32ca858a447fd.md) — 2
+- [security bloatware](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/decd9557fd1b72ad.md) — 1
+- [Seedance](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1472950b8ae0b5cd.md) — 1
+- [Seedance 2.5](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3277ffba7aa8b439.md) — 1
+- [SeedLegals](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b4850073a1703b4b.md) — 2
+- [Seedtag](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1aba975c4ac5db01.md) — 1
+- [Segment](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/03e71c6d7dc6bd4e.md) — 1
+- [Sellbrite](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b51e327051b7c4db.md) — 1
+- [Seller Central](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c598a509dd762c98.md) — 1
+- [sellers.directory](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3ff99daa73967d53.md) — 1
+- [SellerSprite](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5d2eabd94c83965d.md) — 1
+- [Semrush](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/20fe945b1d4a1481.md) — 31
+- [Semrush AI Visibility Toolkit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dbf90cca434a9955.md) — 1
+- [Sendcloud](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/29624df13ec2647c.md) — 1
+- [SendGrid](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9f4d422f36172881.md) — 4
+- [SendHeron](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/56dd280e3d8d9cc0.md) — 2
+- [Sentry](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0cf6855c1a3c323b.md) — 3
+- [SEO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/30f50f7fa4fa466a.md) — 52
+- [SEO/GEO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4e3b2f2296c99d32.md) — 1
+- [SEO/GEO内容](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/94e8e96794d4bd67.md) — 1
+- [seoClarity](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/321645dc9d0ff53a.md) — 1
+- [seoforgpt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4596c27a20c5b81e.md) — 9
+- [SeoLoupe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/916ee1aab83822d3.md) — 5
+- [Seoptimer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8008c84286a52814.md) — 2
+- [SEO博客+外链建设](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/08ac0ce7d2e82195.md) — 1
+- [Sequoia](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/478d3cdc1ceaae6b.md) — 1
+- [Service Design Network](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/410ff9168664fddb.md) — 1
+- [servicemonkey.us](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/add6724a9646c6fb.md) — 1
+- [ServiceNow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b5738c169b693bee.md) — 1
+- [Servio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3d3c67576713f512.md) — 1
+- [session flagging logic](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/176b7cb3f3a98898.md) — 1
+- [session recordings](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db10e3630df58e7a.md) — 1
+- [session.cards](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9037b39d7bd2b4c5.md) — 2
+- [Set Active](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/836676a47f1994fa.md) — 1
+- [Setrepo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/56ceeb09d83e94f7.md) — 1
+- [Seventh House Marketing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/42c49c2d3070a5e6.md) — 1
+- [SFTP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/224ab2a03cfa5805.md) — 1
+- [SGN Magazine](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/74ebd055502540c3.md) — 1
+- [shady visa agents](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b90a652d52252dcd.md) — 1
+- [Shamp Insurance Agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ca63611b57b2b604.md) — 1
+- [Shape Up](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e2242a8dabfa695f.md) — 1
+- [ShapelessAI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/44617af1836bee63.md) — 1
+- [Share Factory Studio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fb95bd4d66e5639c.md) — 1
+- [shared hosting](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/790f5efcde894b2f.md) — 2
+- [SharePoint](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9211da2bdb79a1bf.md) — 2
+- [Shark Tank](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ffa9e5fdffc31e93.md) — 1
+- [Shaw](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/84f6986a1b011def.md) — 1
+- [Sheet2Chart](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3f044b870e3623bd.md) — 1
+- [Shein](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/56089dd0e1dfd48e.md) — 1
+- [Shift4Shop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/872e1f50384b113a.md) — 2
+- [Ship or Die](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8e38f4457cdae44b.md) — 4
+- [Shipclip](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a1768a48dd2b9126.md) — 1
+- [shipfm.online](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e37dc97e7a44d83d.md) — 1
+- [ShipHub](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c244ff24892e9d04.md) — 1
+- [Shipmondo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/60f5de66bb2b7c85.md) — 1
+- [Shipnative](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f923ecd86ca7d2d3.md) — 1
+- [ShipperHQ](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/35a7ed043ee7a924.md) — 1
+- [Shiprazor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8e402eb263cee46c.md) — 1
+- [Shiprocket](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/944272e65da4a1e4.md) — 4
+- [ShipStation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/95daa942ba0d72ab.md) — 5
+- [ShipWeaver](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/39a410cc057a9c53.md) — 1
+- [SHOP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8d9001d32c6a703d.md) — 2
+- [Shop app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/42122f6821847f92.md) — 1
+- [Shop Pay](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/79c1fe460380f933.md) — 3
+- [Shop Pay Installments](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e77a0ba28052c14f.md) — 1
+- [ShopDeck](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1fc1602dbf207eae.md) — 1
+- [Shopee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f9dc1bb6b2d8a86e.md) — 4
+- [Shopflix](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/67d18135ba3d5626.md) — 1
+- [Shopify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8a72266588ef612e.md) — 390
+- [Shopify AI toolkit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/982ad4b95ae2eb62.md) — 1
+- [Shopify Analytics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bc9efaa46ca42a81.md) — 1

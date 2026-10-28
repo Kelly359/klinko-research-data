@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 17
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Garnier](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/90ddac1739b80712.md) — 1
+- [Gartner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0616a267820d2c78.md) — 1
+- [gated webinar/ebook lead machine](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5119b997151b845f.md) — 1
+- [Gates Foundation](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/39b6b43e30d7ae8c.md) — 1
+- [GCP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3347d0bdd97e6df8.md) — 1
+- [GeekyAnts](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2aa6397c79d03810.md) — 1
+- [GeeLark](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a806c04854441f24.md) — 1
+- [GEF6560](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d510a6c6c9093046.md) — 1
+- [Geico](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a638e70ffa28c67e.md) — 1
+- [Gemini](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5d72436256ada538.md) — 49
+- [Gemini 3.7](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bc10434150419043.md) — 1
+- [Gemini Meeting notes](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/349f2af8a51b09f7.md) — 1
+- [Gemini Storybook](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ff4e63029fdb105.md) — 1
+- [General Motors](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a57526b5d973ebad.md) — 1
+- [generative AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7dd9d5f010e8a9a7.md) — 1
+- [generic chat assistants](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d681b2362edbe67d.md) — 1
+- [generic CRM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/52aa1350e8a4fc4b.md) — 1
+- [generic ERP solutions](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f9db159bedb0b2f9.md) — 2
+- [generic waitlist（邮件等待列表）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6859d4402e0fa2fb.md) — 1
+- [generic_solution](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/012c033386a539d8.md) — 1
+- [generic_solution: beta阶段用户反馈招募](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ee3685cb5c5f05c2.md) — 1
+- [Genesys](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e214fdf90c1468b9.md) — 1
+- [GenOverview](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db8c96e25b08ab97.md) — 1
+- [GEO Growth Strategist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/64f06787c78f2717.md) — 1
+- [geo tool](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7735b01c054126f2.md) — 1
+- [GEO Tracker AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3cc17ffbc555ae73.md) — 1
+- [GEO/AEO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a2b6d221c5ce2e98.md) — 1
+- [Geograph](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c1140059bfe5a253.md) — 1
+- [George Mason](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2a06594a6cef1d24.md) — 1
+- [Geosystems AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6e2838ef94e16fd6.md) — 1
+- [GEO（生成式引擎优化）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cc405d6ddbd7801e.md) — 1
+- [Get Satisfaction](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/849f80a6acc3db44.md) — 1
+- [Getboody.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/074f009243e74666.md) — 1
+- [getcloseline.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2c01c2bd6e23041f.md) — 1
+- [GetDevDone](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1962d3e8ab3d9fa2.md) — 1
+- [GetGDPRScan](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8ca52c319aac3b65.md) — 1
+- [getlooloo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5adf2f1bb998ab59.md) — 1
+- [getlooloo.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/63796e41284a3066.md) — 1
+- [getpapi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/98a7a1c162299c70.md) — 1
+- [getpinegrove.eu](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/abe90dd8c2228674.md) — 1
+- [getspace.site](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/02de3202c4f5b44f.md) — 1
+- [gettlwl](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d6dbb2ec79bc4459.md) — 1
+- [GetWhys](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1de360bb8bbb6f57.md) — 1
+- [getwtfile.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fa058c67b4e5dcfb.md) — 2
+- [GHL](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/82c1f6391b987358.md) — 3
+- [Ghost](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ead6ef03d61ee60c.md) — 1
+- [ghost kitchen](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8d195f3a5d5e6004.md) — 1
+- [ghostengine](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3299801b4dbf9da1.md) — 1
+- [Ghostlaunch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b6319a9da455d6ea.md) — 1
+- [GIMP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8ae667fa85ed5930.md) — 5
+- [GitHub](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c0b0109d9439de57.md) — 23
+- [GitHub Actions](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dce316af5efc6948.md) — 1
+- [GitHub Copilot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ceaf6109c3cc4fea.md) — 4
+- [GitHub Discussions](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ddb30034f5e0898e.md) — 1
+- [GitHub MCP/CLI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d3e92552d1bce310.md) — 1
+- [github releases](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a5174372dbb584d2.md) — 1
+- [GitHub Trending](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ff67bc1181a06983.md) — 1
+- [GitHub/Linear集成](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/826be0def664da4b.md) — 1
+- [GitResume](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c928eda52911e87a.md) — 1
+- [giveaways](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/629654db237e947e.md) — 1
+- [Glance](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e776a070909341e9.md) — 1
+- [Glassdoor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9ce95454088e160f.md) — 5
+- [Glean](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9ba8bec5d58fb025.md) — 1
+- [GLG](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a78ed3c388d4c5fb.md) — 1
+- [Glimma AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/be1bccb8a17c2982.md) — 1
+- [glippy.dev](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6c5f441f4ccee124.md) — 1
+- [Glisio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/90e68828e9c3110f.md) — 1
+- [Globafy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9de926b7596869e4.md) — 1
+- [Global Tools Platform](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/239adcedc7fcf49a.md) — 1
+- [Global-e](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f420074d5d751e8f.md) — 1
+- [Globo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cb440cd852f8904b.md) — 1
+- [Glowline AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/78e6f644c897aa17.md) — 1
+- [glowupp.org](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/03e618ed40c367df.md) — 1
+- [Gmail](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/576ba7c2e4abb718.md) — 5
+- [Gmail API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5012b6b64f753d90.md) — 4
+- [GmbH](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ed076c48fbfcc428.md) — 1
+- [GMV Max](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b1d2c9300850ae91.md) — 2
+- [GNX Sales](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/906eb7ac36b7bd5c.md) — 1
+- [GNX Sales AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db97c95a3ed12e21.md) — 1
+- [Go High Level](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bf55b07a2c60b545.md) — 1

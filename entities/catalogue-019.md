@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 19
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Google PPC](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a59c4cb3a9f4f0fc.md) — 4
+- [Google profile](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a58cf4c99e856d2b.md) — 1
+- [Google Reviews](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/26d5fb737d426525.md) — 1
+- [Google Reviews / Google Business Profile](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5a68cfd604ee9288.md) — 1
+- [Google Rich Results Test](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5ff7f93e4f0fe6a1.md) — 1
+- [Google Safe Browsing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f17edeaab943dffd.md) — 2
+- [Google Safe Browsing API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/987801d71c6171f2.md) — 1
+- [Google Scholar](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/44725d313854f166.md) — 1
+- [Google Search](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/426d27def7eef69a.md) — 11
+- [Google Search Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b59a308f33cda38b.md) — 8
+- [Google Search campaign](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/241a678199a6c229.md) — 1
+- [Google Search Console](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/73d9d903a8866d20.md) — 27
+- [Google Search Console Page Indexing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f854ded98d20427e.md) — 1
+- [Google Search Partners](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/575e1b1e8ab99de2.md) — 3
+- [Google Sheets](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/995945426cf67659.md) — 16
+- [Google Shopping](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e70b77d6a0192dd4.md) — 15
+- [Google Shopping Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77a88865e91e76ce.md) — 3
+- [Google Sites](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/245ff9068b30ab30.md) — 3
+- [Google Skillshop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1add64f044e3fd5a.md) — 1
+- [Google Slides](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cef9ac934fa8514b.md) — 6
+- [Google Standard Shopping](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f9fcc346f42e40b0.md) — 1
+- [Google Suite](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/63c1bf8456cadd34.md) — 1
+- [Google Tag Manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e8f53545f19bd40b.md) — 8
+- [Google tap-to-review cards](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d9902e517e884a7c.md) — 1
+- [Google Translate](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a7e1121b7e03bcb8.md) — 2
+- [Google Trends](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/181330670b19acee.md) — 7
+- [Google Universal Cart](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/62aa0b7faa7189f3.md) — 2
+- [Google UX Design Course](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7e5c157160a13ff6.md) — 1
+- [Google Veo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b5798617194aa60b.md) — 2
+- [Google Voice](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cfc03fec60483c46.md) — 7
+- [Google Workspace](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c3f6bcf802410fe3.md) — 9
+- [Googlebot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4cfd19d535c41163.md) — 1
+- [Google搜索](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/028076f9ea8238a4.md) — 6
+- [Google搜索和购物广告](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9eff20f3610d1f28.md) — 1
+- [Google搜索广告](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fde20adb3912b89f.md) — 2
+- [Google搜索自然流量](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dcce622902bbba0c.md) — 1
+- [Google评价链接](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/68fe6bab9dfa31ab.md) — 1
+- [Google（广告）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/56a90059c7c82339.md) — 1
+- [Gorgias](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6839df7ba19310d3.md) — 1
+- [Gossamer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e1e59c14294010c4.md) — 1
+- [gostellar](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a84bef802292a7d0.md) — 1
+- [goworldtravel.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a9fbf3b172b891d2.md) — 1
+- [Goyard](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c7c92499e1908329.md) — 1
+- [GPSR](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/79bba04a1675d53f.md) — 1
+- [GPT](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/053ea4804ef1bb33.md) — 9
+- [GPT Images 2](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1f12ccafc0120cbb.md) — 1
+- [GPT Luna](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5c19e5688ab64cc9.md) — 1
+- [GPT Sol](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b9fb55352d8ff3de.md) — 1
+- [GPT-4](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1b1ae706971632ad.md) — 1
+- [GPT-4o](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a2a69af70d1b9be7.md) — 1
+- [gpt-5.5](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ffc50c70661c227e.md) — 1
+- [GPT-6](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/41418a61d982be10.md) — 1
+- [GPT-Pin](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1bd53a08b093d413.md) — 1
+- [GPTBot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6165b860e1132185.md) — 3
+- [GPTZero](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8744fcab84b2c060.md) — 1
+- [GPT项目文件夹](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3d9461e30b6c5d79.md) — 1
+- [GPT（AI公司）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/280c88b43d7cbe90.md) — 1
+- [GPU容量租赁](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/16ff9fae350ff29e.md) — 1
+- [Grab](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/234afbd5f044f363.md) — 1
+- [Graco 3400](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a1a8798429d482a0.md) — 1
+- [Grademypage.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/434a95ce1013a4c8.md) — 1
+- [Grafana](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cace491b69555e8d.md) — 2
+- [Grain](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2c2240217b64aa2d.md) — 3
+- [Grammarly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c2c7dd8cea57b89c.md) — 1
+- [Grammarly Business](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/816d24a66b279b3f.md) — 1
+- [Granola](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/89601a2c41e3b6bc.md) — 2
+- [Granola AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/19d8336512532b9f.md) — 1
+- [Graph API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/622d8713acc0f4a2.md) — 1
+- [Graphic Audio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/97906bf19b1f7f69.md) — 1
+- [Graphtelling](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fc3ee315343c5626.md) — 1
+- [Graza](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3da91b79141d3bb4.md) — 1
+- [Great Question](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3181424903bfb4b5.md) — 1
+- [Greedy Insider](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a6d9517811819687.md) — 1
+- [Greenlightugc.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8ac8e49fecd2b431.md) — 1
+- [Grid Grad](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ad1c456310888bc4.md) — 1
+- [Grip by Extruct AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d2cbed5dbb14e6c7.md) — 1
+- [Grok](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/add92b9cde2bdbf3.md) — 7
+- [Grok Bot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bf5b1a77289a1fca.md) — 1
+- [Grok机器人](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7ab327145ba28cef.md) — 1
+- [Groq](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0b79cf2de0ee6b8e.md) — 1

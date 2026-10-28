@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 41
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Stackboard](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1507af9b5b691907.md) — 1
+- [StackIT](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e42f8b7c51833b6e.md) — 1
+- [StackPhones](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6d1350da3f707d41.md) — 2
+- [Stainless](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5fd7b74f4f0fa25d.md) — 1
+- [Standard Shopping](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f442f5a1fcfebcde.md) — 1
+- [StandardCompute](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/675ed92792de900c.md) — 1
+- [Stape](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/46225587ce84c0d1.md) — 1
+- [Starbucks](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b21492b15d85500e.md) — 2
+- [Starlink](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2412f76972451e84.md) — 1
+- [Starter Story](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/58aab410fde165ee.md) — 1
+- [StartExus](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ee721d22b5a8dedb.md) — 3
+- [startexus.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/848cd387c11cc315.md) — 3
+- [startup directories](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/51fd7e4a34dcd8f5.md) — 1
+- [StartupBar](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/91910dad794ba7ab.md) — 1
+- [startupideabase.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2ec58b5f5c7bac95.md) — 1
+- [StartupSubmit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/59e73b166c760d15.md) — 1
+- [Stateshift](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/640be08b5ae654e2.md) — 1
+- [Static Media](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a7f11ff015469408.md) — 1
+- [Statik](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ba01fba8d83cb690.md) — 1
+- [Statisfy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e11b7c6d35c2f370.md) — 4
+- [Statista](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4b392d0aeec865ff.md) — 1
+- [StatsForecast](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0dfda32cc7d56f2f.md) — 1
+- [StatSocial](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/94cdb7901ff12ab6.md) — 1
+- [Statusphere](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9c4134a562a2fa05.md) — 1
+- [StayFlow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8990b018965c3464.md) — 1
+- [Steak 'n Shake](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/757447d49867d442.md) — 1
+- [Stealth Agents](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/47b8f57bdd5cafd4.md) — 3
+- [Steam](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3f1f29444c093e28.md) — 7
+- [SteerBridge](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8b63f68211128261.md) — 1
+- [Step](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3e64cc41cf8e07b4.md) — 1
+- [Steve Jobs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e28bde4d9e57a309.md) — 1
+- [sticky note](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/51016cb04be689f2.md) — 1
+- [Stimuler](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e4485ae32c99263b.md) — 2
+- [Stocksi.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c57543eabca25818.md) — 1
+- [Storage Cleaner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b60915b145b1b111.md) — 1
+- [StoreKit 2](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/23f3df361f0e100f.md) — 2
+- [StoryMint](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a18664ed817295d1.md) — 3
+- [Strada](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c1d02860026f5101.md) — 1
+- [strasbourgbustram.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b42a4952e6a1aa8e.md) — 1
+- [Stratechery](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cf72f34bd4869cc1.md) — 1
+- [StratEngine AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d1dfc76dbca8199b.md) — 1
+- [Streem](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ede9305266690af3.md) — 1
+- [Strength Academy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/26b6fffab2458594.md) — 1
+- [Stripe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2bed2032ed3d8300.md) — 98
+- [Stripe Checkout](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/49ba919ef8f60909.md) — 1
+- [Stripe Connect](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1385862de2385d98.md) — 1
+- [Stripe Link](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7aea1589ca3f5644.md) — 1
+- [Stripe/SaaS builder社区](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5ee60be57f5d4a09.md) — 1
+- [Strivn](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/595fb6ef19048aa3.md) — 1
+- [Structured app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/67926ed31b22fd61.md) — 1
+- [Studio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/da0daaba4b156961.md) — 1
+- [Studley AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e3e3a3628e035606.md) — 1
+- [Studyfetch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/29f253f9a11e9754.md) — 1
+- [SubDrip](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b4e6c8db83609f59.md) — 1
+- [Subh (Fajr alarm app)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/62e622619354e421.md) — 1
+- [SublimeRead](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d830688c7393d69f.md) — 2
+- [subreddit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f7664621c09163ec.md) — 1
+- [subreddits](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4736b50edeb70561.md) — 3
+- [Substack](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d411633327714b72.md) — 12
+- [Subtrack](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3091be6b9ea405a6.md) — 1
+- [Sugarcane platform](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d649cb2838d60bca.md) — 1
+- [Sumora](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f68c8f0dbf3f9687.md) — 8
+- [sunbiz](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/941c7224e45c11f4.md) — 1
+- [SunClad](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/06f686b277c67913.md) — 8
+- [suncladlaundry.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/792bffc7fdf12fa8.md) — 1
+- [Sunn Fitness](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/25ea85dc36c2f05d.md) — 1
+- [Suno](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/586937124e151c46.md) — 2
+- [Sunsama](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8d5d3ba1ede11d0c.md) — 1
+- [Sunset Surf Co](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a96c978e556188c2.md) — 3
+- [Supabase](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4d7594e57f7d03f3.md) — 15
+- [SupaBird](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d18f896f9cc5f25a.md) — 2
+- [Supademo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0577b519f1e8a0a9.md) — 1
+- [Superbench AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bcb407a498963100.md) — 1
+- [superbot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e325b4468dd958a2.md) — 1
+- [SuperCMO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e90593bf0da365c8.md) — 19
+- [supercmo skills](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/58d70ea186d4a33d.md) — 1
+- [Supergrow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/46e6886dfc97b08d.md) — 1
+- [Supermemory](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/682ad9f9a7219697.md) — 1
+- [Supreme](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f8f474a55befde8b.md) — 2
+- [Surfacd](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3ed912c0f883be15.md) — 1

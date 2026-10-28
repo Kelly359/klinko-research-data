@@ -1,0 +1,84 @@
+# AI-inferred roles — catalogue 16
+
+Raw AI-inferred role labels, including open-ended labels and synonyms. These are not verified identities, unique personas or paid-customer status.
+
+- [UGC creator on Trybe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/5fb49c197e14b701.md) — 1
+- [UGC creator turned creative director](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c7382b9e58ecfe37.md) — 1
+- [UGC creator/educator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/61c4b1e5c1458aa0.md) — 1
+- [UGC/达人营销从业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f1122694a5912c97.md) — 1
+- [ugc_creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2167f95263fd83c9.md) — 30
+- [ugc_talent_coordinator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/5f842f3336696126.md) — 1
+- [UGC从业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/16d5dc7692938c4c.md) — 1
+- [UGC内容创作者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/1b2a8f36c2c3775e.md) — 2
+- [UGC创作者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/fb032fba041e2934.md) — 100
+- [UGC创作者/达人营销从业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/196b8be306a511f5.md) — 1
+- [UGC创作者作品集工具开发者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/0ea59ae39791235b.md) — 1
+- [UGC创作者作品集平台创始人](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d03bd669f335a1bb.md) — 4
+- [UGC创作者同行](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/bed639068e34df98.md) — 1
+- [UGC创作者（入门者）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ad542a1f5015a1ce.md) — 2
+- [UGC创作者（新手，传播学背景）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2b4048779f1429d3.md) — 1
+- [UGC工具创始人](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/1bd672881eeacc89.md) — 1
+- [UGC新手](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/db388ddb560970b3.md) — 1
+- [UGC新手创作者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e893bdb43c21bc7b.md) — 1
+- [UGC课程推广者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/728179d433763a15.md) — 1
+- [UnifyCart 开发者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/43c5c8ea6e42707a.md) — 1
+- [unknown](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/b23a6a8439c0dde5.md) — 153
+- [used auto parts e-commerce seller](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/762188976fc60931.md) — 1
+- [user](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/04f8996da763b7a9.md) — 33
+- [user researcher](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e7861fd3ae66bfde.md) — 9
+- [user_of_fellow_founder_product](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/8a256d97139c1808.md) — 1
+- [user_of_similar_solution](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a09dd1d40f4ab19d.md) — 1
+- [user_or_customer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/70967ddd300ffd03.md) — 1
+- [user_or_potential_user](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/be40c5c30cf47d04.md) — 1
+- [user_researcher](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c614fa9aeca7b8f7.md) — 12
+- [UX consultant](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/bd5a81a8157f1c3e.md) — 1
+- [UX designer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/3cef0e8d8af1e9db.md) — 4
+- [UX practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/bc1722fe80f4b800.md) — 3
+- [UX research coach](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/aaca9032bb658292.md) — 1
+- [UX researcher](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ed469371a48f07ae.md) — 29
+- [ux researcher](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/1dddcb594caa5049.md) — 3
+- [UX researcher / product design lead](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/6c2801e753a69a45.md) — 1
+- [UX researcher community organizer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/83a03824038b93d7.md) — 1
+- [UX researcher（后转PM）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/63fe069ec16e8a5d.md) — 1
+- [ux_designer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/316f67b673382615.md) — 1
+- [ux_pm](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/de94f45794b2d4d6.md) — 1
+- [ux_research_educator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/cbb621071e1c8cc7.md) — 1
+- [ux_research_ops](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/581bb52164a56673.md) — 1
+- [ux_researcher](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/34b3d8a08de17694.md) — 72
+- [ux_researcher_hiring_context](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/dae9d6ce3458203c.md) — 1
+- [UXR](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e68c97777978b886.md) — 1
+- [UXR job seeker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/1646dc45b92e1ce9.md) — 1
+- [UXR practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/6912be1ea43da334.md) — 1
+- [UXR从业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/4e3394b88835e2a2.md) — 2
+- [UXR团队成员](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/b8fc4f21e44e2f73.md) — 1
+- [UXR新手研究者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c3d4de97b74cef47.md) — 1
+- [UXR求职者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/28d467a3f765c7cf.md) — 1
+- [UXR研究者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/cb782f90c59f9b82.md) — 2
+- [UX从业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c917b99735162c31.md) — 6
+- [UX团队](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f9f91ff1e136972b.md) — 1
+- [UX研究员求职者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/916a2485516615b9.md) — 1
+- [UX研究者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ed268463be6f0955.md) — 9
+- [UX研究者（原帖作者）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e222f54e89d3e98e.md) — 1
+- [UX设计师兼前内容设计师](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ffafc41245620570.md) — 1
+- [vendor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/630ba09448af5221.md) — 17
+- [vendor/marketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/6a536f8ae03c7946.md) — 1
+- [vendor_employee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/6b746e16c7288e49.md) — 9
+- [vendor_founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2e2fc52c83437853.md) — 2
+- [vendor_marketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/6169833e0c893153.md) — 1
+- [vendor_marketing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/37c80043745a511f.md) — 1
+- [Venio builder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/3f72e9043599cdc1.md) — 1
+- [venture_studio_member](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/aa3fe703f4b8d412.md) — 1
+- [video editor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/483c2825786c433f.md) — 3
+- [video production company owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f080d6937526c343.md) — 1
+- [video prospecting vendor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/9ec932b8f1a6fde5.md) — 1
+- [video_editor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e91a915fae7f5ffa.md) — 1
+- [videographer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/b9f2c3969ea008d5.md) — 2
+- [Vinted手表卖家](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/aeae331115d34c6a.md) — 1
+- [virtual assistant](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/782cf01cd511ce47.md) — 1
+- [virtual_assistant](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e7e313c641ee928f.md) — 1
+- [web designer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/687fb7c51c6709f6.md) — 1
+- [web_developer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/b2abe9015245b849.md) — 1
+- [website_owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/5eece965de3961f0.md) — 1
+- [wholesale spice route operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d79b267abca16ac2.md) — 1
+- [WordPress代理机构经营者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/bb9f8013157b293f.md) — 1
+- [YouTube channel creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/3e8369d8fd430e28.md) — 1

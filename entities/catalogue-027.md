@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 27
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [MediaLabs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b578193e2eace7db.md) — 2
+- [Medialyst](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/812560af7eec8222.md) — 1
+- [Mediamaxxing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c9825eabcc73cc4e.md) — 2
+- [Medicare](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6d3326b3855993b4.md) — 2
+- [Medici Brands](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5e7efc0cc76b1663.md) — 1
+- [Medicube](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5eca4d56387ce958.md) — 2
+- [Medium](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c082456a7766e23a.md) — 8
+- [Medusa](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/823e291431cff346.md) — 3
+- [Medvi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aa52b82c424575bd.md) — 2
+- [Meesho](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8894283570d18338.md) — 3
+- [Meet My Human](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ca39b1aff979f309.md) — 1
+- [Meetily](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f7a99fc957ab3511.md) — 1
+- [Meetup](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/574b33d8a01dc948.md) — 7
+- [Melissa Perri](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7acd31c955eaa4e3.md) — 1
+- [MELLODDY](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c4b658c410ab634e.md) — 2
+- [Meltwater](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/805897a7538be4ee.md) — 13
+- [Mem0](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a9aff9e0737a5d4a.md) — 1
+- [MemorySync](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d56dde37e46370f0.md) — 1
+- [Mention](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/68b9c231ac85c959.md) — 2
+- [Mentionkit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bf4fea3bc746e3c2.md) — 2
+- [Mentionlytics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3bfb39931ba76a91.md) — 2
+- [MentionWatch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/16b42ce69427afad.md) — 4
+- [mentor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d9d771df57e86d11.md) — 1
+- [MepMail](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/335b12dccf16db1b.md) — 1
+- [Mercado Pago](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/df985c086f21bcc7.md) — 1
+- [Mercari](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bb8fc09cdcc6e07e.md) — 1
+- [Merchant Center](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/12e1fd8cb31ea0da.md) — 2
+- [Merchant Centre](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1f234245248467e7.md) — 1
+- [Mercor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d3a053245104ec44.md) — 1
+- [Mercury](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b769a6983b42d565.md) — 8
+- [Mercury Books](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4222ecc9ee329469.md) — 3
+- [Merge](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/283128acef14943c.md) — 1
+- [Merge.dev](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/808c9e34654c87c6.md) — 1
+- [Meridian](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b6c4ac412ac88223.md) — 1
+- [MERN技术栈](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/734646a7e7bff837.md) — 1
+- [MeshDiff](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4583af3099f97b45.md) — 1
+- [Messenger](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/050f993ea2322d4b.md) — 1
+- [Meta](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ea3bd73e2b506e00.md) — 306
+- [Meta (Facebook) ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9a579b5f2008520b.md) — 1
+- [Meta Ad Library](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/27657834c2bf3c8d.md) — 9
+- [Meta Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0d100d50a89a1bbe.md) — 302
+- [Meta Ads Library](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6458ce1f6e3861ee.md) — 5
+- [Meta Ads Manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b4459fa6443b44e4.md) — 9
+- [Meta Ads代理机构](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e9aeedcf7e259b2b.md) — 1
+- [Meta Advantage+](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3353a382c3c8ef72.md) — 18
+- [Meta AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ae31f30d39374a8b.md) — 1
+- [Meta API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ad4807aaddadeaaa.md) — 1
+- [Meta Audience Network](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c33385bafa0db04e.md) — 2
+- [Meta Blueprint](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2adb257aabc537bd.md) — 1
+- [Meta Business](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6fbee821f735c8c2.md) — 2
+- [Meta Business Manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b724156e87530a54.md) — 3
+- [Meta Business Portfolio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6fee85c12f6f4df3.md) — 2
+- [Meta Business Suite](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1a10e5d4cda225a6.md) — 3
+- [Meta CAPI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b8068da17232be3c.md) — 2
+- [Meta Commerce Manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/52018f9341608cbb.md) — 3
+- [Meta Conversions API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4c522fde51c2478e.md) — 2
+- [Meta Events Manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b011905291942a02.md) — 3
+- [Meta Muse](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fb64c0b2b5ee3b31.md) — 2
+- [Meta pixel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/40b9c481178ec914.md) — 8
+- [Meta Remarketing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a6cd30f4f9bc382f.md) — 1
+- [Meta Suite](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/14946a0af7dbf8d4.md) — 1
+- [Meta Test Events](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/30a02d801baebf93.md) — 1
+- [Meta Tribe v2 Brain 预测基础模型](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/123b9d0dfb298a74.md) — 1
+- [Meta WhatsApp API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9d1f115fd698215c.md) — 1
+- [Meta/Google广告](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/06625607e2611c3c.md) — 1
+- [Meta/WhatsApp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/90bb1348452e8d31.md) — 1
+- [Metabase](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7930172fa3e0d4a2.md) — 2
+- [MetaTrader 5](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7e398ec9accff792.md) — 1
+- [Meta广告](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ab1e11488576856d.md) — 3
+- [Methods](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3f3867313a9dbfd5.md) — 2
+- [Metricool](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7f909b6b8f9ca6cd.md) — 3
+- [Mews](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0ab22c16b79857a4.md) — 1
+- [mexicantrain.online](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1f93693ecc7edfca.md) — 1
+- [mibo-ai.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dc63c1a4e4aa1d7e.md) — 1
+- [micro influencers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8965647dde6a60f6.md) — 1
+- [microlaunch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c90ae0d8201d4a6a.md) — 1
+- [microlaunch.net](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c3ee31691ca80ce1.md) — 1
+- [Microsoft](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9fbf261b62c1d7c0.md) — 9
+- [Microsoft 365](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1054cb307cd7f901.md) — 3
+- [Microsoft 365 Copilot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0482a5cc16bb5da7.md) — 2

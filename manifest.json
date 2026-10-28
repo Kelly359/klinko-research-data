@@ -1,0 +1,46 @@
+{
+  "version": "2026-10-26-reviewed-v1",
+  "published_at": "2026-10-28T01:29:24.908157+00:00",
+  "valid_records": 25468,
+  "excluded_review_records": 73,
+  "earliest_source_date": "2026-08-01",
+  "platform_counts": {
+    "capterra": 151,
+    "reddit": 22003,
+    "linkedin": 690,
+    "tiktok": 2403,
+    "g2": 69,
+    "youtube": 18,
+    "hacker_news": 71,
+    "shopify": 63
+  },
+  "collection_group_counts": {
+    "klinko_target_users": 16796,
+    "klinko_existing_current": 7908,
+    "klinko_competitor_voc": 1168
+  },
+  "claim_counts": {
+    "job": 1029,
+    "outcome": 5162,
+    "need": 5808,
+    "pain": 6288,
+    "action": 7655,
+    "alternative": 1579,
+    "trigger": 1522,
+    "counterargument": 2743,
+    "barrier": 4382,
+    "workflow": 2394,
+    "trust": 666,
+    "promotion": 526,
+    "spend": 204,
+    "opinion": 3,
+    "advice": 3
+  },
+  "record_pages": 1274,
+  "access": "public read-only snapshot",
+  "media_analysis": "Source captions/descriptions/comments only; video frames and audio not analyzed.",
+  "redactions": {
+    "email": 114,
+    "credential": 0
+  }
+}

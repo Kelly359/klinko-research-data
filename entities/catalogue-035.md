@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 35
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [r/commercialrealestate](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ebc323f2838b9101.md) — 1
+- [r/content_marketing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c080cf884ab947b0.md) — 1
+- [r/copywriting](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/236f0e9415f0fd92.md) — 1
+- [r/daddit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8eb9e1cf43deb254.md) — 1
+- [r/dataengineering](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/11418eb6653763fd.md) — 2
+- [r/DigitalMarketing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/630a7bd0ca5a56e9.md) — 1
+- [r/electricians](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f5d1e1589b2c8aed.md) — 1
+- [r/excel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/30eeeff44971ac94.md) — 1
+- [r/freelance](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/306832ed3803d1d0.md) — 2
+- [r/functionalprint](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b1c50cf82480e0f8.md) — 1
+- [r/getdisciplined](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b3c0f7a312b2a30f.md) — 1
+- [r/girldinnerdiaries](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d29b67be32414ace.md) — 1
+- [r/incidentresponse](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77bef0b8a8b743a0.md) — 1
+- [r/indiehackers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d2e9eb20f9d20cb0.md) — 1
+- [r/langchain](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1584379893200091.md) — 2
+- [r/LeadGenSEA](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/66843e1a812a72b4.md) — 1
+- [r/learn_arabic](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/81026c2d60a0c71c.md) — 1
+- [r/llm_developers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1e5939ef9b1ec84b.md) — 1
+- [r/loanofficers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1493b5827f1e8d91.md) — 1
+- [r/localseo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4246896090bc058e.md) — 1
+- [r/macapps](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/60e8ae2ab6e7093f.md) — 1
+- [r/mlops](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bd008d45c322693d.md) — 1
+- [r/mortgagebrokers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/549c0fe566517cc6.md) — 1
+- [r/muslim](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7bd0e5d73f012ccd.md) — 1
+- [r/onebag](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ba7761ca63851267.md) — 1
+- [r/openai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/589bf77949422d98.md) — 1
+- [r/openaiapi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b21db79b74523a81.md) — 1
+- [r/opensource](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ae7447cbfe526261.md) — 1
+- [r/personaltraining](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/25b0eb163752260e.md) — 1
+- [r/PetWastePros](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1aca3baace03fc21.md) — 1
+- [r/programming](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/03fe38466c0321e3.md) — 1
+- [r/quran](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cb7a4cf57513f837.md) — 1
+- [r/realestatedevelopment](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/88a09fd7a647dad0.md) — 1
+- [r/repe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0b7d871e23d49152.md) — 1
+- [r/reviewmyshopify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c5a2f2d8551099e2.md) — 1
+- [r/roadtrip](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c305f10f98845c65.md) — 1
+- [r/saas](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/08ffe35521c32b37.md) — 2
+- [r/selfhosted](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f52a986159f7c2e2.md) — 1
+- [r/seo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4dcf41d498ef7b4a.md) — 1
+- [r/shopify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/959b3ff1bbeb83af.md) — 1
+- [r/sideproject](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/de7107c75a1307a8.md) — 3
+- [r/sideprojects](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1c5232baf3b0c0bd.md) — 1
+- [r/skilledtrades](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3e3a8303f0ea5e06.md) — 1
+- [r/snowflake](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a336e3c243322658.md) — 1
+- [r/supabase](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/80a7c61064ecd0b1.md) — 1
+- [r/threatintel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1d3c9edce482f321.md) — 1
+- [r/UX4All](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ff5c5e8636281783.md) — 1
+- [r/web_design](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/37a9b6c00899aec1.md) — 1
+- [r/webdev](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/899bfc13487a7f6e.md) — 2
+- [Radar Rules](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6c560a92d679be2d.md) — 1
+- [RadarKit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a36feeab0e4f120f.md) — 1
+- [RAG助手插件](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9f266574e16c99be.md) — 1
+- [Railway](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e34d1c9011e06204.md) — 3
+- [Raindrop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1a89614a7ae4f0ff.md) — 1
+- [Ramp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f7d9f5a90479d632.md) — 3
+- [randrgoods.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/93491c64491fdb16.md) — 1
+- [Rankpilot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9754af97097e3723.md) — 1
+- [RapidAPI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a29842c746ccee6f.md) — 8
+- [RapidCAM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c68876498881772c.md) — 1
+- [Raxbooker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0c9cb9a006f0eb37.md) — 1
+- [Raycast](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a028936d91b82b28.md) — 1
+- [Raycon](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cd2e9f8bcb5925be.md) — 6
+- [Razorpay](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3ad26c5abab876c9.md) — 8
+- [Reachvo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8e492946b3c3a0cc.md) — 1
+- [Reachy.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5a47cf4df24fc327.md) — 2
+- [React](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/275976081ce1abf6.md) — 1
+- [React Native](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/29f0134a8762f116.md) — 2
+- [React/FastAPI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/09958812cef7693b.md) — 1
+- [Readypixels](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/224870fdaa9f4d90.md) — 1
+- [real video creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/19b3461814129375.md) — 1
+- [Recraft](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9e365138bc2227d9.md) — 1
+- [Red Bull](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b4f989fabcee34c1.md) — 1
+- [redaction tool](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/47ac40cd86fcba32.md) — 1
+- [Redbubble](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/62483f1fce471815.md) — 2
+- [Reddboss](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cf548e810f272d4a.md) — 1
+- [Reddit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2e183f2a7a70de1c.md) — 265
+- [Reddit + LinkedIn](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c80f5463d0dd6914.md) — 1
+- [Reddit ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1374818e0f82bb70.md) — 20
+- [Reddit AutoMod](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fb6d35c5a1dc8158.md) — 1
+- [Reddit DM agent（marketowl.ai的迭代产品）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fc402e671e7b395f.md) — 1

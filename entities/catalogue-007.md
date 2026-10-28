@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 7
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [BeatStars](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/eda78d95ac793f2e.md) — 1
+- [Beauty of Joseon](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/57b0195205c42380.md) — 1
+- [Beeftekopolis](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bce926a7f44460ac.md) — 1
+- [Beehiiv](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/61eba8388a75829a.md) — 2
+- [Beep](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d01b7ce9154ef026.md) — 2
+- [Behalf Korea](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/34036e5d51e8e6f4.md) — 1
+- [Behance](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8ecbf23528e02a79.md) — 1
+- [Beis](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cf0694e6a73e2e2a.md) — 2
+- [Benable](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3ea56cdd1a37b0c1.md) — 1
+- [Bench](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1b32c28cb38c0548.md) — 2
+- [Bento](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4243b479ae1f345e.md) — 11
+- [bereach.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6da12fe98f4d3439.md) — 1
+- [Beside AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5894a48f2ab44f04.md) — 1
+- [BestPrice](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/96748d7a17bf487b.md) — 1
+- [BetaList](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9d47f696beabfcae.md) — 2
+- [Better Touch Tool](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3681c3423f461e5f.md) — 1
+- [BetterHelp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/74a8220c367ccd07.md) — 1
+- [BetterStage](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0ab7737e5c0cb5f7.md) — 1
+- [Bidly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7ace5ef75bf038da.md) — 1
+- [Big 4 consultants](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/49f22cb5e6468e79.md) — 2
+- [Big Cartel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ec79ad5b0206e49e.md) — 3
+- [BigCartel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2868b91dce69efe3.md) — 2
+- [BigCommerce](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/40e1ee44b7c96bc9.md) — 3
+- [Bilibili](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5acb7efa8ac5b65d.md) — 2
+- [Billino](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6804eec532b52fd2.md) — 1
+- [billio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8e56d72f623fc203.md) — 1
+- [Billo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9905fc6ba9a9a501.md) — 14
+- [Binet and Field](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/57940703142304af.md) — 1
+- [Bing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3c77f261a156a530.md) — 10
+- [Bing Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c94ce75bacfa4b7b.md) — 1
+- [Bing PSA Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bc90dc2e23c1fca5.md) — 2
+- [Bing Webmaster Tools](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/482055d74457b070.md) — 1
+- [Bitly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/eda26b1af4c92d34.md) — 1
+- [Bitscale](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f49f31383ab71537.md) — 1
+- [BizBuySell](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c97b5b2fe962c745.md) — 3
+- [blawgy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d969d60493e13624.md) — 3
+- [Blazor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c8f1bfc678ad4c9e.md) — 1
+- [Blender](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5a80e4ba8e6d0425.md) — 4
+- [Blix](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6392c4e19894274f.md) — 1
+- [Blockbench](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/170bfdaac216830d.md) — 1
+- [Blogger](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0755dd36a0238e5c.md) — 1
+- [Blogger Outreach & Publisher Research](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a9138a9d449f94f8.md) — 1
+- [Bloom Analytics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c77661277bd7c212.md) — 1
+- [Bloomberg Terminal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/306884c7c25bf547.md) — 2
+- [Blotato](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/eb8f1ec0404dcb51.md) — 2
+- [Blue Orbit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/37b1a1484cba1c02.md) — 1
+- [Blue Sense Digital](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a9cbd3e6c86a3b57.md) — 1
+- [Blueberry](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ab45e8474269b026.md) — 1
+- [Bluehost](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9231e4d245c169d2.md) — 1
+- [Bluesky](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/41a37f5b02ea6532.md) — 4
+- [Bluevine](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c723ccd1e1a6eb20.md) — 1
+- [Blume AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/14a36bd183265cf4.md) — 1
+- [BMW](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/27df9ed9a477af0f.md) — 1
+- [BNI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/78f88acaa89ae95c.md) — 3
+- [Boardy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3deeed6ec8da7018.md) — 1
+- [Bogg Bag](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e8fd97f53ce561f7.md) — 1
+- [boilerplate（代码模板）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5ed249ed38a7308d.md) — 1
+- [Bol](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cd8b78cd37ac684d.md) — 2
+- [BOL.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/68b651f81843211d.md) — 1
+- [Boldin](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8968ad2192fe8a54.md) — 1
+- [Bolt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d0b3cba71f725563.md) — 1
+- [BolWise](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9f07f2369c4374f5.md) — 1
+- [Book That App](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3ee20f8479792599.md) — 1
+- [Bookeeping.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cf6331adb797d612.md) — 1
+- [Booking](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/001d057c49888db9.md) — 1
+- [Booking.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ab3c4b84e5c30ee6.md) — 1
+- [bookkeeper/VA](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e05a9866a4b62b93.md) — 1
+- [Boreal-H3](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a6342c74c521841d.md) — 11
+- [bots.gg](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9038800dcf1425cf.md) — 1
+- [Bounce house rental](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/722fa6c403bfcb4e.md) — 2
+- [Box](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/26f8567f25691822.md) — 1
+- [Brain FM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/11524c676fc7dd08.md) — 1
+- [brains.ceo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bcc691bffbf223d4.md) — 1
+- [BRAM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0030418a278acf41.md) — 1
+- [Brand Constellations](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1c3d79fbfb41a220.md) — 1
+- [Brand Custodian](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/64ec49e9fda866ed.md) — 1
+- [Brand GrowthIQ](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cd304613f79ca458.md) — 1
+- [brand strategy agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a5f8fecf05ae23df.md) — 1
+- [Brand Tracker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b68944e00870c55b.md) — 2
+- [brand.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a88fbec9d29d0242.md) — 1

@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 5
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Amazon SES](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d03a059136696797.md) — 5
+- [Amazon Sponsored Products](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aab22c2a0a1ec84a.md) — 1
+- [Amazon.in](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ce77a1a7ad6dffa1.md) — 1
+- [Amazon转售业务](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5fb7a9c9241339e7.md) — 1
+- [Amble](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f307c8a46b6d6158.md) — 1
+- [Amboras](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/efda5f3ebd58ee35.md) — 2
+- [AMEX](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5344ae4677efc34b.md) — 1
+- [AMnova](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7325eb56d36f3af0.md) — 1
+- [Amplitude](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4fea05be302d325b.md) — 2
+- [analytics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/65f98121a162a56a.md) — 1
+- [analytics app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/19bf6ff01487e8d7.md) — 1
+- [Analyzify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c776bd57ff3e9688.md) — 1
+- [anara](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d9db6f1f155a1a7e.md) — 1
+- [Angi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e4708a2abc5dd435.md) — 1
+- [Angi Pro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5912a334d2180666.md) — 1
+- [Anibis](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/082625ce63bc290b.md) — 1
+- [annkellokahawaa](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f95ef9083cf4571e.md) — 1
+- [Announcify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3db15735ef382d58.md) — 6
+- [AnswerThis](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6028a8b6d98f0e99.md) — 1
+- [Anthropic](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c70eca6b0f88f44d.md) — 18
+- [Anthropic Claude](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8e01bcd9b0b190e1.md) — 1
+- [Anthropic Max plan](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/94c80249668ca359.md) — 1
+- [Anthropologie](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fd40025b96c2b4d9.md) — 2
+- [Antics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/36fce319303169bc.md) — 1
+- [Antigravity](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ac0a3dfd6dddb209.md) — 2
+- [Anypost](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/95f4ec91c4e13ed8.md) — 1
+- [AnzeigenBoost](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b0cc2e77cb31184b.md) — 2
+- [aoecloud.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4cc96896154bb0a3.md) — 1
+- [Apaleo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/72ad11826a93fce0.md) — 1
+- [Apexapro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/14f4b1d9694b1cbc.md) — 1
+- [API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/14c2529eb4498c5d.md) — 1
+- [Apify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/954f775230679543.md) — 5
+- [Apify Actor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/65232d07067231a6.md) — 1
+- [Apigee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/553e65c51b359c98.md) — 1
+- [APIs/MCPs/浏览器使用等多种agent访问接口并存](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ad78168607a36814.md) — 1
+- [APOB AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c641ad79c3715cf4.md) — 2
+- [Apollo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8d3aa1a6f227d714.md) — 12
+- [Apollo.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f8692631bf5a43b4.md) — 4
+- [App Analytics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fe9f3c1a8a43ecd6.md) — 1
+- [App Store](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/25dd14681eb572f5.md) — 23
+- [App Store Connect](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b0ae0dd5b220078b.md) — 4
+- [App Store journaling apps (category)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0693e34082e41879.md) — 1
+- [App Store Search](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b212af3850c9bb7c.md) — 1
+- [Appbot MCP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ce27c5545b4e5871.md) — 1
+- [Apple](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3a7bd3e2360a3d29.md) — 4
+- [Apple Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/85ce3b0bbf3b9234.md) — 1
+- [Apple App Store](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0c4081d20e32bf25.md) — 9
+- [Apple App Store payouts](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/de640950c6e4de8a.md) — 1
+- [Apple Creative Studio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7abfed1709901299.md) — 1
+- [Apple Developer Program](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dbe5f7ee7d083033.md) — 1
+- [Apple Files](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e862bb91235e0643.md) — 1
+- [Apple Mail](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f687d14c995e9e72.md) — 2
+- [Apple Metal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c287f00dce0ae78b.md) — 1
+- [Apple Notes](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/524521c190fd8610.md) — 2
+- [Apple paid ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5dd165e15b1dc0dc.md) — 1
+- [Apple Pay](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/03f5ed581c44e3cf.md) — 3
+- [Apple Podcasts](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/24cc3d6ea3da8687.md) — 1
+- [Apple Reminders](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8fb5f451bcb4a9ca.md) — 2
+- [Apple Screen Time APIs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fd56116af825e9aa.md) — 1
+- [Apple Search Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/776e920657cff179.md) — 6
+- [Apple Small Business Program](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0b0cb839d011142e.md) — 2
+- [Apple TV](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/16ab4b65810d48bb.md) — 1
+- [Applovin](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6f76bf69ae6969b3.md) — 3
+- [Apps in Toss](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d21e22a7c12188a3.md) — 2
+- [AppsFlyer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e25a0408c8e3d20f.md) — 9
+- [AppSumo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/590c16076ccdbb6e.md) — 19
+- [AppTweak](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a3b2c16f07eab3b0.md) — 1
+- [Apyhub](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/89a1c614e5d6c2e8.md) — 1
+- [Aramex](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/05f45798fbb46e3e.md) — 1
+- [Arcads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2b7c080f7b62bce2.md) — 14
+- [Arcads AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0617b267afab2cf9.md) — 1
+- [Archer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e226306f3f87b8f3.md) — 1
+- [Archetype Look](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ef2b45117c7009fc.md) — 1
+- [Archive.org](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b83974d09bef2f6e.md) — 2
+- [Aritzia](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/263756ed7731f7bf.md) — 1
+- [Arkova](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f9f12bf68a977270.md) — 1
+- [Arni 合作社](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/913eaf9b51924764.md) — 1
+- [AROMATICA](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/98cf33acb4ae5adc.md) — 1
+- [art ad studio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/264847a420494637.md) — 1
+- [ArtCraft](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/285f4698cec5ddc0.md) — 2

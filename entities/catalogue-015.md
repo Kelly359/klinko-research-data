@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 15
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [fable 5.1](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8865fe9ae0424e85.md) — 1
+- [Fabula Coffee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9653a1a59f9a67c6.md) — 1
+- [Facebook](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3d59f7548e1af215.md) — 74
+- [Facebook Ad Library](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4425ca55ae6357a8.md) — 1
+- [Facebook Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/56c6cd5bfa64e52c.md) — 39
+- [Facebook Ads Library](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3515a1a723f3a818.md) — 1
+- [Facebook Ads Manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4edd459046a4e371.md) — 1
+- [Facebook Audience Network](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a05bbce59ba52ad8.md) — 1
+- [Facebook groups](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2e34551791ece8b2.md) — 25
+- [Facebook Marketplace](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/97bdd457d43d050e.md) — 6
+- [Facebook Pixel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/141f544a168d9aca.md) — 1
+- [Facebook Reels](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b836029d14b0082a.md) — 3
+- [Facebook targeted ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/64dd4c49112cb374.md) — 1
+- [Facebook广告](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/376c8e8add108aeb.md) — 2
+- [Facebook群组](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/492b8b87da90c531.md) — 3
+- [faceless reels类现成工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/125d3e1f3e8cda06.md) — 1
+- [FacelessReels](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7345ac36f760085d.md) — 1
+- [Facilitator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3e61726783b91861.md) — 1
+- [Faire](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7f802a7788c545c6.md) — 3
+- [Fal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2834e64f3da4f1eb.md) — 1
+- [Fal AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d594b1f03e0843e9.md) — 1
+- [Falcon Rank Marketing](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/790724ecc5d289dd.md) — 1
+- [Far Bank](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/10a6c33a2debbed9.md) — 2
+- [farmers markets](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/19a72dafe13de28c.md) — 1
+- [Faros](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/24412735baeed91a.md) — 1
+- [FastAPI + numpy/scipy/librosa/pedalboard](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6befd812faf95d99.md) — 1
+- [Fastlane](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5ae073a3a8e68455.md) — 2
+- [FAVORIT MARKETING](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c0e8d9a0d497f01c.md) — 1
+- [FB ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d5799913863fa450.md) — 1
+- [FBA](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/157adb9f9782f074.md) — 2
+- [FCRA](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9f6bbaad419acd37.md) — 1
+- [FDM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6c14ae0e3abc63b6.md) — 1
+- [FedEx](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3ee49785593999ce.md) — 5
+- [feed optimization tools](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e0c2bbac13890dcd.md) — 1
+- [feedbacked](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/01fe0dc1354d86d2.md) — 1
+- [Feedly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/74498409a1a90d65.md) — 1
+- [FeedSense](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f9f3a1df4e6040cf.md) — 1
+- [Fenty Beauty](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/05a78bcd14058df3.md) — 2
+- [Fern](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f0a5da17e0ffa3a2.md) — 2
+- [fernain.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9ba71adcbef8f78c.md) — 1
+- [FetchSandbox](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2ba09a72855319ec.md) — 2
+- [Ffern](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/85d40ff65af752f4.md) — 1
+- [FiCalc](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/106205d3f977fd69.md) — 1
+- [Field Report](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8fdf4ad4c192f5c8.md) — 1
+- [Field Report by dearCC](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e26077489d9b32ba.md) — 1
+- [Fieldwork](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0efca4bd1b215844.md) — 1
+- [FigJam](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0b529b262557bd74.md) — 1
+- [Figma](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5b79d0d574eedd09.md) — 38
+- [Figma Weave](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b728c8836a45505e.md) — 1
+- [FilesAnywhere](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a36acb6177f1770a.md) — 1
+- [Filternote](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/65ed8c803ca334db.md) — 2
+- [FiMod](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/04ef922ce5ace01e.md) — 1
+- [Final Cut Pro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/96fa405114faec2a.md) — 1
+- [Findable](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/38f85b8560d19553.md) — 1
+- [findaily.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f02aa3fe697b3cbb.md) — 1
+- [FindIt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d4c1499483c7624c.md) — 3
+- [FinWizard](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8a34a58a1d615986.md) — 1
+- [Firebase](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/618b8c8de24c7b03.md) — 2
+- [Firebase Analytics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5271aed9b7dc6171.md) — 1
+- [Firecracker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c2d872a13438b376.md) — 1
+- [Fireflies](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/161c26cc674bc61b.md) — 1
+- [Fireflies.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e44a5261597d8bbc.md) — 1
+- [Firefox ESR](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8c886feaca518dbf.md) — 2
+- [Firmable](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bd4dc157dbbc09f6.md) — 1
+- [First 10](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3f942103384d3267.md) — 1
+- [Fish Audio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b76754bb5e10534b.md) — 2
+- [Fitbit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2338bd42b77c9d4a.md) — 1
+- [Fiverr](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ba94f3933307554e.md) — 39
+- [Flairo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0709f52f1716e510.md) — 1
+- [Flash Furniture HERCULES Series LE-L-1](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1f457fde92864070.md) — 1
+- [FlavorCloud](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/62f61b931d75907a.md) — 1
+- [Flevy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/251125ff8cdf4341.md) — 1
+- [Flexify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ba2dea19b4b9dbe0.md) — 1
+- [Flickd](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/21c7e28c615baceb.md) — 1
+- [Flipkart](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4e8c67d62118bf11.md) — 8
+- [flippa](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/33d8466eec41a17c.md) — 6
+- [Flipsnack](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9047d97c705c136b.md) — 1
+- [Flova.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c3c1c1cd709fc520.md) — 1
+- [FlowClip](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/69c2535b4020be66.md) — 3
+- [Flowfy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7c61ea1502b9cb37.md) — 2

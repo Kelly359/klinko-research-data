@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 9
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Cardmarket](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d5bd64f459bfb2d4.md) — 1
+- [CareerPilot UK](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/581006654020da8b.md) — 2
+- [Carevalidate](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3e8e17e3c0dd0127.md) — 1
+- [CARM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/413a163cc961f3cc.md) — 2
+- [Carnegie Presentation Training](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0b81e55904b44934.md) — 1
+- [Carpe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f1c2961a950bc8ce.md) — 1
+- [Carta](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f0d7b63c6c97d210.md) — 6
+- [CartGate](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/19e86da5fb5d8b1d.md) — 1
+- [Cascade](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fd782ad6a7d31fee.md) — 2
+- [Cashbox](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/48f3347134091a6b.md) — 1
+- [Catalyst Studio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9f2aa6f058cac8eb.md) — 1
+- [cbdriver.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/150cfd2a612db9fc.md) — 1
+- [CENTAURI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/768864ebdd1e5efa.md) — 2
+- [Centauri Studios](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/96c67601bf846645.md) — 1
+- [Ceramide](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5c6d57484aac0280.md) — 1
+- [CeraVe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/350345a0aab9ce54.md) — 1
+- [certalerts.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ce92d57ab5a4c68e.md) — 1
+- [certified agency partners directory](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a565674392db8f8b.md) — 1
+- [Certified Scrum Product Owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6dae9e338801d20d.md) — 1
+- [Chamber advertising](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/716e124c2dc0b01e.md) — 1
+- [changedetection.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/67a486153421fe43.md) — 1
+- [Channel Bay](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2a7b7f5a9a3d2bfd.md) — 1
+- [Channel Wise](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f65286e6ec25465f.md) — 1
+- [Chargeflow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f0f86ce38db6544c.md) — 1
+- [Chasedue](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/df1f06e89130b471.md) — 1
+- [Chaser](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/707a59bd60638bab.md) — 1
+- [Chatbase](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1a9ee770333c0f31.md) — 6
+- [chatbot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/386ebc0efd04339a.md) — 2
+- [ChatClipThat](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9543888f2c1f2de3.md) — 1
+- [ChatGPT](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/60965168ce762e94.md) — 249
+- [ChatGPT Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2a2f57afbe3cd39b.md) — 40
+- [ChatGPT Codex](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/54ee868d3d2a09b0.md) — 1
+- [ChatGPT crawler](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4fff461a2a03ae46.md) — 1
+- [ChatGPT Dots](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fdad3ff25426b563.md) — 1
+- [ChatGPT Enterprise](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e72ad2fb46542ce3.md) — 3
+- [ChatGPT sol](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c0f63208afd32089.md) — 1
+- [chatgptadlibrary.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dbf3410bd6b0a11a.md) — 1
+- [ChatGPT产出的审计报告](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/feafc37544acde9e.md) — 1
+- [ChatGPT搜索](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/967b80c897728726.md) — 1
+- [cheaper models](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c2296a9a03557879.md) — 1
+- [Cherry Bombe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a03d43a7d4c4b428.md) — 1
+- [Chewy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5493694a6e340e01.md) — 1
+- [Chief](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9285827b8031a1db.md) — 1
+- [chief of staff 类自执行待办应用（泛指）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/715dd8af1e158d3b.md) — 1
+- [Chrome](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9390ef32addf32bf.md) — 1
+- [Chrome autofill](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bf42fe7f748080d6.md) — 2
+- [Chrome Web Store](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ff5ec6734d6ca93b.md) — 3
+- [Chrome Web Store（类比渠道）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3eb6c6806b9ea440.md) — 1
+- [Chrome 应用商店](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b2cbe2966b27785f.md) — 1
+- [churn/dunning tool（未具名）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0749763a5c51602d.md) — 1
+- [Churnintel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4ad23ddeb63c7868.md) — 1
+- [CI/CD pipelines](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7928857f6907155c.md) — 1
+- [CierraFlow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7f372267e6602d51.md) — 5
+- [Cin7 Omni](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/df382b9c0a70f0ee.md) — 3
+- [cinematicphoto.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/93d478c5dbb7b44a.md) — 1
+- [Cint](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a60ad809551a1c89.md) — 2
+- [Cisco](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e73b79a0b10f8cdb.md) — 1
+- [Cision](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9d5e9225d9c5277e.md) — 1
+- [Citadel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c737e8142a927072.md) — 1
+- [CiteSilo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e07cf7f0b0cd0f02.md) — 2
+- [Cituna](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/99e6c0b4265043ec.md) — 1
+- [city business spotlight program](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/604fe161ef8c9cee.md) — 1
+- [city parks department](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/09b6b7aac2c8b682.md) — 1
+- [Claras](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ef9a45ad011cece4.md) — 1
+- [clarashots.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dc9c35258625b819.md) — 1
+- [Clarity](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/261b152862d1d614.md) — 3
+- [Claude](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c857d09db23e6822.md) — 327
+- [Claude + Obsidian 组合](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/942c97aac2d8ca3f.md) — 1
+- [Claude 20x](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/13c45178ad8c7616.md) — 1
+- [Claude Academy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/af90972865994ccc.md) — 3
+- [Claude AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/be3b5ed12e072cc3.md) — 2
+- [Claude bot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a1a37490e776a677.md) — 1
+- [Claude Code](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a625159d18da5718.md) — 65
+- [Claude Cowork](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fd13ae012c0a7a54.md) — 4
+- [Claude Design](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c8f3e8e259a39ef9.md) — 7
+- [Claude Desktop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/abc5ac745d337316.md) — 1
+- [Claude Fable](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ced86039c0ad6a7c.md) — 1
+- [Claude Max](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e305e9e079b463ed.md) — 1
+- [Claude Max 订阅](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fc3e1386a7b50433.md) — 2
+- [Claude Max订阅](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9fd41c76ac6dc77b.md) — 1

@@ -1,0 +1,84 @@
+# AI-inferred roles — catalogue 10
+
+Raw AI-inferred role labels, including open-ended labels and synonyms. These are not verified identities, unique personas or paid-customer status.
+
+- [marketing_lead](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/1f566b89b2cbf0ad.md) — 2
+- [marketing_manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/92015855f1a7b3b0.md) — 1
+- [marketing_professional](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/01c857016e44a80b.md) — 1
+- [marketing_service_provider](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/30be1c97f4dc3399.md) — 3
+- [marketing_staff](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/9eef81e071fc0a79.md) — 1
+- [marketing_strategist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/1b001131119135f1.md) — 1
+- [marketing_strategy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/806932aee08ecdab.md) — 1
+- [marketing_strategy_analyst](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ecdca4732926de40.md) — 1
+- [marketing_team](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f5b6e18bd764a84f.md) — 1
+- [marketing_team_member](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/af4f88ad8526de47.md) — 8
+- [marketplace founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/eccdb8f3cbbb78d5.md) — 3
+- [marketplace_founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f4b428697ffa6871.md) — 6
+- [math+stats undergrad](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/67e2561d721f52bf.md) — 1
+- [MBA学生](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/3da5743e9f69cf0b.md) — 1
+- [media buyer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/767fbdc442a29efc.md) — 2
+- [media buyer / freelancer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/5db888a6f112d203.md) — 1
+- [media buyer/ads manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/36016019afc9c7d3.md) — 1
+- [media buyer/planner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ae6153d48b1e389e.md) — 1
+- [media specialist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f0a91e01c4c2acf5.md) — 1
+- [media/advertising professional](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/578a7f6625c72a07.md) — 1
+- [media_buyer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/67f8268f2e56b27c.md) — 21
+- [media_planner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ee47e9019263a15e.md) — 1
+- [medical supply distribution founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a962543fca54fe68.md) — 1
+- [meetup organizer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/6999249cc0cf308c.md) — 1
+- [merchant](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/9e786cce0d95f0f6.md) — 5
+- [Mercury customer / bookkeeping software user](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/fe07d9a3a0aaa7b0.md) — 1
+- [Meta ads practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/0e5ca647bf84e12f.md) — 2
+- [Meta Business用户](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/208f5b6c8d60910d.md) — 1
+- [meta_ads_practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a40610175d447470.md) — 1
+- [Meta广告代运营](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2faeb3c4574298eb.md) — 1
+- [Meta广告投放者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d8242e037acbbba2.md) — 1
+- [MileIQ user](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a1f3df06a71cb076.md) — 1
+- [mobile-only small YouTuber](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/5a984b7c64c8e557.md) — 1
+- [mobile_rv_service_owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ddc1d3012186d6e5.md) — 1
+- [mobile_service_owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ef3c7fadc9befefa.md) — 2
+- [mom entrepreneur/ecommerce seller](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e28f7cb8eaee3064.md) — 1
+- [Monitor Mentions创始人（自述）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/47e14383dc697e3f.md) — 1
+- [multi-brand ecommerce founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/83de623ceefbb2ef.md) — 1
+- [multi-brand group marketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/04998cd21e8b569b.md) — 1
+- [multi-service local business owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d3564a9dbcaeb4d7.md) — 1
+- [multisensory architect](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/485a9206dced5f1e.md) — 1
+- [music artist and business owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/589333a477844ce6.md) — 1
+- [music_marketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c86fa7c94cc74218.md) — 1
+- [mvp_founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a0246fabcb6df55a.md) — 1
+- [NBA分析内容创作者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ea9a02f3221dfd94.md) — 1
+- [new YouTuber](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a6ace7579eebd325.md) — 1
+- [newsletter sponsorship product builder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ef248da5e229a96b.md) — 1
+- [niche aggregator founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2d7aacc082e7f5e8.md) — 1
+- [Nixra创始人](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2b0e90727f8620b1.md) — 1
+- [non-coder builder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e9b6e8989e0416e9.md) — 1
+- [non-technical founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/289b42a873cc1acd.md) — 1
+- [non-technical PM at startup](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/fe52ee38f6548c78.md) — 1
+- [null](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/74234e98afe7498f.md) — 103
+- [null_placeholder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/6f75246b9093d77d.md) — 1
+- [observer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e41f1d834710df8c.md) — 5
+- [Octolens创始人](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/12b88e4353484d52.md) — 1
+- [one-person company owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d4c47ce33bf1f405.md) — 1
+- [one-person marketing team](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/653296b37e7207f4.md) — 1
+- [one-person marketing/content team](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a6758b9bd8d373af.md) — 1
+- [OOH buyer/practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f5104ac3e7e9c82c.md) — 1
+- [OOH industry practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d3265fb2d9041d6d.md) — 1
+- [op_author](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a9ab6f090d1aa528.md) — 2
+- [operations_consultant](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/cbe1d42ad8ca1c66.md) — 1
+- [operations_staff](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/3c5fd4e907f23910.md) — 1
+- [operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/06e55b633481f7bb.md) — 1
+- [Orbbt创始人](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c405c8f3f4c3e3ed.md) — 2
+- [original_poster](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/db456b3812ea87ee.md) — 17
+- [other](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d9298a10d1b07358.md) — 1
+- [other_brand](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/38452c3aa799e113.md) — 6
+- [other_builder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a78ac7413b3362a9.md) — 10
+- [other_commenter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/23fee9e34e015ebd.md) — 2
+- [other_dev_founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/4a414f67c12726f3.md) — 1
+- [other_founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e078c6382c18d3bb.md) — 5
+- [out-of-home advertising practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/533203ced4fb33ef.md) — 1
+- [out-of-home media sales](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/27f2dd9edea8a8e9.md) — 1
+- [outbound从业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/cd82c54dc96f9d94.md) — 1
+- [outsourced chief brand strategist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c0abb1a9c02645b6.md) — 1
+- [overseas buyer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/fc664666ef1dbd41.md) — 1
+- [paid acquisition strategist / media buyer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/edce5a6ee7a1d4d8.md) — 1
+- [paid search practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c307c82759807fd1.md) — 1

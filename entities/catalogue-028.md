@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 28
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Microsoft Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db4b952ff2193c1b.md) — 12
+- [Microsoft Ads Scripts](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/90385d64f3388950.md) — 1
+- [Microsoft Advertising](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a5e7ecf7c6255966.md) — 2
+- [Microsoft Azure](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dbb9cded2e5efbfd.md) — 1
+- [Microsoft Clarity](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ca1702339209ab2a.md) — 15
+- [Microsoft Copilot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8bb6561e31c2be64.md) — 3
+- [Microsoft Edge](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6bf91f219f7598e6.md) — 1
+- [Microsoft for Startups](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4161ae506193a7f2.md) — 1
+- [Microsoft Founders Hub](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8d40fb3fab50d9c3.md) — 2
+- [Microsoft Office](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/365c74daf6f0fcc1.md) — 2
+- [Microsoft Planner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ba0f99268036b23b.md) — 1
+- [Microsoft Scout](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c15db4f0771f44ac.md) — 1
+- [Microsoft Store](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/23203bbf5a4231a1.md) — 1
+- [Microsoft Teams](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0a7411a215b0fa5b.md) — 4
+- [Microsoft To Do](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/659d0f03f63614c5.md) — 1
+- [Microsoft Word](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/32ff1080ac1d49a9.md) — 1
+- [Midjourney](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d931372ba7f836a0.md) — 2
+- [Mike Andes](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/515bf238249f196c.md) — 1
+- [MileIQ](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/17515daaa0f87d64.md) — 5
+- [million dollar homepage](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bb8e9a24fc795b2c.md) — 1
+- [Mimestream](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fc241bedcedbe090.md) — 1
+- [Mind the Product](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/130d0f8faa45488f.md) — 1
+- [MiniMax H3](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ff311153fc9e7f48.md) — 3
+- [Mint](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dc6f17bbec824fff.md) — 1
+- [Mintel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8f55dcca03e4b2fe.md) — 1
+- [Miro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e402bd4f0a138c71.md) — 7
+- [Mirta](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/af7d8a0cfe3a0292.md) — 2
+- [Mistplay](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e6cf575d4444a429.md) — 1
+- [Mistral](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/920510199770f4d6.md) — 1
+- [MIT OpenCourseWare](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/278445c0e0b51736.md) — 1
+- [Mixed Methods Slack](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d97376d41a6e81ef.md) — 1
+- [Mixmax](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/799b35d9315cdc7b.md) — 1
+- [Mixpanel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6c51a29724410569.md) — 6
+- [ML model](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5175d59aa7bfcbd4.md) — 1
+- [MoaV](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9fddefe1c4ef3588.md) — 1
+- [Mobbin](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/09d00fc66614722e.md) — 6
+- [Moda](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/72a9380d8e156d67.md) — 1
+- [Modash](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cbc9fca4b39173d8.md) — 1
+- [modeling agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f19efee2859e6bfa.md) — 1
+- [ModelSaid](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fa03f9b1a319020d.md) — 1
+- [Moho](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b814d41ae7745865.md) — 1
+- [Momentum Works](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c43adf3aa1bd9e23.md) — 1
+- [momo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3100486406b39efc.md) — 2
+- [Monaco](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8870e6cbc014734d.md) — 1
+- [Monday Girl](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d735f2fa092c4ba3.md) — 2
+- [Monday.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/df9ba8c57b8c2795.md) — 1
+- [Monitor Mentions](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ccd13a7ea4b371b.md) — 1
+- [monity.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/93e398b1cbff165d.md) — 1
+- [MonstarX](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4e9cc9c7a9f2a2d4.md) — 1
+- [Montserrat](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3eeceb71042dec77.md) — 1
+- [mood2know](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7f60290a3a661848.md) — 1
+- [Moonaria Insights](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a81f31e6db58061a.md) — 1
+- [Mooring](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a0b1df6be0428cde.md) — 1
+- [Morphic](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6d70db1838e13276.md) — 1
+- [Mother](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cf0622ef2a661cd2.md) — 2
+- [Motion](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/305238273bb0fac2.md) — 2
+- [Mouf](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/78a79c72f24655c4.md) — 1
+- [MouseFlow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/992bc230b589df5f.md) — 2
+- [movetogetherfitness.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/52c56bffc9ded8bf.md) — 1
+- [MPM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2beb93a988087edb.md) — 1
+- [mrrplanet.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1767c784d4ec799b.md) — 1
+- [MS Clarity](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7bcec49983b7b661.md) — 1
+- [MSQ group](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3473cbd348214cee.md) — 1
+- [MTurk](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f9ba8ee7ed4c362f.md) — 1
+- [MUBI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/05232b7d6e3e130e.md) — 1
+- [Muck Rack](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c3388c7508c1d1be.md) — 1
+- [MUIQ](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/78af670d5442eb64.md) — 1
+- [MultiFollow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3334f8ffac2232f5.md) — 1
+- [Musa](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/763a87e8ecd542b4.md) — 1
+- [Muse](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4016c3db3bc3c731.md) — 11
+- [Muse等高价头环品牌](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/724d91b4f2924c5d.md) — 1
+- [muvi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/838dbd182355cf96.md) — 1
+- [MVP / Minimum Lovable Product](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/497c170caf4cd9d5.md) — 1
+- [My Decent Habits](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/40aec956a32202e3.md) — 1
+- [MYB](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1182a248b07b12cf.md) — 1
+- [MyCyber News](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e38bc66a3581ff2d.md) — 1
+- [Mydrop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/497983dc5650a826.md) — 3
+- [MyFitnessPal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/34c61d931feaab26.md) — 2
+- [MyLinkPal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d7145cffe43b596a.md) — 1
+- [MyMusicWrap](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b83061bcebd61344.md) — 1

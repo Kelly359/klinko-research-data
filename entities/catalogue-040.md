@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 40
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Smart Marketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/df20ad820b917445.md) — 1
+- [Smartsheet](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6cf5e6317a236541.md) — 1
+- [SMS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9582d03046bd2d14.md) — 4
+- [Snapchat](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b200592c45d4fef7.md) — 2
+- [Snapchat Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e520e209675a5f53.md) — 1
+- [Snapdeal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b095d3503eeae9c4.md) — 1
+- [Snapseed](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/66916bae17e8e143.md) — 1
+- [Snov](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8495ce222a028b55.md) — 1
+- [Snowflake](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/de5a1adf4fedcce1.md) — 2
+- [Snowys Camping Gear](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db447dcc4b36ac51.md) — 1
+- [Social Cat](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6fc994641d9afb50.md) — 1
+- [social listening tool](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/693a30cfad42cce5.md) — 1
+- [social media](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/96726f43210da1fe.md) — 2
+- [social media agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/835d1bacbae16204.md) — 1
+- [Social Media Club Allgäu](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ce7127ee5cb0031d.md) — 1
+- [social media platforms](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/84c40201949f32f4.md) — 1
+- [Social Status](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/594138266e0fe086.md) — 1
+- [SocialBlade](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/698593fe1efe72f6.md) — 1
+- [SocialCrawl](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7b09b9d8f8d5a94a.md) — 4
+- [Sociality](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8bfd63238db3b97c.md) — 1
+- [SocialMate](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6c11c31327d70f26.md) — 1
+- [SocialPilot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e78c024b191e2960.md) — 5
+- [SocLeads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9f07b1d42b492bca.md) — 3
+- [SOC审计](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/69633a0f12869eb7.md) — 1
+- [SoftfyBD](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b5f7ecd8e9452773.md) — 1
+- [SoftServe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/790d01ae18688755.md) — 1
+- [Sol](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8db59feb4d217f26.md) — 1
+- [Sol 5.6](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/044ece9d5d907283.md) — 1
+- [SolarEdge](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8626eaedca520cb7.md) — 1
+- [SonarQube](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0f1141ab4d989706.md) — 2
+- [Sonarvue](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d505d6f98c4a6ed0.md) — 1
+- [Sonet](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aba2464babe22604.md) — 1
+- [Sonnet 5](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b371c38ad4c09dc9.md) — 1
+- [Sony](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/587d392b6c7680ec.md) — 1
+- [Soona](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c2848fabe21a723c.md) — 2
+- [Sora](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a4c745facd3a9215.md) — 1
+- [Sorbet](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c2326100129a9f9d.md) — 1
+- [SoundCloud](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/91b2d88a0f9fdb7f.md) — 2
+- [SourceForge](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9cbcc379b1c32d82.md) — 1
+- [SourceSignal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/063cb6a1823bb140.md) — 1
+- [Space Grotesk](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dfc67fb614aa32b6.md) — 1
+- [Spark](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/92f473809e5979a7.md) — 1
+- [Spark Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7063991a160d9ae1.md) — 2
+- [Sparkle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aefe4867ea407215.md) — 1
+- [SparkToro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3926e3445fce445f.md) — 81
+- [sparx.works](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/44ba050da84977bf.md) — 1
+- [Speakeasy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/96a28dddf7214e1c.md) — 1
+- [Spearo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d48fc3f920ad66be.md) — 1
+- [specialized consultancies](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6bd166ddb79413be.md) — 1
+- [Speekly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/33c3937ac8f0eb17.md) — 1
+- [SpendLens AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6a15fecfa625b1b2.md) — 1
+- [Sphere](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0f58b78bc54e0c3e.md) — 1
+- [Spice Supreme](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9f6179025c2ecdc4.md) — 1
+- [spiced.gg](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77e92bf8272057a5.md) — 1
+- [Spike.sh](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c5e941a23b0cb487.md) — 1
+- [Spindle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3daaec9e346786af.md) — 1
+- [Spokeo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8a3a5045c3868077.md) — 1
+- [Sponsorship & Audience Access Marketplace](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/df38cad259100569.md) — 1
+- [Spotify](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2b78da3dc866654e.md) — 9
+- [Spotify Ads Manager](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7160a08bc876a49c.md) — 1
+- [Spotify for Artists](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ee8d8d5cf4766b67.md) — 1
+- [spreadsheet](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/53e54fd268849dff.md) — 1
+- [spreadsheets](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/eb2bfd49b36e1ae4.md) — 5
+- [spreadsheets / manual workarounds](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/05a30ed0b9fa4673.md) — 1
+- [spreadsheets或现有工具手工交付](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3453ffd866f15d7f.md) — 1
+- [Sprig](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a384110ffe6cbcbb.md) — 1
+- [Spring](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/622a494d3ea8c7ba.md) — 1
+- [Sprinklr](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6efd03c45b422b10.md) — 5
+- [Sprinto](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0863f7f42a7fece7.md) — 1
+- [Sprout Social](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/691351fd94f25a49.md) — 11
+- [SPSS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ccd6adc9ee3180d.md) — 1
+- [SpyFu](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/031d0fb9cb378250.md) — 1
+- [Square](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4ba3e8e3765f2970.md) — 6
+- [Square Appointments](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6cd88c415dbebb42.md) — 1
+- [Squarespace](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8c0f664ba26e8dcd.md) — 13
+- [SR&ED](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/20f3c7aca85cbb11.md) — 1
+- [SSP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/007d831ea2e8e1d0.md) — 1
+- [SSundee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7391eba07ae8724f.md) — 1
+- [Stable Diffusion](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e5c38a7f9b51e7d5.md) — 1
+- [stack](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6ee08e6eb3bc6f45.md) — 1

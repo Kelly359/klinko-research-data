@@ -1,0 +1,5 @@
+# AI-inferred role: 软件工程师/OP（原帖作者）
+
+1 matching records. Each linked page has at most 20 chronological records. Pages can contain other categories: use record-level fields to filter.
+
+- [records/page-0529.md](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/records/page-0529.md)

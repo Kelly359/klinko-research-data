@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 32
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Pax8](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e876b6b92561a457.md) — 1
+- [PayFast](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0666218046d3b770.md) — 1
+- [Paymento](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6d51dbeed19a0bde.md) — 1
+- [PayPal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/afe4d16f403a383f.md) — 25
+- [PayPal Pay in 4](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/23291eea90eb45be.md) — 2
+- [Payroll](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/60f91a742458ae60.md) — 1
+- [PaySquad](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bed402269bbc29a8.md) — 1
+- [Paystack](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c6e5fe0a264d837e.md) — 1
+- [PDF](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c35b21d6ca39aa7c.md) — 1
+- [PDF Expert](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7d452887e90ad7e1.md) — 1
+- [pdfkit](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/398ce75f627d6452.md) — 1
+- [PDFLite](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f4cbbaa7af6c3b60.md) — 1
+- [PDFQuizGen](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b9a811dfad3e0874.md) — 1
+- [Peach Payments](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1958d39f31feb8cc.md) — 1
+- [Peec](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4e713814c69e38d5.md) — 2
+- [Peec AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ff135f87c8c2307b.md) — 2
+- [PeerPush](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/992a7e9a26afc7de.md) — 1
+- [Pegasystems](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8f912ddc2b2172f5.md) — 1
+- [Pendo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8ac5899015be2b4e.md) — 1
+- [Performance ad campaigns](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9860de3b548a5325.md) — 1
+- [Performance Cultivation Pty Ltd](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/791b2338bb496e5a.md) — 1
+- [Performance Max](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6e83b0e47b94fd8a.md) — 5
+- [PermitFlow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4691b178459d1f28.md) — 1
+- [Perplexity](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/45d780f82c9247fc.md) — 31
+- [Perplexity bot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5377d2835b50909a.md) — 1
+- [PerplexityBot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5590ae1acc985df9.md) — 1
+- [Personal Concierge](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f856fc22e274ceb3.md) — 1
+- [personal messages](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/27d9496d6f2e6b5a.md) — 1
+- [PewDiePie](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/556081a4654231fa.md) — 1
+- [Pexels](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/47d08516a38f2c1a.md) — 2
+- [pharmacies](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/13ab5da0df2bc69b.md) — 1
+- [Philips](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dd4cb9cf52f0a9f1.md) — 1
+- [Phin Cafe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/09e363403ce5a6a1.md) — 1
+- [PHLY](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/21a6c27c0ce382a0.md) — 1
+- [Phomemo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ecb6f753bc3c9cd4.md) — 1
+- [Phone.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/32d7e254ec64aec2.md) — 1
+- [Phonon-2.5](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e97d60f8c74c8080.md) — 1
+- [Photopea](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2f376a60a050c79c.md) — 2
+- [Photoroom](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cacaf928358fe0d8.md) — 1
+- [Photoshop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3f4a09b92ccf3382.md) — 15
+- [Physitrack](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6427538b3edc64f6.md) — 1
+- [Pi Coding Agent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/11163ccb5d15e604.md) — 1
+- [pi-herdr-agents](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c9f8839d093b70d2.md) — 1
+- [Picjam](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/45c4fd4ae3027fc0.md) — 1
+- [PicsArt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ea57c062c6478c42.md) — 2
+- [pictag.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dd5c71f4c2c72bd0.md) — 1
+- [Pictory](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f50f32e52016321a.md) — 1
+- [Pier39 AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c5055e6f6234ce2c.md) — 1
+- [Pieter Levels](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1fbab3c7b7e65431.md) — 1
+- [pikes.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7cd90450c56f2ed2.md) — 1
+- [Pillar](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/14cc3e8d95ceb60a.md) — 1
+- [Pilotdeck](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a33edf33430e487b.md) — 2
+- [Pinatex](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/57c30934e3cadf8f.md) — 1
+- [Pinduoduo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3a8b999856beaa38.md) — 1
+- [PingCron](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9e26da115509dd4f.md) — 3
+- [Pingdom](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/816c8f78ca91a028.md) — 1
+- [Pinterest](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/75348dc2f26cf086.md) — 23
+- [Pinterest Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c0b2e501e822b2d4.md) — 1
+- [Pinterest Conversions API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3d07fc562e0ad201.md) — 1
+- [PIP deck](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9b970911bfc44548.md) — 1
+- [Pipedrive](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d7ccdd668ce4b519.md) — 2
+- [Pipeline Franchises](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6d791dfcbe8206f2.md) — 1
+- [Pirate Ship](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a02123d9f71559ae.md) — 3
+- [pisipisy.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/17d26276274c2861.md) — 1
+- [PisteJob](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/15170b27ddce686e.md) — 1
+- [Pit Stop](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/68fc6a7fec8a0d61.md) — 1
+- [Pit Stop App](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/54236c2a7c48cd01.md) — 3
+- [pit-stop-app.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/92289e5f37f501ef.md) — 1
+- [pitch em](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/36bedcbc1ff13cab.md) — 1
+- [Pitchboost](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a93abe089f3eb841.md) — 1
+- [Pitchbrand](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5e2cf67f27f3597c.md) — 3
+- [Pitchlo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4274b486eafeba77.md) — 2
+- [pitchwise.se](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/85e5d7628e595949.md) — 1
+- [Pixabay](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/090e403b69c7d6f7.md) — 3
+- [Pixel Debugger](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d73a8f8aa0556080.md) — 1
+- [Pixenon](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/58158768dcf16661.md) — 1
+- [Pixlr](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/69ff9427b2beb0d7.md) — 1
+- [Pixverse](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5ae517f37304d77d.md) — 1
+- [Plaid](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/45cd2fb5a1701292.md) — 5
+- [Planable](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e5b9cb864d2243b7.md) — 1

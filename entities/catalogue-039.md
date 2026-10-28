@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 39
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Shopify API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a027df87019f152b.md) — 2
+- [Shopify App](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3c62d31dc46d3d43.md) — 1
+- [Shopify App Store](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5202f09c8dc7f7e6.md) — 5
+- [Shopify Autopilot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a94ec7eddc7a8f9c.md) — 8
+- [Shopify B2B](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/72babd60322b9e6a.md) — 1
+- [Shopify Collabs](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/534cbd9b2b17cdbc.md) — 6
+- [Shopify Collective](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/99247b674999706c.md) — 1
+- [Shopify Dawn](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/578cb432168c012a.md) — 1
+- [Shopify Facebook & Instagram app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/10ecf20e8b77ef01.md) — 1
+- [Shopify Flow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/00ae8de6eef3c1a5.md) — 13
+- [Shopify Forms](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a604b509fa8a2059.md) — 1
+- [Shopify Functions](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b3807a0885214f40.md) — 2
+- [Shopify Inbox](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/195a1278551ccfe6.md) — 6
+- [Shopify Inbox AI agent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c7033db538fa0823.md) — 3
+- [Shopify Marketplace Connect](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/efaf8111bacefe7a.md) — 1
+- [Shopify Messaging](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/488c977358f0efd5.md) — 2
+- [Shopify partner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/19674547534a2cb6.md) — 1
+- [Shopify Payments](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/415fab80e52c653c.md) — 7
+- [Shopify POS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9d8cc8304a500e02.md) — 4
+- [Shopify POS Lite](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/441ec0264753cc03.md) — 1
+- [Shopify POS Pro](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7d1a17ef29f56fb5.md) — 1
+- [Shopify Search & Discovery](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3527733ad256ee11.md) — 1
+- [Shopify Shipping](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/334ef1c429592573.md) — 1
+- [Shopify Sidekick](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4816deccae2f40de.md) — 3
+- [ShopMy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e4abd6a750f717b4.md) — 2
+- [shopneurodot.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9ba54b9ea47997bd.md) — 1
+- [Shopping ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4304a2e626315e71.md) — 1
+- [Shorz AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ed5559e672a0b5d.md) — 1
+- [shotgun-app.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8d739d93af0461ea.md) — 1
+- [Showcasehq](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d5013c6b2a3461a9.md) — 1
+- [showcasehq.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d74f7cdf34a309cf.md) — 1
+- [ShowIt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2f55036b1a82d479.md) — 1
+- [Shreyas Doshi's frameworks](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5102a6a52f8f0c52.md) — 1
+- [Side shift](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4a77b8b1b8375685.md) — 3
+- [Sidekick](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ed19097781f5578c.md) — 6
+- [Sideshift](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e0cdb825437213f3.md) — 85
+- [SideShift Circle Weekly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/13385f854ed900f9.md) — 1
+- [Signal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d041924c15885af6.md) — 1
+- [Signal1st](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f1220ce398c0b107.md) — 2
+- [Signature Back Office Solutions](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d79e3e103289161d.md) — 1
+- [SignGuard](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/018f6a4ebc9511cb.md) — 1
+- [SIGNLD](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2557f53f07f73d6c.md) — 3
+- [signld.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0fd302204eb13f77.md) — 6
+- [Signoz](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2363a050d8baa4c7.md) — 1
+- [Silicon Prairie portal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4332c900e4f4cf02.md) — 1
+- [Similarweb](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/242e9ecf321408d9.md) — 4
+- [Simile](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bd61a640dbf4836d.md) — 1
+- [Similie](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0c45038649973d64.md) — 1
+- [Simple Feature Board](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/28123a05f7611649.md) — 1
+- [SimplyCouples](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8ae8603cd360fa8c.md) — 1
+- [Simprosys](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/62445305728e5f51.md) — 5
+- [single experienced operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5a75b93755ccfd7e.md) — 1
+- [Sinorbis](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/732671f5bf14cfb3.md) — 1
+- [Siri](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/81ed341348bed14c.md) — 1
+- [Sitelist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/40f1ce0907d2ed1d.md) — 4
+- [sitelist.co](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f6147d0d15e8fd05.md) — 4
+- [SiteTell](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d0af0610ff91a810.md) — 2
+- [SK-II](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/27a32959656a7bd9.md) — 1
+- [Skatepark](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/71360a9ccb2a0871.md) — 1
+- [Skechers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5a4678b1389b99a2.md) — 1
+- [Sketch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f416b363c6c5f070.md) — 1
+- [skill up](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/12c488ec16221a60.md) — 1
+- [Skims](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a890c608b7aec0cc.md) — 1
+- [Skool](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ccedd614a7f6bd1d.md) — 9
+- [Skroutz](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/817a5d6809291df2.md) — 1
+- [Skymetrics](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a5bc6a13726cc2fd.md) — 1
+- [Skyplanr](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/04edcebf31d5e9f6.md) — 1
+- [Slack](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/877c3aec832cd410.md) — 36
+- [Slack communities](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1a0ca95c36d5fb08.md) — 1
+- [Slack groups](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6e5108e8aa57938c.md) — 1
+- [Slack/Discord](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9779fd1d87442d42.md) — 1
+- [Slack群组](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fb5e792b03999967.md) — 1
+- [Sleep strip](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/76d40e8ff0b40e67.md) — 1
+- [Slicing Pie](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e4cbef570fdb8de4.md) — 1
+- [slopcheck.co](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e0bc890087ed1da5.md) — 1
+- [Slovenian FB developer group](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8f9b8dcd0c330611.md) — 1
+- [SLURM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/57a4674dc1e77229.md) — 1
+- [Slydr](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1e0171d156ba4c9d.md) — 1
+- [Small Business Development Centers](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ea4f148e1cb2f406.md) — 1
+- [small pharmacies consignment](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/15bc2805ffb555ca.md) — 1

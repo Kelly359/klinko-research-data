@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 20
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Grow Commercial](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/888914f15909a005.md) — 1
+- [Growave](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3c6d505e0863f945.md) — 1
+- [Growi](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77b55d47408c7d8c.md) — 1
+- [Growsembly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/eb5c48b28f0f3343.md) — 1
+- [Growth Engine Hub](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/85a7ec8a7d07a1b1.md) — 1
+- [GrowthPilot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ba2d35e85b4fc647.md) — 1
+- [GrowthSpree](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2ac7a5eaafb55da4.md) — 7
+- [Growvana](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/af7c8f105aec02c2.md) — 3
+- [Grubhub](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/38e0c90a73bd8348.md) — 1
+- [GSC Countdown](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/145bb0e64df2a786.md) — 2
+- [GSC Wizard](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/169f891286973538.md) — 1
+- [gtlearn](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fddfeab819066c17.md) — 1
+- [gtm.help](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9237e3c29549c99b.md) — 2
+- [GTM/规模化咨询服务](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7eeb7140b55a8045.md) — 1
+- [Guess the Note](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f5e7a1c889efc867.md) — 1
+- [Guest Posting & Guest Blogging](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2152015c2aab3dd7.md) — 1
+- [guidedog](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ca5a503201b01825.md) — 1
+- [Guidepoint](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/456483cd817b28f0.md) — 1
+- [GummySearch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2904b0d7faf68b7d.md) — 3
+- [Gumroad](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7a94b114da6dd61e.md) — 7
+- [Gumshoe](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/902693d107f717d3.md) — 1
+- [Gusto](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/95f3aff4188f8ccf.md) — 1
+- [Guy Kawasaki pitch deck](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/588df025ed6f6fe9.md) — 1
+- [GWI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/525fe88f66d7d5d5.md) — 30
+- [Gymlab](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/93283dc0e2e43cf1.md) — 1
+- [HabiProof](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c69d35de12453a29.md) — 1
+- [Hacker News](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dbab8d00cf0f2272.md) — 8
+- [Hacker News 'Show HN'](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0466d2ee30aa2ddd.md) — 1
+- [HackerNews](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2541e14603ec420d.md) — 1
+- [Hakuhodo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9538da2d41e96231.md) — 1
+- [Halal Mode](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cda6efdb8e76d694.md) — 1
+- [HallPass](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c296df5ee4e5b589.md) — 1
+- [Happenstance](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4f9c2d632136e270.md) — 1
+- [happyhopper](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ce1f697d54df2976.md) — 1
+- [Harbor AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/665efd547d660834.md) — 1
+- [Hartford](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f6eafacb6bcd76ff.md) — 3
+- [Hasanaa](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e2f8d2ad2d67356f.md) — 1
+- [Hashnode](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dda22e18da54c149.md) — 1
+- [Hatch](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/eea8ec0d45087305.md) — 1
+- [Havaianas](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e4cda5560f2f5d5f.md) — 1
+- [Hector MCP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f238e7e0e85baab8.md) — 1
+- [Helcim](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f5ce8f53fc8d01db.md) — 2
+- [Helium 10](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/677aa86e7068c6e6.md) — 3
+- [Helium10](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0d803c0b6ab047e1.md) — 1
+- [Helix Sleep](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c3d96834266d25d7.md) — 1
+- [HelloBot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/65a0849327cd9074.md) — 1
+- [hellosetter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5ce4999634d34725.md) — 5
+- [Help me choose quiz](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aac31c5743fdfbbd.md) — 1
+- [HelpCCMS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db3828d977cd91ae.md) — 1
+- [Hemingway Editor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/304f376d16b0b0e0.md) — 1
+- [Herdr](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/78193ef266c1e3c2.md) — 1
+- [Hermes](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8cfde6efdfc4ed5a.md) — 5
+- [Hermes Agent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2d87f3d38782aa14.md) — 1
+- [Hermoso](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0de2516452e38976.md) — 1
+- [hermoso.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a7ed023ece19c7a0.md) — 1
+- [Hetzner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/294aa8d75483b833.md) — 3
+- [Heura](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4ac9a87d9337c51a.md) — 1
+- [Heuritech](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8a11ac9c0dc5ff21.md) — 1
+- [Hevy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/12db100507a996c3.md) — 1
+- [Hexbrief](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/845255808e203b9a.md) — 5
+- [hey-api](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3cb632e0ef11f01e.md) — 1
+- [HeyGen](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5ffdc8c7e252fc28.md) — 18
+- [HeyMilo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bbed63c323e92ac7.md) — 1
+- [HeyReach](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a214b451b46d0378.md) — 1
+- [HFES](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a862619a37b0e8f8.md) — 1
+- [HGR](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6d4340e3a4309c9a.md) — 1
+- [HideShip](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6da9aeb2914f4004.md) — 1
+- [Higgsfield](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/50b2676afbe30c83.md) — 21
+- [Higgsfield AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/be96b3ba3636f505.md) — 1
+- [Higgsfield Marketing Studio](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fca8d8ad17a2a8e2.md) — 1
+- [High Level](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/15ecadd4df25f9d4.md) — 1
+- [HighRise Wholesale](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/987f33fdc4cbfb8e.md) — 2
+- [hindsight](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/aa475625981493dc.md) — 1
+- [Hinge](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7706c3c94d5f9b59.md) — 1
+- [hiring a freelancer in Mumbai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c26c50ff94c92a53.md) — 1
+- [Hiscox](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3e78af35ee063523.md) — 1
+- [Hive Haus](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3dc7c51c63da44ac.md) — 1
+- [Hivemind](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2b726fe07b4c50ba.md) — 1
+- [Hogly](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/96b2f7d0533b0606.md) — 2
+- [hold that](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/637109e3b85451bb.md) — 1

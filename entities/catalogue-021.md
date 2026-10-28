@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 21
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [Home Assistant](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a955b9f5c16091f2.md) — 1
+- [Home Depot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ce409c401c60f34c.md) — 2
+- [HomeGoods](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e634e54c1527ab1a.md) — 1
+- [Honest Brands](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fda489cfd0446f24.md) — 1
+- [Hookpost](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4e34746a761029b2.md) — 1
+- [Hooksage](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7254e2fbd1a4eb71.md) — 2
+- [hoops-gm.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/177af11df07640d1.md) — 1
+- [Hootsuite](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bb56ce64d6ccc4a6.md) — 12
+- [Hoox](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8c6db06a2ac7a78f.md) — 1
+- [Hopr](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dc2c21c4357f760e.md) — 1
+- [Horizon](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4726a1bce9706083.md) — 1
+- [Hosteria](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2a85d86ba06245ce.md) — 1
+- [Hostinger](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fefaa42da40ecf93.md) — 6
+- [Hostinger Reach](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/06fc467ac6aa0d9d.md) — 1
+- [hot sauce](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/905f6a6c4f7c7c8f.md) — 1
+- [hotels.com](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8bd52b3b6b913d8f.md) — 1
+- [Hotjar](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b8636af4459a4047.md) — 2
+- [HourlyUGC](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/eda5440eb6854db6.md) — 1
+- [How To Beat](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/96acd434c67e781b.md) — 2
+- [HTVRONT](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/42328a4f049d6dc9.md) — 1
+- [Huawei](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b81c8201acfc7639.md) — 1
+- [HubSpot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/91b6da07adf530f8.md) — 37
+- [HubSpot Breeze](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4458f3363591fd78.md) — 1
+- [HubSpot Marketing Hub](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b40a304f22cca745.md) — 11
+- [Huckleberry](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f0b4367b4f476273.md) — 1
+- [Huda Beauty](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5df53d43923ccc87.md) — 1
+- [Huddlist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/05ebd9c2e0113ed8.md) — 1
+- [Hugging Face](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e3ce9cc5efa9354c.md) — 4
+- [Hulk Apps](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/32394742ff73d2a4.md) — 1
+- [Hulk Product Options](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c89596ca4ca645e6.md) — 3
+- [Hulu](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e48984d9d23c7905.md) — 2
+- [human social media coach](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3f589c318d7ea30f.md) — 1
+- [Humane Society](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/de4a5a79633e8499.md) — 1
+- [HumifyGPT](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f95a58c0bf6d90cb.md) — 1
+- [HustleMint.org](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6eff4730dbaa7ea1.md) — 1
+- [hustlewallet.dev](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2505f0cee28ae893.md) — 2
+- [Hydrinity Skin Science](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e9755e71c7e03484.md) — 1
+- [Hydrogen](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e7f90b0310363d69.md) — 2
+- [hypd.ai](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a87ad21473987471.md) — 1
+- [HypeAuditor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ebd102efa31eddaf.md) — 1
+- [HypeDesk.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4a36837f719f4192.md) — 1
+- [Hypefury](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d8b396c9cc79cbe4.md) — 2
+- [Hyper](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/91e235e3f8168853.md) — 3
+- [HyperVoice](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/11566767ff0ca1e4.md) — 1
+- [Hypotenuse AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/52530c95557531d0.md) — 1
+- [Hyros](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d5c196115b189bc8.md) — 1
+- [Iacocca](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/37c25da4c9494c62.md) — 1
+- [IBKR](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8368e1ace1f25a6c.md) — 1
+- [IBM](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/916a98f0fa2a39af.md) — 4
+- [IBM Bob](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0824702b1d884a09.md) — 1
+- [icanpreneur](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/06c889ac8983f28e.md) — 1
+- [ICARO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8ed5a4374fd77ba6.md) — 1
+- [ICI PARIS XL](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d1e0b9779fc4dd10.md) — 1
+- [Iconosquare](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ed6f09e11e9cf73.md) — 1
+- [ICQ](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ec6b1a9a8ba16a6f.md) — 1
+- [Idea Lab](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fba297e07dc2266f.md) — 1
+- [Idea Lab App](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ac1fd81d97e2e0cc.md) — 1
+- [idea validators（泛指同类应用）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/520ce1ed36802a57.md) — 1
+- [idea-launch.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f46c286994800957.md) — 1
+- [IdeaProof](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9bbf2fc295f85374.md) — 1
+- [Ideogram](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/66dc8bf3821c48bc.md) — 1
+- [idr-tools](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cb210fee81e51b46.md) — 1
+- [IGDA GRUX](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/72132934c854a9db.md) — 1
+- [IHG](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9497b64e66b77cfe.md) — 1
+- [IKEA](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0e79172671f59f0f.md) — 1
+- [Illustrator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/65db8c764322e4f5.md) — 2
+- [iMac](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a87b769cb74b422d.md) — 1
+- [Imgur](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b37a1ca1644fd27b.md) — 1
+- [Impact](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6f61f46c23a66607.md) — 2
+- [imperial Blue](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cc86d043221d9e07.md) — 1
+- [in home laundry service](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e9bc8cdbb5f9a248.md) — 1
+- [in-app feedback system with LLM analysis](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3bb00909c0765872.md) — 1
+- [InboxEagle](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/34aa85a294363c8c.md) — 1
+- [Incense](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/656522a03a86744d.md) — 1
+- [Incogni](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5dec7e674dc31f1d.md) — 1
+- [Incogniton](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/02ac940ea18e0af2.md) — 1
+- [Indeed](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d888a3e4ea95d404.md) — 4
+- [indeed.best](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f8eb1ea8690d328d.md) — 2
+- [IndexNow](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/51b5e8deff62a231.md) — 1
+- [IndexYour.Link](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5408b3ef402d5223.md) — 1

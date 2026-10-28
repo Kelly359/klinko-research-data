@@ -1,0 +1,78 @@
+# Mentioned tools, brands and platforms — catalogue 54
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [自动寻找相关讨论和潜在用户的工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ba0f200a6a98cdc5.md) — 1
+- [自动查找目标用户讨论帖的工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/55648299fad80799.md) — 1
+- [自动转化证言的AI工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bef8bf9e129c614a.md) — 1
+- [自助目录提交表单](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2cc7dd93e0d34efe.md) — 1
+- [自定义自建方案](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c5d73ac21d7dffe0.md) — 1
+- [自建 AI 客服机器人](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4d657cf8b56b1aa8.md) — 1
+- [自建 makeshift 系统](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3c919aba9e91ef46.md) — 1
+- [自建CRM工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cf27cd087386b03d.md) — 1
+- [自建discovery工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fc267be1fc74bd0b.md) — 1
+- [自建LinkedIn拓客AI agent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/18700de7b9f9e1f4.md) — 1
+- [自建SMTP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/168ebb27e000870d.md) — 1
+- [自建分发工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d1d81e5ae9d7c211.md) — 1
+- [自建博客](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/85354f57ed2dc6ac.md) — 1
+- [自建工具替代外购](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b958a1a125bb0359.md) — 1
+- [自建平台或白标方案](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d80786de10ef76cd.md) — 1
+- [自建抱怨帖挖掘工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/127b6933c3522b09.md) — 1
+- [自建搜索发现agent](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4365301f580693d9.md) — 1
+- [自建的创业验证技术栈](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d17a195a6dbb0d50.md) — 1
+- [自建的同类AI创业项目（无名称）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c953b5cbad7061e7.md) — 1
+- [自建的触发信号监控软件](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/30dff521d7d8d074.md) — 1
+- [自建联盟跟踪（替代第三方平台）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/92bd5d07e3bfb322.md) — 1
+- [自建脚本与Notion拼凑的临时方案](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/77cfd51923c880fb.md) — 1
+- [自建邮件服务器与ESP](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dc44319c046294ea.md) — 1
+- [自然搜索](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c35e3b79c9bf984b.md) — 1
+- [自然流量渠道](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7627f7dfbd4ab9ee.md) — 1
+- [自由职业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1c1711c05b8cf1c7.md) — 2
+- [自由职业者/独立创业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/52c586c1dd534295.md) — 1
+- [自由职业者一体化工具市场](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/53f0e486d1c49da4.md) — 1
+- [自由职业设计师](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/254b786792089c1d.md) — 1
+- [自行搭建的类似工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2749cc9479107aa1.md) — 1
+- [花小钱雇孩子做传单](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/38d3cf4e53d1341d.md) — 1
+- [营销agency（无名称）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4becaae5ab33bfbe.md) — 1
+- [落地页](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6a654dc0b0c0a921.md) — 1
+- [虚拟助理（VA）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/df88ba4cf4b06680.md) — 2
+- [行业会议](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ca85acea3e9a03b6.md) — 1
+- [行业展会活动](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5328a376d09edcc8.md) — 1
+- [行业既有计费工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1c3e3b6c25444ce4.md) — 1
+- [行业现有大平台](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/54e4ee10c1d25318.md) — 1
+- [解决目录发布痛点的工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3f38215a27a5f369.md) — 1
+- [订阅制AI工具栈](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6d5d85d858f1ea1c.md) — 1
+- [订阅盒与样品盒公司](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dacea0ae6285ac1e.md) — 1
+- [认证](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d2d648bd1c94b7f9.md) — 1
+- [访谈系列（interview series）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4b7fa7609860934b.md) — 1
+- [评论+私信组合触达](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3cb504dcf3d985ab.md) — 1
+- [评论者所在营销机构](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d55a40329638d3e7.md) — 1
+- [请律师起草合同](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/322035e7c69aa8c3.md) — 1
+- [读书自学](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/628ca29a5b53a247.md) — 1
+- [财富管理类工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f6951e44f0da3949.md) — 1
+- [贷款融资](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4528a743607959ee.md) — 1
+- [贸易展会](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/360d5e38bb4953e2.md) — 1
+- [跨平台发帖工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5d6dd7c52ea3465a.md) — 1
+- [跨平台同步发布工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/897780289d02b250.md) — 1
+- [转介绍和口碑获客](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/60083fd254865f0a.md) — 1
+- [转化类应用（倒计时、追加销售弹窗等）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f856c8d722a4b9a9.md) — 1
+- [软件服务包](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/fd95e40aa4f81565.md) — 1
+- [迷你开发agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4450cd68ac08d4ee.md) — 1
+- [逐个打开PDF人工核对](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/af250df8b3299d03.md) — 1
+- [逐户拜访小企业主做客户调研](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/e380b548fc5ffdd3.md) — 1
+- [通用聊天机器人](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/72c8ad1cf4bca537.md) — 1
+- [通用认可工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5821ce5b5939c654.md) — 1
+- [通过人脉网络逐一排查潜在客户](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9398af1d70211f62.md) — 1
+- [通过邮件/AirDrop/Slack给自己传文件](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0fd15b3d60a26d69.md) — 1
+- [邮件](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3d708e8e8b1f9247.md) — 2
+- [邮件代理](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/41b77d254afc3caa.md) — 1
+- [针对竞品用户的定向广告](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bc11c8310563c306.md) — 1
+- [销售代理机构](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/09cbfb1f01a38275.md) — 1
+- [陌生电话](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/df1f7f59594abb54.md) — 1
+- [雇佣创作者代运营账号](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/00f93bf7e4a28c77.md) — 1
+- [雇佣受过训练的人类设计师（通用方案）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b411c01aa736471b.md) — 1
+- [非官方Chrome扩展方案](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/f8232c4e9e13f66b.md) — 1
+- [非官方WhatsApp Chrome扩展](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/35a98d88f156022d.md) — 1
+- [面向清洁公司的定价与账户分析工具（构想中）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c30d4091749ac790.md) — 1
+- [项目管理工具](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c8b1c1711d22597b.md) — 1
+- [高压清洗](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cd007d17e19878f5.md) — 1

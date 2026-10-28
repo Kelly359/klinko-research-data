@@ -1,0 +1,5 @@
+# 小型代理商（<5人、老板亲自把控质量）
+
+1 evidence-linked mentions, not unique users.
+
+- [entities/ea72f4ab8cfbc770-001.md](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ea72f4ab8cfbc770-001.md)

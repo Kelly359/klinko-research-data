@@ -1,0 +1,84 @@
+# AI-inferred roles — catalogue 5
+
+Raw AI-inferred role labels, including open-ended labels and synonyms. These are not verified identities, unique personas or paid-customer status.
+
+- [customer data architect / consultancy owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2fde8b9b91e2cedb.md) — 1
+- [CX practitioner/founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/b4d8e3369b954a91.md) — 1
+- [D2C投放从业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/474e979de2924389.md) — 1
+- [data analyst](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/22c009485a6d8f13.md) — 1
+- [data scientist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/33cf9b9f9b3d18e1.md) — 1
+- [data_engineer_or_mapper](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f4b7c1098d55d938.md) — 1
+- [data_scientist_ai_engineer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/0f56db1241c45917.md) — 1
+- [data_team](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d0935adc417ce2b9.md) — 1
+- [dental clinic operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e91b72cd4ebf30cc.md) — 1
+- [dentist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f62e610834f27439.md) — 1
+- [design_agency_founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/dd03a6f5d4568dfd.md) — 1
+- [designer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/1e4f52a959f00546.md) — 18
+- [dev_agency_owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/0ebdcdbfd98e2474.md) — 1
+- [developer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/88fa0d759f845b47.md) — 54
+- [developer building stores for clients](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/9cb230d2bc0eeda3.md) — 2
+- [developer/builder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2a1b2d83006d76c7.md) — 1
+- [developer/merchant](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/51d2995845ff5daf.md) — 1
+- [developer/product](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d4e0f9e4ffd85144.md) — 1
+- [devtool founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2040f64d24991f0a.md) — 1
+- [digital product creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/9df1ed83651fcdcf.md) — 1
+- [digital_marketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ba0107d351423d93.md) — 1
+- [digital_marketing_strategist](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a07ed64070d103ed.md) — 1
+- [director of operations](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/59f375b11e175026.md) — 1
+- [directory_builder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/bf417aeedcf3716d.md) — 1
+- [directory_operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f8870689a3ca5f46.md) — 3
+- [dropshipper or dropshipping tool builder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e94814eb8ed6520a.md) — 1
+- [dry-cleaning business owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/75edc86c70a01813.md) — 1
+- [drywall/painting company owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d546e13b93bac2da.md) — 3
+- [DTC marketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/6ed7662c07052724.md) — 1
+- [DTC品牌增长/营销负责人（自述视角）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/9b82672d1e045609.md) — 1
+- [DTC品牌营销人员](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/fb8a2ea0a2bb1191.md) — 1
+- [DTC品牌运营者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/7231931a9e27bb1d.md) — 1
+- [DTC增长内容创作者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/8f09cfec38e1f4ca.md) — 1
+- [e-commerce brand owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/b50383d94970b751.md) — 1
+- [e-commerce operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/4697d4035a87fa16.md) — 2
+- [e-commerce practitioner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/667348f41623a1db.md) — 1
+- [e-commerce seller](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/7948ddbbd77697fd.md) — 3
+- [e-commerce seller shipping to EU](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f165352a34747d53.md) — 1
+- [e-commerce store owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/bc767106126c33ef.md) — 1
+- [early_career_uxr](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/cd6448951bfd277c.md) — 2
+- [ecom founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ce6b0a9f1e862963.md) — 1
+- [ecommerce advertiser](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/072bc5bf807d68e1.md) — 9
+- [ecommerce advisor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c3c45f8e087685d7.md) — 2
+- [ecommerce automation vendor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/98cd31d5d7c9e09f.md) — 1
+- [ecommerce channel lead](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/de1602dc31b28eb9.md) — 1
+- [ecommerce conversion consultant](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/52f07a10c2e2d81a.md) — 1
+- [ecommerce founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/1334b4079cc14b75.md) — 4
+- [ecommerce growth advisor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/8419a25d0c0a1a4e.md) — 1
+- [ecommerce marketer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/572152818fc29efb.md) — 4
+- [ecommerce operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/33910349d2e3a4b2.md) — 30
+- [ecommerce operator/advisor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/0126ad7ce853499b.md) — 1
+- [ecommerce seller](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/cbf4e53432997d7f.md) — 8
+- [ecommerce shop owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c7064e426c5bbc86.md) — 1
+- [ecommerce social team](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/eb32f577414ee9d1.md) — 1
+- [ecommerce store builder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/5cd72ffb4497fde4.md) — 1
+- [ecommerce store owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d8e88b9f9ee22f7e.md) — 2
+- [ecommerce/ads advisor](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/17629b7d35eeb702.md) — 2
+- [ecommerce/marketing decision-maker (email recipient)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/1085c52cd060dd2c.md) — 1
+- [ecommerce_advertiser](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/970bbb15182bd85a.md) — 3
+- [ecommerce_beginner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/04c5ce8a1ff7be3c.md) — 1
+- [ecommerce_business_owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2e5f5f37ab76d353.md) — 1
+- [ecommerce_content_creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/17e0b625eab4d062.md) — 1
+- [ecommerce_creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/ee57bf47b7ba2ea7.md) — 1
+- [ecommerce_founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e5fb25ec46f3d217.md) — 1
+- [ecommerce_operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/4f0dc929f9e730b4.md) — 174
+- [ecommerce_owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/cd41e688fd4544c5.md) — 3
+- [ecommerce_seller](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/666fe3f69b6738d6.md) — 15
+- [ecommerce经营者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/538e793cad236c9f.md) — 1
+- [ecosystem_operator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/7960e2104b466929.md) — 1
+- [edtech founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e22e8aa2f0beff4c.md) — 1
+- [edtech/learning product founder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/5f3e20cb27832db5.md) — 1
+- [email agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/b5d92d24d390ce49.md) — 1
+- [email marketing agency](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/0058cd72d0d2995b.md) — 1
+- [email marketing agency owner](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/6500309f4b54f47f.md) — 1
+- [employee](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2fdc0177057d3a5c.md) — 5
+- [employee with L&D budget](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d16a4e069c0a6a41.md) — 1
+- [employer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/8efdf55724c97710.md) — 1
+- [employer_or_recruiter](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/9c59c1d0597a6f3b.md) — 2
+- [engineer](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/7826b958b79c7062.md) — 6
+- [engineer_user](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/0d673a87766e3f21.md) — 1

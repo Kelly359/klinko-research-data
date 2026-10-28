@@ -1,0 +1,84 @@
+# Mentioned tools, brands and platforms — catalogue 30
+
+AI-detected entity labels; not all are Klinko competitors. Label variants are preserved rather than silently merged.
+
+- [notes app](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/338b5b40b7b1fdce.md) — 1
+- [Noticky](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d447bea7cd211b21.md) — 2
+- [Noticky Wall](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9a614e4f709eb6d9.md) — 1
+- [Notion](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/31f61ed3e6e210c5.md) — 74
+- [NourishNot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/df94fcb4aab2e539.md) — 1
+- [novamira](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8e49285de34ec22a.md) — 1
+- [NovelCanon](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/63dd25e9ad072f3e.md) — 1
+- [Now Hiring Sign Maker](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/99c745aeb2fa5ff9.md) — 1
+- [nowa.dev](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ecec3c34111709bf.md) — 1
+- [npm](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d79677188687e7b3.md) — 1
+- [NPS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/279e3bdae05dd476.md) — 2
+- [npx fetchsandbox-mcp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b69acd8bfcce38ef.md) — 1
+- [NTT](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d4cc2e3bab6ba157.md) — 1
+- [Nuelink](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b18317a46cb36484.md) — 2
+- [NumPy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/73dd0baf8e5438da.md) — 1
+- [NuOpp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1bfd4000786a81e1.md) — 1
+- [Nurse Jett's Your Second Shift course](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/5cd65453ff4ef25f.md) — 1
+- [NVBDC](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ca7cc98fc44f02eb.md) — 1
+- [NVIDIA](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8d4321d936320802.md) — 1
+- [NVivo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6772da6b8a4800cf.md) — 1
+- [Nürburgring](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/43f7c28216f3ad7c.md) — 1
+- [OBS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d39ed8b3cea68e3f.md) — 4
+- [OBSCURA OS](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/24e1544cff509727.md) — 1
+- [Obsidian](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4e2295dd929e424a.md) — 16
+- [Octane AI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/404b7dda14bc2e59.md) — 1
+- [Octavebytes](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/268ee46093647888.md) — 1
+- [Octolens](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9df73f1dc195c032.md) — 41
+- [Octoloops](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7c480d632753d17e.md) — 5
+- [OdoReach](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/2f233ed364d81f12.md) — 2
+- [offerre](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b8959d7ebef29ec2.md) — 1
+- [OfferUp](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6c78119c555dfe01.md) — 1
+- [Offload](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d2433416cb63663d.md) — 1
+- [Offscript](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c12b310eda334bcb.md) — 1
+- [OffTilt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/78e52ee421ffc3b1.md) — 1
+- [Ofri](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0e667efb9676969d.md) — 1
+- [OHANA Invest](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6e2f484998eac719.md) — 1
+- [OIO](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d98efea3cfab4001.md) — 1
+- [OKCupid](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/34d69c289f52ff85.md) — 1
+- [Okendo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/6110f7c5e92246d4.md) — 1
+- [OkGhumo](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1e4d7202e95bb5d8.md) — 1
+- [Old Navy](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4a08b91e747626fe.md) — 1
+- [Olive Young](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ab8d9083f60662b9.md) — 1
+- [Ollama](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/76e3c7bfe641ea12.md) — 1
+- [OMC](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/30ea747a84ae1109.md) — 1
+- [Omega ChatGPT OpenAI Ads Pixel](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/ea3ffe4b9e418ddb.md) — 1
+- [Omg23](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7143ae02b176c125.md) — 1
+- [Omni](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/cfb12585da56e4c0.md) — 1
+- [OmniAI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db1ee96a724e29cd.md) — 3
+- [Omnicom](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d6d679422d6a9759.md) — 4
+- [Omnihuman](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/69b5383238e06c6d.md) — 1
+- [Omnisend](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/668b559cb5d5baca.md) — 6
+- [omoro.io](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/3df26f8dc878c8cb.md) — 1
+- [Onbento](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/0baea76cc7beb04a.md) — 4
+- [OneDrive](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/567781541aa1d043.md) — 1
+- [OneMetrik](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/16b7f8eb5f0a21ea.md) — 1
+- [OneNote](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1875762df9aa7737.md) — 1
+- [online course builder](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8f86b9b334033a2e.md) — 1
+- [online forums](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/db55abe86548d8f1.md) — 1
+- [onlinejobs.ph](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1579e025748863d1.md) — 1
+- [OnTrac](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4d465487e750d0b8.md) — 1
+- [Onward](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/8d1177a85f8326ce.md) — 2
+- [Opal](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bd3de56071621915.md) — 2
+- [OPC](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a986af8620bd7012.md) — 1
+- [Open Banking](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d596dbe99da7e50b.md) — 1
+- [Open Research Collaboratory](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/dd55245a92d3c1a4.md) — 1
+- [open source model](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/b6bcd19ecd4f2925.md) — 1
+- [Open User Research Collaboratory](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/9118822e2a028804.md) — 1
+- [Open ZDR models](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/1ec8112fa90e875c.md) — 1
+- [OpenAI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/7d3194f79e645c42.md) — 27
+- [OpenAI Ads](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/a05a745226e0b53d.md) — 5
+- [OpenAI API](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/70cfd43d0fca06bd.md) — 2
+- [OpenAI API (gpt-4o-mini)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/c690093d5aaa8dfb.md) — 1
+- [OpenAI Dots](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/bf54f92ef15082f1.md) — 1
+- [OpenAI GPT-3](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/4f4bde0138a68807.md) — 1
+- [OpenAI search bot](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/d0897c160287cb83.md) — 1
+- [openapi-generator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/11fa238f273b93c7.md) — 2
+- [OpenArt](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/38813dd929956f51.md) — 1
+- [OpenBCI](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/028a0070f4c0fd99.md) — 1
+- [OpenClaw](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/96a4bc2602655473.md) — 4
+- [OpenCode](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/entities/62f8e1ec095e1857.md) — 3

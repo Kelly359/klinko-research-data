@@ -1,0 +1,84 @@
+# AI-inferred roles — catalogue 17
+
+Raw AI-inferred role labels, including open-ended labels and synonyms. These are not verified identities, unique personas or paid-customer status.
+
+- [youtube creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/7a11393ee65572de.md) — 8
+- [YouTube creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d1ccaeb74b68ef94.md) — 7
+- [YouTube Shorts creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/bbd4f1f0a8988d62.md) — 1
+- [YouTube shorts creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a8b7117cb8cf830c.md) — 1
+- [youtube_creator](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d1038d50b7769116.md) — 5
+- [YouTube创作者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d0a5c494c24d236f.md) — 12
+- [YouTube策略顾问](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/bfbf8408d8d89c3f.md) — 1
+- [YouTube脚本写手](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/27a1f7306da621d4.md) — 1
+- [YouTube频道运营者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/b0b2216ec56a8d3b.md) — 2
+- [上门IT服务经营者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/281a70475de4d5bd.md) — 3
+- [上门服务经营者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a0847d9ac04202ef.md) — 1
+- [个人品牌策略师/内容创作者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/474fc78ffa9ce0e9.md) — 1
+- [个人高级用户](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e7374bb783602b78.md) — 1
+- [个体手艺人](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/3d2d04325d74bdce.md) — 1
+- [个体运输服务经营者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a1d4d57ece1ed68c.md) — 1
+- [为客户做受众研究的顾问](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/75626b62bb3963db.md) — 1
+- [为客户制作表单的服务方](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/68a17157b6a17dae.md) — 1
+- [产品/增长团队](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/12a3b963cabd28e1.md) — 1
+- [产品/增长实践者（自述运行过设计伙伴项目）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/7401019f760dd6f6.md) — 1
+- [产品/研发团队](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/61dca709c3fae962.md) — 1
+- [产品/研究者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/b2b5363aa4d6e650.md) — 1
+- [产品从业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/bcacb13076f1b491.md) — 4
+- [产品作者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/965799c9fab1d3cd.md) — 3
+- [产品作者(楼主)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/555606ebe6244e43.md) — 1
+- [产品创业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/450290ae60946d1a.md) — 1
+- [产品创始人](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/88383e0b7ebc4ddb.md) — 11
+- [产品创始人(回应)](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/0d9c32889968269d.md) — 3
+- [产品发起人](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/82e04e5664e1215d.md) — 2
+- [产品团队负责人](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/52a4301caec999cb.md) — 1
+- [产品开发者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/339214f54d56d96c.md) — 4
+- [产品摄影工作室经营者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/b527701efc0a5986.md) — 1
+- [产品方](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/541b8516976beda5.md) — 1
+- [产品构建者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/63fd957585b2e7b8.md) — 1
+- [产品研究者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/fe29e71b89f69b2d.md) — 1
+- [产品经理](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/0dba913873a02fb3.md) — 37
+- [产品经理/前软件工程师](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/a65f1fbe893d03b8.md) — 1
+- [产品经理/工具作者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c00642eb1b78b3e0.md) — 1
+- [产品经理（自述做过端到端战略到执行）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/4c458181b6fb6dbc.md) — 1
+- [产品营销经理](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/207e4f42e4ac97da.md) — 1
+- [产品设计/研究从业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/5c9d0006a21c0634.md) — 1
+- [产品设计师](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2ed1056a31b43630.md) — 1
+- [产品负责人](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/4b10d0afed8103ae.md) — 3
+- [产品负责人（自述承担PM/PO职责）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2e95d71f74e81983.md) — 1
+- [产品负责人（自述有下属产品负责人）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/40120697ec65c937.md) — 1
+- [人身伤害律所广告投放者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/0c9c265749211164.md) — 3
+- [从业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/c3d1db87530e88aa.md) — 7
+- [代理/客户账户管理者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e4aaaeed80444fe7.md) — 1
+- [代理商](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/17995bdcd1251089.md) — 1
+- [代理商/客户报告提供方](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/884935eb62355d54.md) — 1
+- [代理商/营销执行者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/929242d5331d09b7.md) — 1
+- [代理机构从业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/6b77aa0fefe99945.md) — 2
+- [代理机构经营者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/f81a3b63e074aab7.md) — 1
+- [企业SEO策略人员](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/7176cece4054a794.md) — 1
+- [企业主](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/095e0c89e32e5f64.md) — 3
+- [企业主/创业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/7a3e64ce89b2ca77.md) — 1
+- [企业主/营销从业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/1dd9b0c6c0823ab6.md) — 1
+- [企业内部IT/采购相关人员](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/70b5628ad9958563.md) — 1
+- [企业内部工具使用者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/39613007d943c706.md) — 1
+- [企业内部运营/管理者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/3b152baa6b11ef46.md) — 1
+- [企业经营者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/cb7ea78d6ea68b89.md) — 1
+- [企业软件高管](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2805883d856d68fb.md) — 1
+- [佛州小企业主](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/64471e61d6f25b0b.md) — 1
+- [信息服务业公司内分析师（无专职工具管理员）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/5f545fe6e79496b7.md) — 1
+- [公关/媒体活动组织者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/88c8b762e245c3d1.md) — 1
+- [其他创业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/80ff9b0d17aef064.md) — 4
+- [其他创业者/评论者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/51ddcdc35b5405f0.md) — 5
+- [兼职手工艺创业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/3411af56db19c7be.md) — 1
+- [内容/传播从业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/20dfcc6a20e4dd18.md) — 1
+- [内容创作者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/44c7c40c060477a6.md) — 227
+- [内容创作者/UX研究者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/28fe8747b3bff050.md) — 1
+- [内容创作者/产品方](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/b305ed8b74f81e4f.md) — 1
+- [内容创作者/全职妈妈](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/cae0bd7375b21813.md) — 1
+- [内容创作者/创业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d7ae0f61e4acba8f.md) — 1
+- [内容创作者/工具开发者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/d06de49644e1799f.md) — 1
+- [内容创作者/广告制作者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/2a4a847ccfe9f01a.md) — 1
+- [内容创作者/影响者（自述）](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/33cee50f427745bc.md) — 1
+- [内容创作者/招聘方](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/762bdccd144f887a.md) — 1
+- [内容创作者/数字产品卖家](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/1dd32fc9f72129cb.md) — 1
+- [内容创作者/文案与品牌策略从业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/725ef0b9c623a932.md) — 1
+- [内容创作者/服务创业者](https://raw.githubusercontent.com/Kelly359/klinko-research-data/main/roles/e2ca48572a3d5895.md) — 1
